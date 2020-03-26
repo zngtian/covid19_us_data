@@ -2,3 +2,32 @@ This repository maintains the dataset of the COVID-19 in
 U.S. counties. The original database is "the 2019 Novel Coronavirus
 COVID-19 (2019-nCoV) Data Repository" by Johns Hopkins CSSE
 (https://github.com/CSSEGISandData/COVID-19). 
+
+Each daily update is saved in a csv file named
+"uscases_YYYY-MM-DD". The file =20200320_pa_closing_naics.csv=
+contains the list of industries that are classified as either
+life-sustaining or not, according the Governor Wolf's order on March
+19, 2020. 
+
+A sample code to read all daily data is given below.
+#+begin_src R
+read_uscases_alltime <- function(start_date, end_date) {
+    ## start_data and end_date are characters in the form of YYYY-MM-DD.
+    ## This function requires the R packages of lubridate and tidyverse.
+
+    d1 <- ymd(start_date)
+    d2 <- ymd(end_date)
+
+    d <- d1
+    fnames <- vector(mode = "character")
+    while (d <= d2) {
+        f <- str_c("uscases_", d, ".csv")
+        fnames <- c(fnames, f)
+        d <- d + 1
+    }
+
+    fpaths <- map_chr(fnames, ~ file.path(.))
+
+    dat <- map_dfr(fpaths, ~ read_csv(.))
+}
+#+end_src
