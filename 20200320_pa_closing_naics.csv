@@ -1,0 +1,292 @@
+naics,descrip,operating,fips,emp,totemp,share.emp
+1131,Timber Tract Operations,No,42000,63,5306896,0.001187134626342781
+1132,Forest Nurseries and Local Gathering of Forest Products,No,42000,86,5306896,0.001620532981991733
+1133,Logging,No,42000,695,5306896,0.013096167703305284
+1141,Fishing,Yes,42000,8,5306896,1.5074725413876587e-4
+1142,Hunting and Trapping,Yes,42000,19,5306896,3.5802472857956894e-4
+1151,Support Activities for Crop Production,Yes,42000,739,5306896,0.013925277601068497
+1152,Support Activities for Animal Production,Yes,42000,793,5306896,0.014942821566505166
+1153,Support Activities for Forestry,No,42000,95,5306896,0.0017901236428978446
+2111,Oil and Gas Extraction,Yes,42000,6134,5306896,0.11558545711089874
+2121,Coal Mining,No,42000,6310,5306896,0.11890189670195157
+2122,Metal Ore Mining,No,42000,172,5306896,0.003241065963983466
+2123,Nonmetallic Mineral Mining and Quarrying,No,42000,3769,5306896,0.07102080010612608
+2131,Support Activites for Mining,No,42000,16166,5306896,0.3046225138009111
+2361,Residential Building Construction,No,42000,26001,5306896,0.4899474193577564
+2362,Nonresidential Building Construction,No,42000,26053,5306896,0.49092727650965834
+2371,Utility Subsystem Construction,No,42000,23145,5306896,0.436130649630217
+2372,Land Subdivision,No,42000,606,5306896,0.011419104501011515
+2373,"Highway, Street, and Bridge Construction",No,42000,12266,5306896,0.23113322740826275
+2379,Other Heavy and Civil Engineering Construction,No,42000,1175,5306896,0.022141002951631236
+2381,"Foundation, Structure, and Building Exterior Contractors",No,42000,27021,5306896,0.509167694260449
+2382,Building Equipment Contractors,No,42000,67723,5306896,1.276132036504955
+2383,Building Finishing Contractors,No,42000,20373,5306896,0.3838967260711346
+2389,Other Specialty Trade Contractors,No,42000,25656,5306896,0.4834464440230221
+3111,Animal Food Manufacturing,Yes,42000,3266,5306896,0.06154256650215117
+3112,Grain and Oilseed Milling,Yes,42000,1182,5306896,0.022272906799002658
+3113,Sugar and Confectionery Product Manufacturing,Yes,42000,9121,5306896,0.17187071312496044
+3114,"Fruit and Vegetable Preserving and Specialty Food
+Manufacturing",Yes,42000,5951,5306896,0.11213711367247445
+3115,Dairy Product Manufacturing,Yes,42000,6869,5306896,0.12943536108489784
+3116,Animal Slaughtering and Processing,Yes,42000,15740,5306896,0.29659522251802184
+3117,Seafood Product Preparation and Packaging,Yes,42000,36,5306896,6.783626436244464e-4
+3118,Bakeries and Tortilla Manufacturing,Yes,42000,15010,5306896,0.28283953557785946
+3119,Other Food Manufacturing,Yes,42000,10593,5306896,0.19960820788649333
+3121,Beverage Manufacturing,Yes,42000,7991,5306896,0.15057766347785975
+3122,Tobacco Manufacturing,No,42000,733,5306896,0.013812217160464423
+3131,"Fiber, Yarn, and Thread Mills",No,42000,425,5306896,0.008008447876121936
+3132,Fabric Mills,No,42000,3406,5306896,0.06418064344957956
+3133,Textile and Fabric Finishing and Fabric Coating Mills,No,42000,434,5306896,0.008178038537028047
+3141,Textile Furnishing Mills,No,42000,1885,5306896,0.03551982175644671
+3149,Other Textile Product Mills,No,42000,1888,5306896,0.035576351976748743
+3151,Apparel Knitting Mills,No,42000,73,5306896,0.0013755686940162385
+3152,Cut and Sew Apparel Manufacturing,No,42000,3141,5306896,0.05918714065623295
+3159,Apparel Accessories and Other Apparel Manufacturing,No,42000,164,5306896,0.0030903187098447003
+3161,Leather and Hide Tanning and Finishing,No,42000,111,5306896,0.002091618151175376
+3162,Footwear Manufacturing,No,42000,547,5306896,0.010307343501738116
+3169,Other Leather and Allied Product Manufacturing,No,42000,261,5306896,0.004918129166277236
+3211,Sawmills and Wood Preservation,No,42000,4296,5306896,0.08095127547251726
+3212,"Veneer, Plywood, and Engineered Wood Product Manufacturing",No,42000,2007,5306896,0.03781871738206288
+3219,Other Wood Product Manufacturing,No,42000,13454,5306896,0.2535191946478695
+3221,"Pulp, Paper, and Paperboard Mills",Yes,42000,5625,5306896,0.10599416306631974
+3222,Converted Paper Product Manufacturing,Yes,42000,17125,5306896,0.3226933408907957
+3231,Printing & Related Support Activities,No,42000,27908,5306896,0.5258817960630847
+3241,Petroleum & Coal Products Manufacturing,Yes,42000,5586,5306896,0.10525927020239327
+3251,Basic Chemical Manufacturing,Yes,42000,4631,5306896,0.08726381673957809
+3252,"Resin, Synthetic Rubber, and Artificial Synthetic Fibers and Filaments Manufacturing",Yes,42000,3242,5306896,0.06109032473973487
+3253,"Pesticide, Fertilizer, and Other Agricultural Chemical Manufacturing",Yes,42000,603,5306896,0.011362574280709477
+3254,Pharmaceutical and Medicine Manufacturing,Yes,42000,12886,5306896,0.2428161396040171
+3255,"Paint, Coating, and Adhesive Manufacturing",No,42000,3311,5306896,0.06239051980668172
+3256,"Soap, Cleaning Compound, and Toilet Preparation
+Manufacturing",Yes,42000,4898,5306896,0.0922950063464594
+3259,Other Chemical Product and Preparation Manufacturing,Yes,42000,3342,5306896,0.06297466541646944
+3261,Plastics Product Manufacturing,Yes,42000,31963,5306896,0.6022918105046716
+3262,Rubber Product Manufacturing,Yes,42000,4520,5306896,0.08517219858840272
+3271,Clay Product and Refractory Manufacturing,No,42000,3000,5306896,0.05653022030203719
+3272,Glass and Glass Product Manufacturing,No,42000,5705,5306896,0.10750163560770741
+3273,Cement and Concrete Product Manufacturing,Yes,42000,7490,5306896,0.14113711668741954
+3274,Lime and Gypsum Product Manufacturing,No,42000,564,5306896,0.010627681416782993
+3279,Other Nonmetallic Mineral Product Manufacturing,No,42000,3335,5306896,0.06284276156909802
+3311,Iron and Steel Mills and Ferroalloy Manufacturing,Yes,42000,17145,5306896,0.3230702090261426
+3312,Steel Product Manufacturing from Purchased Steel,Yes,42000,4000,5306896,0.07537362706938293
+3313,Alumina and Aluminum Production and Processing,Yes,42000,3115,5306896,0.05869721208028196
+3314,Nonferrous Metal (except Aluminum) Production and Processing,No,42000,5881,5306896,0.11081807519876025
+3315,Foundries,No,42000,8086,5306896,0.1523677871207576
+3321,Foring and Stamping,No,42000,11799,5306896,0.22233335644791227
+3322,Cutlery and Handtool Manufacturing,No,42000,2462,5306896,0.04639246746120519
+3324,"Boiler, Tank, and Shipping Container Manufacturing",No,42000,4789,5306896,0.09024107500881871
+3325,Hardware Manufacturing,No,42000,998,5306896,0.018805719953811043
+3326,Spring and Wire Product Manufacturing,No,42000,2843,5306896,0.05357180543956391
+3327,"Machine Shops, Turned Product, and Screw, Nut, and Bolt Manufacturing",No,42000,21099,5306896,0.39757703938422767
+3328,"Coating, Engraving, Heat Turning, and Allied Activities",No,42000,5532,5306896,0.10424172623695659
+3329,Other Fabricated Metal Product Manufacturing,No,42000,12270,5306896,0.23120860103533217
+3331,"Agriculture, Construction, and Mining Machinery Manufacturing",Yes,42000,7711,5306896,0.14530150958300295
+3332,Industrial Machinery Manufacturing,No,42000,5346,5306896,0.10073685257823028
+3333,Commercial and Service Industry Machinery Manufacturing,Yes,42000,3590,5306896,0.06764783029477119
+3334,"Ventilation, Heating, Air-Conditioning, and Commercial Refrigeration Equipment Manufacturing",Yes,42000,5082,5306896,0.09576219319165102
+3335,Metalworking Machinery Manufacturing,No,42000,8212,5306896,0.15474205637344315
+3336,"Engine, Turbine, and Power Transmission Equipment Manufacturing",Yes,42000,2700,5306896,0.05087719827183348
+3339,Other General Purpose Machinery Manufacturing,No,42000,15093,5306896,0.2844035383395492
+3341,Computer and Peripheral Equipment Manufacturing,No,42000,1258,5306896,0.02370500571332093
+3342,Communications Equipment Manufacturing,No,42000,3951,5306896,0.07445030013778299
+3343,Audio and Video Equipment Manufacturing,No,42000,124,5306896,0.002336582439150871
+3344,Semiconductor and Other Electrical Component Manufacturing,Yes,42000,8888,5306896,0.16748019934816888
+3345,"Navigational, Measuring, Electromedical, and Control Instruments Manufacturing",Yes,42000,17057,5306896,0.3214119892306162
+3346,Manufacturing and Reproducing Magnetic and Optical Media,No,42000,392,5306896,0.007386615452799527
+3351,Electric Lighting Equipment Manufacturing,No,42000,2908,5306896,0.05479662687944139
+3352,Household Appliance Manufacturing,No,42000,715,5306896,0.0134730358386522
+3353,Electrical Equipment Manufacturing,No,42000,4924,5306896,0.09278493492241038
+3359,Other Electrical Equipment and Component Manufacturing,No,42000,15587,5306896,0.29371218128261795
+3361,Motor Vehicle Manufacturing,No,42000,2107,5306896,0.03970305805879746
+3362,Motor Vehicle Body and Trailer Manufacturing,No,42000,6248,5306896,0.11773360548237614
+3363,Motor Vehicle Parts Manufacturing,No,42000,8809,5306896,0.16599157021354857
+3364,Aerospace Product and Parts Manufacturing,No,42000,7434,5306896,0.14008188590844817
+3365,Railroad Rolling Stock Manufacturing,No,42000,6448,5306896,0.1215022868358453
+3366,Ship and Boat Building,No,42000,1404,5306896,0.026456143101353406
+3369,Other Transportation Equipment Manufacturing,No,42000,3203,5306896,0.06035543187580838
+3371,Household and Institutional Furniture and Kitchen Cabinet Manufacturing,No,42000,9150,5306896,0.17241717192121345
+3372,Office Furniture (including Fixtures) Manufacturing,No,42000,5348,5306896,0.10077453939176498
+3379,Other Furniture Related Product Manufacturing,No,42000,1316,5306896,0.024797923305826985
+3391,Medical Equipment and Supplies Manufacturing,Yes,42000,12179,5306896,0.22949385101950368
+3399,Other Miscellaneous Manufacturing,No,42000,10774,5306896,0.2030188645113829
+4231,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,Yes,42000,20504,5306896,0.3863652123576569
+4232,Furniture and Home Furnishing Merchant Wholesalers,No,42000,4663,5306896,0.08786680575613315
+4233,Lumber and Other Construction Materials Merchant Wholesalers,No,42000,9941,5306896,0.18732230667418392
+4234,Professional and Commercial Equipment and Supplies Merchant Wholesalers,Yes,42000,28468,5306896,0.5364341038527983
+4235,Metal and Mineral (except Petroleum) Merchant Wholesalers,Yes,42000,7148,5306896,0.1346926715729873
+4236,Electrical and Electronic Goods Merchant Wholesalers,Yes,42000,16335,5306896,0.30780704954459254
+4237,"Hardware, and Plumbing and Heating Equipment and Supplies Merchant Wholesalers",Yes,42000,9324,5306896,0.17569592469873163
+4238,"Machinery, Equipment, and Supplies Merchant Wholesalers",Yes,42000,33610,5306896,0.6333269014504901
+4239,Miscellaneous Durable Goods Merchant Wholesalers,Yes,42000,12088,5306896,0.2277791010036752
+4241,Paper and Product Merchant Whoelsalers,Yes,42000,6008,5306896,0.11321118785821316
+4242,Drugs and Druggists' Sundries Merchant Wholesalers,Yes,42000,19947,5306896,0.3758694347882453
+4243,"Apparel, Piece Goods, and Notions Merchant Wholesalers",No,42000,4572,5306896,0.0861520557403047
+4244,Grocery and Related Product Wholesalers,Yes,42000,36195,5306896,0.6820371079440788
+4245,Farm Product Raw Material Merchant Wholesalers,Yes,42000,458,5306896,0.008630280299444345
+4246,Chemical and Allied Products Merchant Wholesalers,Yes,42000,7914,5306896,0.14912672115677414
+4247,Petroleum and Petroleum Products Merchant Wholesalers,Yes,42000,3147,5306896,0.05930020109683702
+4248,"Beer, Wine, and Distilled Alcoholic Beverage Merchant Wholesalers",Yes,42000,3787,5306896,0.0713599814279383
+4249,Miscellaneous Nondurable Goods Merchant Wholesalers,No,42000,12996,5306896,0.24488891434842514
+4251,Wholesale Electronic Markets and Agents & Brokers,No,42000,11906,5306896,0.22434960097201828
+4411,Automobile Dealers,No,42000,56947,5306896,1.0730754851800373
+4412,Other Motor Vehicle Dealers,No,42000,4085,5306896,0.07697531664460731
+4413,"Automotive Parts, Accessories, and Tire Stores",Yes,42000,19202,5306896,0.36183109674657277
+4421,Furniture Stores,No,42000,7120,5306896,0.13416505618350164
+4422,Home Furnishings Stores,No,42000,8812,5306896,0.1660481004338506
+4431,Electronics & Appliance Stores,No,42000,14415,5306896,0.27162770855128876
+4441,Building Material and Supplies Dealers,Yes,42000,45008,5306896,0.8481040517846967
+4442,Lawn and Garden Equipment and Supplies Stores,No,42000,6280,5306896,0.1183365944989312
+4451,Grocery Stores,Yes,42000,135444,5306896,2.5522263861963754
+4452,Specialty Food Stores,No,42000,8146,5306896,0.15349839152679834
+4453,"Beer, Wine, and Liquor Stores (Beer Distributors to Remain Open)",Yes,42000,9134,5306896,0.17211567741293593
+4461,Health & Personal Care Stores,No,42000,46693,5306896,0.8798551921876743
+4471,Gasoline Stations,Yes,42000,41175,5306896,0.7758772736454606
+4481,Clothing Stores,No,42000,48472,5306896,0.9133776128267823
+4482,Shoe Stores,No,42000,9071,5306896,0.17092854278659314
+4483,"Jewelry, Luggage, and Leather Goods Stores",No,42000,5275,5306896,0.09939897069774874
+4511,"Sporting Goods, Hobby, and Musical Instrument Stores",No,42000,18996,5306896,0.3579493549524995
+4512,"Book, Periodical, and Music Stores",No,42000,4434,5306896,0.08355166560641099
+4521,Department Stores,No,42000,51258,5306896,0.9658753440806076
+4529,Other General Merchandise Stores,Yes,42000,59118,5306896,1.113984521271945
+4531,Florists,No,42000,3337,5306896,0.06288044838263271
+4532,"Office Supplies, Stationery, and Gift Stores",No,42000,10086,5306896,0.19005460065544905
+4533,Used Merchandise Stores,No,42000,7636,5306896,0.14388825407545203
+4539,Other Miscellaneous Store Retailers,No,42000,12130,5306896,0.22857052408790374
+4541,Electronic Shopping and Mail-Order Houses,Yes,42000,21048,5306896,0.396616025639093
+4542,Vending Machine Operators,No,42000,2014,5306896,0.03795062122943431
+4543,Direct Selling Establishments,No,42000,9562,5306896,0.18018065550935988
+4811,Scheduled Air Transportation,Yes,42000,11888,5306896,0.22401041965020607
+4812,Nonscheduled Air Transportation,Yes,42000,650,5306896,0.012248214398774727
+4831,"Deep Sea, Coastal, and Great Lakes Water Transportation",Yes,42000,196,5306896,0.0036933077263997635
+4832,Inland Water Transportation,Yes,42000,675,5306896,0.01271929956795837
+4841,General Freight Trucking,Yes,42000,42905,5306896,0.8084763673529687
+4842,Specialized Freight Trucking,Yes,42000,21621,5306896,0.4074132977167821
+4851,Urban Transit Systems,Yes,42000,772,5306896,0.014547110024390906
+4852,Interurban and Rural Bus Transportation,Yes,42000,722,5306896,0.01360493968602362
+4853,Taxi and Limousine Service,Yes,42000,2330,5306896,0.043905137767915554
+4854,School and Employee Bus Transportation,Yes,42000,25373,5306896,0.47811375990786326
+4855,Charter Bus Industry,No,42000,2392,5306896,0.04507342898749099
+4859,Other Transit and Ground Passenger Transportation,Yes,42000,4259,5306896,0.08025406942212547
+4861,Pipeline Transportation of Crude Oail,Yes,42000,13,5306896,2.4496428797549455e-4
+4862,Pipeline Transportation of Natural Gas,Yes,42000,1335,5306896,0.02515594803440655
+4869,Other Pipeline Transportation,Yes,42000,514,5306896,0.009685511078415707
+4871,"Scenic and Sightseeing Transportation, Land",No,42000,403,5306896,0.007593892927240331
+4872,"Scenic and Sightseeing Transportation, Water",No,42000,143,5306896,0.0026946071677304397
+4879,"Scenic and Sightseeing Transportation, Other",No,42000,27,5306896,5.087719827183348e-4
+4881,Support Activities for Air Transportation,Yes,42000,2907,5306896,0.05477778347267405
+4882,Support Activities for Rail Transportation,Yes,42000,2107,5306896,0.03970305805879746
+4883,Support Activities for Water Transportation,Yes,42000,1753,5306896,0.03303249206315707
+4884,Support Activites for Road Transportation,Yes,42000,3629,5306896,0.06838272315869766
+4885,Freight Transportation Arrangement,Yes,42000,8075,5306896,0.15216050964631678
+4889,Other Support Activities for Transportation,Yes,42000,648,5306896,0.012210527585240034
+4921,Couriers,Yes,42000,24401,5306896,0.4597979685300032
+4922,Local Messengers and Local Delivery,Yes,42000,938,5306896,0.0176751155477703
+4931,Warehousing and Storage,Yes,42000,58011,5306896,1.0931248699804934
+2211,"Electric Power Generation, Transmission, and Distribution",Yes,42000,21108,5306896,0.3977466300451337
+2212,Natural Gas Distribution,Yes,42000,4529,5306896,0.08534178924930882
+2213,"Water, Sewage and Other Systems",Yes,42000,3120,5306896,0.05879142911411868
+5111,"Newspaper, Periodical, Book, and Directory Publishers",Yes,42000,18802,5306896,0.3542937340396345
+5112,Software Publishers,No,42000,17695,5306896,0.3334340827481827
+5121,Motion Picture and Video Industries,No,42000,5715,5306896,0.10769006967538088
+5122,Sound Recording Industries,No,42000,168,5306896,0.003165692336914083
+5151,Radio and Television Broadcasting,Yes,42000,7686,5306896,0.1448304244138193
+5152,Cable and Other Subscription Programming,Yes,42000,809,5306896,0.015244316074782698
+5171,Wired Telecommunications Carriers,Yes,42000,30006,5306896,0.565415263460976
+5172,Wireless Telecommunications Carriers (except Satellite),Yes,42000,6793,5306896,0.12800326217057956
+517911,Telecommunications Resellers,No,42000,345,5306896,0.006500975334734278
+5174,Satellite Telecommunications,Yes,42000,49,5306896,9.233269315999409e-4
+5179,Other Telecommunications,Yes,42000,1020,5306896,0.019220274902692645
+5182,"Data Processing, Hosting, and Related Services",Yes,42000,16727,5306896,0.3151936649973921
+5191,Other Information Services,Yes,42000,8229,5306896,0.15506239428848803
+5211,Monetary Authorities - Central Bank,Yes,42000,898,5306896,0.016921379277076466
+5221,Depository Credit Intermediation,Yes,42000,74239,5306896,1.39891567500098
+5222,Nondepository Credit Intermediation,Yes,42000,11332,5306896,0.21353348548756182
+5223,Activities Related to Credit Intermediation,Yes,42000,3175,5306896,0.05982781648632271
+5231,Securities and Commodity Contracts Intermediation and Brokerage,No,42000,11003,5306896,0.20733400466110508
+5239,Other Financial Investment Activities,No,42000,41135,5306896,0.7751235373747667
+5241,Insurance Carriers,No,42000,82173,5306896,1.548419264293101
+5242,"Agencies, Brokerages, and Other Insurance Related Activities",No,42000,42666,5306896,0.803972793135573
+5259,Other Investment Pools and Funds,No,42000,83,5306896,0.0015640027616896958
+5311,Lessors of Real Estate,No,42000,16607,5306896,0.31293245618531057
+5312,Offices of Real Estate Agents and Brokers,No,42000,7811,5306896,0.14718585025973752
+5313,Activities Related to Real Estate,No,42000,18718,5306896,0.3527108878711774
+5321,Automotive Equipment Rental and Leasing,Yes,42000,9088,5306896,0.17124888070163802
+5322,Consumer Goods Rental,Yes,42000,5563,5306896,0.10482587184674431
+5323,General Rental Centers,Yes,42000,895,5306896,0.01686484905677443
+5324,Commercial and Industrial Machinery and Equipment Rental and Leasing,Yes,42000,5664,5306896,0.10672905593024623
+5331,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),No,42000,898,5306896,0.016921379277076466
+5411,Legal Services,No,42000,50239,5306896,0.9466739125846823
+5412,"Accounting, Tax Preparation, Bookkeeping, and Payroll Services",No,42000,51006,5306896,0.9611268055752363
+5413,"Architectural, Engineering, and Related Services",No,42000,60566,5306896,1.1412697742710616
+5414,Specialized Design Services,No,42000,3169,5306896,0.05971475604571863
+5415,Computer Systems Design and Related Services,No,42000,52004,5306896,0.9799325255290475
+5416,"Management, Scientific, and Technical Consulting Services",No,42000,40812,5306896,0.7690371169889141
+5417,Scientific Research and Development Services,Yes,42000,28222,5306896,0.5317986257880313
+5418,Advertising and Related Services,No,42000,15581,5306896,0.29359912084201384
+5419,"Other Professional, Scientific, and Technical Services",Yes,42000,22227,5306896,0.4188324022177936
+5511,Management of Companies and Enterprises,No,42000,171739,5306896,3.2361478348171886
+5611,Office Administrative Services,No,42000,12854,5306896,0.24221315058746204
+5612,Facilities Support Services,Yes,42000,17723,5306896,0.3339616981376684
+5613,Employment Services,No,42000,136721,5306896,2.576289416638276
+5614,Business Support Services,No,42000,25745,5306896,0.4851235072253159
+5615,Travel Arrangement and Reservation Services,No,42000,7510,5306896,0.14151398482276645
+5616,Investigation and Security Services,Yes,42000,34700,5306896,0.6538662148268969
+5617,Services to Building and Dwellings,Yes,42000,65013,5306896,1.2250664041654482
+5619,Other Support Services,No,42000,13535,5306896,0.2550455105960245
+5621,Waste Collection,Yes,42000,9428,5306896,0.17765563900253556
+5622,Waste Treatment and Disposal,Yes,42000,2816,5306896,0.053063033456845585
+5629,Remediation and Other Waste Management Services,Yes,42000,6119,5306896,0.11530280600938854
+6111,Elementary and Secondary Schools,No,42000,52080,5306896,0.9813646244433658
+6112,Junior Colleges,No,42000,5220,5306896,0.09836258332554472
+6113,"Colleges, Universities, and Professional Schools",No,42000,182468,5306896,3.438318746024041
+6114,Business Schools and Computer and Management Training,No,42000,2635,5306896,0.049652376831956
+6115,Technical and Trade Schools,No,42000,4368,5306896,0.08230800075976616
+6116,Other Schools and Instruction,No,42000,11954,5306896,0.22525408449685086
+6117,Education Support Services,No,42000,4752,5306896,0.08954386895842693
+6211,Offices of Physicians,Yes,42000,123301,5306896,2.323410897820496
+6212,Offices of Dentists,Yes,42000,35039,5306896,0.6602541297210271
+6213,Offices of Other Health Practitioners,Yes,42000,41012,5306896,0.7728057983423832
+6214,Outpatient Care Centers,Yes,42000,45382,5306896,0.8551514859156841
+6215,Medical and Diagnostic Laboratories,Yes,42000,12503,5306896,0.2355991148121237
+6216,Home Health Care Services,Yes,42000,56059,5306896,1.0563425399706343
+6219,Other Ambulatory Health Care Services,Yes,42000,21559,5306896,0.40624500649720663
+6221,General Medical and Surgical Hospitals,Yes,42000,243675,5306896,4.5916671440329715
+6222,Psychiatric and Substance Abuse Hospitals,Yes,42000,13592,5306896,0.2561195847817632
+6223,Specialty (except Psychiatric and Substance Abuse) Hospitals,Yes,42000,16692,5306896,0.31453414576053496
+6231,Nursing Care Facilities,Yes,42000,74371,5306896,1.4014030046942694
+6232,"Residential Mental Retardation, Mental Health and Substance Abuse Facilities",Yes,42000,60364,5306896,1.1374634061040578
+6233,Community Care Facilities for the Elderly,Yes,42000,74014,5306896,1.3946759084783271
+6239,Other Residential Care Facilities,Yes,42000,6711,5306896,0.12645810281565723
+6241,Individual and Family Services,Yes,42000,94365,5306896,1.77815807960058
+6242,"Community Food and Housing, and Emergency and Other Relief Services",Yes,42000,6939,5306896,0.13075439955861204
+6243,Vocational Rehabilitation Services,Yes,42000,17433,5306896,0.32849711017513816
+6244,Child Day Care Services,No,42000,42232,5306896,0.795794754598545
+7111,Performing Arts Companies,No,42000,4300,5306896,0.08102664909958665
+7112,Spectator Sports,No,42000,9840,5306896,0.18541912259068202
+7113,"Promoters of Performing Arts, Sports, and Similar Events",No,42000,17652,5306896,0.3326238162571869
+7114,"Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures",No,42000,156,5306896,0.0029395714557059346
+7115,"Independent Artists, Writers, and Performers",No,42000,1082,5306896,0.020388566122268085
+7121,"Museums, Historical Sites, and Similar Institutions",No,42000,7038,5306896,0.13261989682857928
+7131,Amusement Parks and Arcades,No,42000,5337,5306896,0.10056726191732418
+7132,Gambling Industries,No,42000,5579,5306896,0.10512736635502185
+7139,Other Amusement and Recreation Industries,No,42000,54283,5306896,1.0228766495518284
+7211,Traveler Accommodation,No,42000,51866,5306896,0.9773321353951538
+7212,RV (Recreational Vehicle) Parks and Recreational Camps,Yes,42000,1727,5306896,0.03254256348720608
+7213,Rooming and Boarding Houses,Yes,42000,375,5306896,0.007066277537754649
+722511,Full-Service Restaurants,Yes,42000,196108,5306896,3.695342814330637
+722513,Limited-Service Eating Places,Yes,42000,120676,5306896,2.2739469550562137
+7223,Special Food Services,No,42000,41017,5306896,0.7729000153762199
+7224,Drinking Places (Alcoholic Beverages),No,42000,16267,5306896,0.30652569788441303
+8111,Automotive Repair and Maintenance,Yes,42000,36031,5306896,0.6789467892342341
+8112,Electronic and Precision Equipment Repair and Maintenance,Yes,42000,5648,5306896,0.1064275614219687
+8113,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance,Yes,42000,9836,5306896,0.1853437489636126
+8114,Personal and Household Goods Repair and Maintenance,Yes,42000,1821,5306896,0.034313843723336575
+8121,Personal Care Services,No,42000,38093,5306896,0.7178018939885009
+8122,Death Care Services,Yes,42000,7543,5306896,0.14213581724608887
+8123,Drycleaning and Laundry Services,No,42000,9856,5306896,0.18572061709895954
+8129,Other Personal Services,No,42000,10551,5306896,0.1988167848022648
+8131,Religious Organizations,Yes,42000,73370,5306896,1.3825407545201565
+8132,Grantmaking and Giving Services,Yes,42000,6292,5306896,0.11856271538013936
+8133,Social Advocacy Organizations,Yes,42000,5657,5306896,0.10659715208287482
+8134,Civic and Social Organizations,Yes,42000,17509,5306896,0.32992920908945644
+8139,"Business, Professional, Labor, Political, and Similar Organizations",No,42000,20507,5306896,0.38642174257795897

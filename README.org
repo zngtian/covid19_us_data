@@ -1,0 +1,4 @@
+This repository maintains the dataset of the COVID-19 in
+U.S. counties. The original database is "the 2019 Novel Coronavirus
+COVID-19 (2019-nCoV) Data Repository" by Johns Hopkins CSSE
+(https://github.com/CSSEGISandData/COVID-19). 
