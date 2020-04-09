@@ -1,0 +1,3215 @@
+fips,rucc,cty.type,cty.adj,state_fips,state.abb,reg
+01001,2,metro,metro,01,AL,South
+01003,3,metro,metro,01,AL,South
+01005,6,rural,nonmetro_adj,01,AL,South
+01007,1,metro,metro,01,AL,South
+01009,1,metro,metro,01,AL,South
+01011,6,rural,nonmetro_adj,01,AL,South
+01013,6,rural,nonmetro_adj,01,AL,South
+01015,3,metro,metro,01,AL,South
+01017,6,rural,nonmetro_adj,01,AL,South
+01019,6,rural,nonmetro_adj,01,AL,South
+01021,1,metro,metro,01,AL,South
+01023,9,rural,nonmetro_noadj,01,AL,South
+01025,7,rural,nonmetro_noadj,01,AL,South
+01027,9,rural,nonmetro_noadj,01,AL,South
+01029,8,rural,nonmetro_adj,01,AL,South
+01031,4,rural,nonmetro_adj,01,AL,South
+01033,3,metro,metro,01,AL,South
+01035,7,rural,nonmetro_noadj,01,AL,South
+01037,8,rural,nonmetro_adj,01,AL,South
+01039,6,rural,nonmetro_adj,01,AL,South
+01041,8,rural,nonmetro_adj,01,AL,South
+01043,4,rural,nonmetro_adj,01,AL,South
+01045,4,rural,nonmetro_adj,01,AL,South
+01047,4,rural,nonmetro_adj,01,AL,South
+01049,6,rural,nonmetro_adj,01,AL,South
+01051,2,metro,metro,01,AL,South
+01053,6,rural,nonmetro_adj,01,AL,South
+01055,3,metro,metro,01,AL,South
+01057,6,rural,nonmetro_adj,01,AL,South
+01059,6,rural,nonmetro_adj,01,AL,South
+01061,3,metro,metro,01,AL,South
+01063,8,rural,nonmetro_adj,01,AL,South
+01065,3,metro,metro,01,AL,South
+01067,3,metro,metro,01,AL,South
+01069,3,metro,metro,01,AL,South
+01071,6,rural,nonmetro_adj,01,AL,South
+01073,1,metro,metro,01,AL,South
+01075,8,rural,nonmetro_adj,01,AL,South
+01077,3,metro,metro,01,AL,South
+01079,3,metro,metro,01,AL,South
+01081,3,metro,metro,01,AL,South
+01083,2,metro,metro,01,AL,South
+01085,2,metro,metro,01,AL,South
+01087,6,rural,nonmetro_adj,01,AL,South
+01089,2,metro,metro,01,AL,South
+01091,7,rural,nonmetro_noadj,01,AL,South
+01093,7,rural,nonmetro_noadj,01,AL,South
+01095,4,rural,nonmetro_adj,01,AL,South
+01097,2,metro,metro,01,AL,South
+01099,7,rural,nonmetro_noadj,01,AL,South
+01101,2,metro,metro,01,AL,South
+01103,3,metro,metro,01,AL,South
+01105,8,rural,nonmetro_adj,01,AL,South
+01107,3,metro,metro,01,AL,South
+01109,6,rural,nonmetro_adj,01,AL,South
+01111,6,rural,nonmetro_adj,01,AL,South
+01113,2,metro,metro,01,AL,South
+01115,1,metro,metro,01,AL,South
+01117,1,metro,metro,01,AL,South
+01119,8,rural,nonmetro_adj,01,AL,South
+01121,4,rural,nonmetro_adj,01,AL,South
+01123,6,rural,nonmetro_adj,01,AL,South
+01125,3,metro,metro,01,AL,South
+01127,1,metro,metro,01,AL,South
+01129,8,rural,nonmetro_adj,01,AL,South
+01131,9,rural,nonmetro_noadj,01,AL,South
+01133,6,rural,nonmetro_adj,01,AL,South
+02013,9,rural,nonmetro_noadj,02,AK,West
+02016,9,rural,nonmetro_noadj,02,AK,West
+02020,2,metro,metro,02,AK,West
+02050,7,rural,nonmetro_noadj,02,AK,West
+02060,9,rural,nonmetro_noadj,02,AK,West
+02068,8,rural,nonmetro_adj,02,AK,West
+02070,9,rural,nonmetro_noadj,02,AK,West
+02090,3,metro,metro,02,AK,West
+02100,9,rural,nonmetro_noadj,02,AK,West
+02105,9,rural,nonmetro_noadj,02,AK,West
+02110,5,rural,nonmetro_noadj,02,AK,West
+02122,7,rural,nonmetro_noadj,02,AK,West
+02130,7,rural,nonmetro_noadj,02,AK,West
+02150,7,rural,nonmetro_noadj,02,AK,West
+02164,9,rural,nonmetro_noadj,02,AK,West
+02170,2,metro,metro,02,AK,West
+02180,7,rural,nonmetro_noadj,02,AK,West
+02185,7,rural,nonmetro_noadj,02,AK,West
+02188,7,rural,nonmetro_noadj,02,AK,West
+02195,9,rural,nonmetro_noadj,02,AK,West
+02198,9,rural,nonmetro_noadj,02,AK,West
+02220,7,rural,nonmetro_noadj,02,AK,West
+02230,9,rural,nonmetro_noadj,02,AK,West
+02240,9,rural,nonmetro_noadj,02,AK,West
+02261,9,rural,nonmetro_noadj,02,AK,West
+02270,9,rural,nonmetro_noadj,02,AK,West
+02275,9,rural,nonmetro_noadj,02,AK,West
+02282,9,rural,nonmetro_noadj,02,AK,West
+02290,9,rural,nonmetro_noadj,02,AK,West
+04001,6,rural,nonmetro_adj,04,AZ,West
+04003,3,metro,metro,04,AZ,West
+04005,3,metro,metro,04,AZ,West
+04007,4,rural,nonmetro_adj,04,AZ,West
+04009,7,rural,nonmetro_noadj,04,AZ,West
+04011,7,rural,nonmetro_noadj,04,AZ,West
+04012,6,rural,nonmetro_adj,04,AZ,West
+04013,1,metro,metro,04,AZ,West
+04015,3,metro,metro,04,AZ,West
+04017,4,rural,nonmetro_adj,04,AZ,West
+04019,2,metro,metro,04,AZ,West
+04021,1,metro,metro,04,AZ,West
+04023,4,rural,nonmetro_adj,04,AZ,West
+04025,3,metro,metro,04,AZ,West
+04027,3,metro,metro,04,AZ,West
+05001,6,rural,nonmetro_adj,05,AR,South
+05003,7,rural,nonmetro_noadj,05,AR,South
+05005,7,rural,nonmetro_noadj,05,AR,South
+05007,2,metro,metro,05,AR,South
+05009,7,rural,nonmetro_noadj,05,AR,South
+05011,7,rural,nonmetro_noadj,05,AR,South
+05013,9,rural,nonmetro_noadj,05,AR,South
+05015,6,rural,nonmetro_adj,05,AR,South
+05017,7,rural,nonmetro_noadj,05,AR,South
+05019,7,rural,nonmetro_noadj,05,AR,South
+05021,7,rural,nonmetro_noadj,05,AR,South
+05023,6,rural,nonmetro_adj,05,AR,South
+05025,3,metro,metro,05,AR,South
+05027,7,rural,nonmetro_noadj,05,AR,South
+05029,6,rural,nonmetro_adj,05,AR,South
+05031,3,metro,metro,05,AR,South
+05033,2,metro,metro,05,AR,South
+05035,1,metro,metro,05,AR,South
+05037,6,rural,nonmetro_adj,05,AR,South
+05039,6,rural,nonmetro_adj,05,AR,South
+05041,6,rural,nonmetro_adj,05,AR,South
+05043,6,rural,nonmetro_adj,05,AR,South
+05045,2,metro,metro,05,AR,South
+05047,6,rural,nonmetro_adj,05,AR,South
+05049,9,rural,nonmetro_noadj,05,AR,South
+05051,3,metro,metro,05,AR,South
+05053,2,metro,metro,05,AR,South
+05055,4,rural,nonmetro_adj,05,AR,South
+05057,6,rural,nonmetro_adj,05,AR,South
+05059,6,rural,nonmetro_adj,05,AR,South
+05061,6,rural,nonmetro_adj,05,AR,South
+05063,7,rural,nonmetro_noadj,05,AR,South
+05065,9,rural,nonmetro_noadj,05,AR,South
+05067,6,rural,nonmetro_adj,05,AR,South
+05069,3,metro,metro,05,AR,South
+05071,7,rural,nonmetro_noadj,05,AR,South
+05073,8,rural,nonmetro_adj,05,AR,South
+05075,6,rural,nonmetro_adj,05,AR,South
+05077,7,rural,nonmetro_noadj,05,AR,South
+05079,3,metro,metro,05,AR,South
+05081,3,metro,metro,05,AR,South
+05083,6,rural,nonmetro_adj,05,AR,South
+05085,2,metro,metro,05,AR,South
+05087,2,metro,metro,05,AR,South
+05089,9,rural,nonmetro_noadj,05,AR,South
+05091,3,metro,metro,05,AR,South
+05093,4,rural,nonmetro_adj,05,AR,South
+05095,7,rural,nonmetro_noadj,05,AR,South
+05097,8,rural,nonmetro_adj,05,AR,South
+05099,7,rural,nonmetro_noadj,05,AR,South
+05101,9,rural,nonmetro_noadj,05,AR,South
+05103,7,rural,nonmetro_noadj,05,AR,South
+05105,2,metro,metro,05,AR,South
+05107,6,rural,nonmetro_adj,05,AR,South
+05109,9,rural,nonmetro_noadj,05,AR,South
+05111,3,metro,metro,05,AR,South
+05113,7,rural,nonmetro_noadj,05,AR,South
+05115,5,rural,nonmetro_noadj,05,AR,South
+05117,8,rural,nonmetro_adj,05,AR,South
+05119,2,metro,metro,05,AR,South
+05121,7,rural,nonmetro_noadj,05,AR,South
+05123,6,rural,nonmetro_adj,05,AR,South
+05125,2,metro,metro,05,AR,South
+05127,6,rural,nonmetro_adj,05,AR,South
+05129,9,rural,nonmetro_noadj,05,AR,South
+05131,2,metro,metro,05,AR,South
+05133,6,rural,nonmetro_adj,05,AR,South
+05135,7,rural,nonmetro_noadj,05,AR,South
+05137,9,rural,nonmetro_noadj,05,AR,South
+05139,7,rural,nonmetro_noadj,05,AR,South
+05141,8,rural,nonmetro_adj,05,AR,South
+05143,2,metro,metro,05,AR,South
+05145,4,rural,nonmetro_adj,05,AR,South
+05147,9,rural,nonmetro_noadj,05,AR,South
+05149,6,rural,nonmetro_adj,05,AR,South
+06001,1,metro,metro,06,CA,West
+06003,8,rural,nonmetro_adj,06,CA,West
+06005,6,rural,nonmetro_adj,06,CA,West
+06007,3,metro,metro,06,CA,West
+06009,6,rural,nonmetro_adj,06,CA,West
+06011,6,rural,nonmetro_adj,06,CA,West
+06013,1,metro,metro,06,CA,West
+06015,7,rural,nonmetro_noadj,06,CA,West
+06017,1,metro,metro,06,CA,West
+06019,2,metro,metro,06,CA,West
+06021,6,rural,nonmetro_adj,06,CA,West
+06023,5,rural,nonmetro_noadj,06,CA,West
+06025,3,metro,metro,06,CA,West
+06027,7,rural,nonmetro_noadj,06,CA,West
+06029,2,metro,metro,06,CA,West
+06031,3,metro,metro,06,CA,West
+06033,4,rural,nonmetro_adj,06,CA,West
+06035,7,rural,nonmetro_noadj,06,CA,West
+06037,1,metro,metro,06,CA,West
+06039,3,metro,metro,06,CA,West
+06041,1,metro,metro,06,CA,West
+06043,8,rural,nonmetro_adj,06,CA,West
+06045,4,rural,nonmetro_adj,06,CA,West
+06047,2,metro,metro,06,CA,West
+06049,6,rural,nonmetro_adj,06,CA,West
+06051,7,rural,nonmetro_noadj,06,CA,West
+06053,2,metro,metro,06,CA,West
+06055,3,metro,metro,06,CA,West
+06057,4,rural,nonmetro_adj,06,CA,West
+06059,1,metro,metro,06,CA,West
+06061,1,metro,metro,06,CA,West
+06063,7,rural,nonmetro_noadj,06,CA,West
+06065,1,metro,metro,06,CA,West
+06067,1,metro,metro,06,CA,West
+06069,1,metro,metro,06,CA,West
+06071,1,metro,metro,06,CA,West
+06073,1,metro,metro,06,CA,West
+06075,1,metro,metro,06,CA,West
+06077,2,metro,metro,06,CA,West
+06079,2,metro,metro,06,CA,West
+06081,1,metro,metro,06,CA,West
+06083,2,metro,metro,06,CA,West
+06085,1,metro,metro,06,CA,West
+06087,2,metro,metro,06,CA,West
+06089,3,metro,metro,06,CA,West
+06091,8,rural,nonmetro_adj,06,CA,West
+06093,6,rural,nonmetro_adj,06,CA,West
+06095,2,metro,metro,06,CA,West
+06097,2,metro,metro,06,CA,West
+06099,2,metro,metro,06,CA,West
+06101,3,metro,metro,06,CA,West
+06103,4,rural,nonmetro_adj,06,CA,West
+06105,8,rural,nonmetro_adj,06,CA,West
+06107,2,metro,metro,06,CA,West
+06109,4,rural,nonmetro_adj,06,CA,West
+06111,2,metro,metro,06,CA,West
+06113,1,metro,metro,06,CA,West
+06115,3,metro,metro,06,CA,West
+08001,1,metro,metro,08,CO,West
+08003,7,rural,nonmetro_noadj,08,CO,West
+08005,1,metro,metro,08,CO,West
+08007,7,rural,nonmetro_noadj,08,CO,West
+08009,9,rural,nonmetro_noadj,08,CO,West
+08011,7,rural,nonmetro_noadj,08,CO,West
+08013,2,metro,metro,08,CO,West
+08014,1,metro,metro,08,CO,West
+08015,7,rural,nonmetro_noadj,08,CO,West
+08017,9,rural,nonmetro_noadj,08,CO,West
+08019,1,metro,metro,08,CO,West
+08021,9,rural,nonmetro_noadj,08,CO,West
+08023,9,rural,nonmetro_noadj,08,CO,West
+08025,8,rural,nonmetro_adj,08,CO,West
+08027,8,rural,nonmetro_adj,08,CO,West
+08029,6,rural,nonmetro_adj,08,CO,West
+08031,1,metro,metro,08,CO,West
+08033,9,rural,nonmetro_noadj,08,CO,West
+08035,1,metro,metro,08,CO,West
+08037,5,rural,nonmetro_noadj,08,CO,West
+08039,1,metro,metro,08,CO,West
+08041,2,metro,metro,08,CO,West
+08043,4,rural,nonmetro_adj,08,CO,West
+08045,5,rural,nonmetro_noadj,08,CO,West
+08047,1,metro,metro,08,CO,West
+08049,7,rural,nonmetro_noadj,08,CO,West
+08051,7,rural,nonmetro_noadj,08,CO,West
+08053,9,rural,nonmetro_noadj,08,CO,West
+08055,6,rural,nonmetro_adj,08,CO,West
+08057,9,rural,nonmetro_noadj,08,CO,West
+08059,1,metro,metro,08,CO,West
+08061,9,rural,nonmetro_noadj,08,CO,West
+08063,7,rural,nonmetro_noadj,08,CO,West
+08065,6,rural,nonmetro_adj,08,CO,West
+08067,4,rural,nonmetro_adj,08,CO,West
+08069,2,metro,metro,08,CO,West
+08071,7,rural,nonmetro_noadj,08,CO,West
+08073,8,rural,nonmetro_adj,08,CO,West
+08075,7,rural,nonmetro_noadj,08,CO,West
+08077,3,metro,metro,08,CO,West
+08079,9,rural,nonmetro_noadj,08,CO,West
+08081,7,rural,nonmetro_noadj,08,CO,West
+08083,6,rural,nonmetro_adj,08,CO,West
+08085,4,rural,nonmetro_adj,08,CO,West
+08087,6,rural,nonmetro_adj,08,CO,West
+08089,6,rural,nonmetro_adj,08,CO,West
+08091,9,rural,nonmetro_noadj,08,CO,West
+08093,1,metro,metro,08,CO,West
+08095,9,rural,nonmetro_noadj,08,CO,West
+08097,7,rural,nonmetro_noadj,08,CO,West
+08099,7,rural,nonmetro_noadj,08,CO,West
+08101,3,metro,metro,08,CO,West
+08103,9,rural,nonmetro_noadj,08,CO,West
+08105,7,rural,nonmetro_noadj,08,CO,West
+08107,7,rural,nonmetro_noadj,08,CO,West
+08109,9,rural,nonmetro_noadj,08,CO,West
+08111,9,rural,nonmetro_noadj,08,CO,West
+08113,9,rural,nonmetro_noadj,08,CO,West
+08115,9,rural,nonmetro_noadj,08,CO,West
+08117,5,rural,nonmetro_noadj,08,CO,West
+08119,2,metro,metro,08,CO,West
+08121,9,rural,nonmetro_noadj,08,CO,West
+08123,2,metro,metro,08,CO,West
+08125,7,rural,nonmetro_noadj,08,CO,West
+09001,2,metro,metro,09,CT,Northeast
+09003,1,metro,metro,09,CT,Northeast
+09005,4,rural,nonmetro_adj,09,CT,Northeast
+09007,1,metro,metro,09,CT,Northeast
+09009,2,metro,metro,09,CT,Northeast
+09011,2,metro,metro,09,CT,Northeast
+09013,1,metro,metro,09,CT,Northeast
+09015,2,metro,metro,09,CT,Northeast
+10001,3,metro,metro,10,DE,South
+10003,1,metro,metro,10,DE,South
+10005,2,metro,metro,10,DE,South
+11001,1,metro,metro,11,DC,South
+12001,2,metro,metro,12,FL,South
+12003,1,metro,metro,12,FL,South
+12005,3,metro,metro,12,FL,South
+12007,6,rural,nonmetro_adj,12,FL,South
+12009,2,metro,metro,12,FL,South
+12011,1,metro,metro,12,FL,South
+12013,6,rural,nonmetro_adj,12,FL,South
+12015,3,metro,metro,12,FL,South
+12017,3,metro,metro,12,FL,South
+12019,1,metro,metro,12,FL,South
+12021,2,metro,metro,12,FL,South
+12023,4,rural,nonmetro_adj,12,FL,South
+12027,6,rural,nonmetro_adj,12,FL,South
+12029,6,rural,nonmetro_adj,12,FL,South
+12031,1,metro,metro,12,FL,South
+12033,2,metro,metro,12,FL,South
+12035,2,metro,metro,12,FL,South
+12037,6,rural,nonmetro_adj,12,FL,South
+12039,2,metro,metro,12,FL,South
+12041,2,metro,metro,12,FL,South
+12043,6,rural,nonmetro_adj,12,FL,South
+12045,3,metro,metro,12,FL,South
+12047,6,rural,nonmetro_adj,12,FL,South
+12049,6,rural,nonmetro_adj,12,FL,South
+12051,4,rural,nonmetro_adj,12,FL,South
+12053,1,metro,metro,12,FL,South
+12055,3,metro,metro,12,FL,South
+12057,1,metro,metro,12,FL,South
+12059,6,rural,nonmetro_adj,12,FL,South
+12061,3,metro,metro,12,FL,South
+12063,6,rural,nonmetro_adj,12,FL,South
+12065,2,metro,metro,12,FL,South
+12067,9,rural,nonmetro_noadj,12,FL,South
+12069,1,metro,metro,12,FL,South
+12071,2,metro,metro,12,FL,South
+12073,2,metro,metro,12,FL,South
+12075,6,rural,nonmetro_adj,12,FL,South
+12077,8,rural,nonmetro_adj,12,FL,South
+12079,6,rural,nonmetro_adj,12,FL,South
+12081,2,metro,metro,12,FL,South
+12083,2,metro,metro,12,FL,South
+12085,2,metro,metro,12,FL,South
+12086,1,metro,metro,12,FL,South
+12087,4,rural,nonmetro_adj,12,FL,South
+12089,1,metro,metro,12,FL,South
+12091,3,metro,metro,12,FL,South
+12093,4,rural,nonmetro_adj,12,FL,South
+12095,1,metro,metro,12,FL,South
+12097,1,metro,metro,12,FL,South
+12099,1,metro,metro,12,FL,South
+12101,1,metro,metro,12,FL,South
+12103,1,metro,metro,12,FL,South
+12105,2,metro,metro,12,FL,South
+12107,4,rural,nonmetro_adj,12,FL,South
+12109,1,metro,metro,12,FL,South
+12111,2,metro,metro,12,FL,South
+12113,2,metro,metro,12,FL,South
+12115,2,metro,metro,12,FL,South
+12117,1,metro,metro,12,FL,South
+12119,3,metro,metro,12,FL,South
+12121,6,rural,nonmetro_adj,12,FL,South
+12123,6,rural,nonmetro_adj,12,FL,South
+12125,6,rural,nonmetro_adj,12,FL,South
+12127,2,metro,metro,12,FL,South
+12129,2,metro,metro,12,FL,South
+12131,3,metro,metro,12,FL,South
+12133,6,rural,nonmetro_adj,12,FL,South
+13001,7,rural,nonmetro_noadj,13,GA,South
+13003,9,rural,nonmetro_noadj,13,GA,South
+13005,7,rural,nonmetro_noadj,13,GA,South
+13007,3,metro,metro,13,GA,South
+13009,4,rural,nonmetro_adj,13,GA,South
+13011,8,rural,nonmetro_adj,13,GA,South
+13013,1,metro,metro,13,GA,South
+13015,1,metro,metro,13,GA,South
+13017,7,rural,nonmetro_noadj,13,GA,South
+13019,6,rural,nonmetro_adj,13,GA,South
+13021,3,metro,metro,13,GA,South
+13023,6,rural,nonmetro_adj,13,GA,South
+13025,3,metro,metro,13,GA,South
+13027,3,metro,metro,13,GA,South
+13029,2,metro,metro,13,GA,South
+13031,4,rural,nonmetro_adj,13,GA,South
+13033,2,metro,metro,13,GA,South
+13035,1,metro,metro,13,GA,South
+13037,8,rural,nonmetro_adj,13,GA,South
+13039,4,rural,nonmetro_adj,13,GA,South
+13043,7,rural,nonmetro_noadj,13,GA,South
+13045,1,metro,metro,13,GA,South
+13047,2,metro,metro,13,GA,South
+13049,6,rural,nonmetro_adj,13,GA,South
+13051,2,metro,metro,13,GA,South
+13053,2,metro,metro,13,GA,South
+13055,6,rural,nonmetro_adj,13,GA,South
+13057,1,metro,metro,13,GA,South
+13059,3,metro,metro,13,GA,South
+13061,9,rural,nonmetro_noadj,13,GA,South
+13063,1,metro,metro,13,GA,South
+13065,6,rural,nonmetro_adj,13,GA,South
+13067,1,metro,metro,13,GA,South
+13069,7,rural,nonmetro_noadj,13,GA,South
+13071,6,rural,nonmetro_adj,13,GA,South
+13073,2,metro,metro,13,GA,South
+13075,6,rural,nonmetro_adj,13,GA,South
+13077,1,metro,metro,13,GA,South
+13079,3,metro,metro,13,GA,South
+13081,6,rural,nonmetro_adj,13,GA,South
+13083,2,metro,metro,13,GA,South
+13085,1,metro,metro,13,GA,South
+13087,6,rural,nonmetro_adj,13,GA,South
+13089,1,metro,metro,13,GA,South
+13091,6,rural,nonmetro_adj,13,GA,South
+13093,6,rural,nonmetro_adj,13,GA,South
+13095,3,metro,metro,13,GA,South
+13097,1,metro,metro,13,GA,South
+13099,6,rural,nonmetro_adj,13,GA,South
+13101,3,metro,metro,13,GA,South
+13103,2,metro,metro,13,GA,South
+13105,6,rural,nonmetro_adj,13,GA,South
+13107,7,rural,nonmetro_noadj,13,GA,South
+13109,6,rural,nonmetro_adj,13,GA,South
+13111,8,rural,nonmetro_adj,13,GA,South
+13113,1,metro,metro,13,GA,South
+13115,3,metro,metro,13,GA,South
+13117,1,metro,metro,13,GA,South
+13119,8,rural,nonmetro_adj,13,GA,South
+13121,1,metro,metro,13,GA,South
+13123,6,rural,nonmetro_adj,13,GA,South
+13125,9,rural,nonmetro_noadj,13,GA,South
+13127,3,metro,metro,13,GA,South
+13129,4,rural,nonmetro_adj,13,GA,South
+13131,6,rural,nonmetro_adj,13,GA,South
+13133,6,rural,nonmetro_adj,13,GA,South
+13135,1,metro,metro,13,GA,South
+13137,6,rural,nonmetro_adj,13,GA,South
+13139,3,metro,metro,13,GA,South
+13141,7,rural,nonmetro_noadj,13,GA,South
+13143,1,metro,metro,13,GA,South
+13145,2,metro,metro,13,GA,South
+13147,6,rural,nonmetro_adj,13,GA,South
+13149,1,metro,metro,13,GA,South
+13151,1,metro,metro,13,GA,South
+13153,3,metro,metro,13,GA,South
+13155,7,rural,nonmetro_noadj,13,GA,South
+13157,4,rural,nonmetro_adj,13,GA,South
+13159,1,metro,metro,13,GA,South
+13161,7,rural,nonmetro_noadj,13,GA,South
+13163,6,rural,nonmetro_adj,13,GA,South
+13165,6,rural,nonmetro_adj,13,GA,South
+13167,7,rural,nonmetro_noadj,13,GA,South
+13169,3,metro,metro,13,GA,South
+13171,1,metro,metro,13,GA,South
+13173,3,metro,metro,13,GA,South
+13175,5,rural,nonmetro_noadj,13,GA,South
+13177,3,metro,metro,13,GA,South
+13179,3,metro,metro,13,GA,South
+13181,2,metro,metro,13,GA,South
+13183,3,metro,metro,13,GA,South
+13185,3,metro,metro,13,GA,South
+13187,6,rural,nonmetro_adj,13,GA,South
+13189,2,metro,metro,13,GA,South
+13191,3,metro,metro,13,GA,South
+13193,6,rural,nonmetro_adj,13,GA,South
+13195,3,metro,metro,13,GA,South
+13197,2,metro,metro,13,GA,South
+13199,1,metro,metro,13,GA,South
+13201,8,rural,nonmetro_adj,13,GA,South
+13205,6,rural,nonmetro_adj,13,GA,South
+13207,3,metro,metro,13,GA,South
+13209,9,rural,nonmetro_noadj,13,GA,South
+13211,1,metro,metro,13,GA,South
+13213,3,metro,metro,13,GA,South
+13215,2,metro,metro,13,GA,South
+13217,1,metro,metro,13,GA,South
+13219,3,metro,metro,13,GA,South
+13221,3,metro,metro,13,GA,South
+13223,1,metro,metro,13,GA,South
+13225,3,metro,metro,13,GA,South
+13227,1,metro,metro,13,GA,South
+13229,6,rural,nonmetro_adj,13,GA,South
+13231,1,metro,metro,13,GA,South
+13233,4,rural,nonmetro_adj,13,GA,South
+13235,3,metro,metro,13,GA,South
+13237,6,rural,nonmetro_adj,13,GA,South
+13239,9,rural,nonmetro_noadj,13,GA,South
+13241,7,rural,nonmetro_noadj,13,GA,South
+13243,6,rural,nonmetro_adj,13,GA,South
+13245,2,metro,metro,13,GA,South
+13247,1,metro,metro,13,GA,South
+13249,8,rural,nonmetro_adj,13,GA,South
+13251,6,rural,nonmetro_adj,13,GA,South
+13253,6,rural,nonmetro_adj,13,GA,South
+13255,1,metro,metro,13,GA,South
+13257,7,rural,nonmetro_noadj,13,GA,South
+13259,8,rural,nonmetro_adj,13,GA,South
+13261,6,rural,nonmetro_adj,13,GA,South
+13263,8,rural,nonmetro_adj,13,GA,South
+13265,8,rural,nonmetro_adj,13,GA,South
+13267,6,rural,nonmetro_adj,13,GA,South
+13269,8,rural,nonmetro_adj,13,GA,South
+13271,7,rural,nonmetro_noadj,13,GA,South
+13273,3,metro,metro,13,GA,South
+13275,4,rural,nonmetro_adj,13,GA,South
+13277,5,rural,nonmetro_noadj,13,GA,South
+13279,7,rural,nonmetro_noadj,13,GA,South
+13281,9,rural,nonmetro_noadj,13,GA,South
+13283,7,rural,nonmetro_noadj,13,GA,South
+13285,4,rural,nonmetro_adj,13,GA,South
+13287,6,rural,nonmetro_adj,13,GA,South
+13289,3,metro,metro,13,GA,South
+13291,9,rural,nonmetro_noadj,13,GA,South
+13293,6,rural,nonmetro_adj,13,GA,South
+13295,2,metro,metro,13,GA,South
+13297,1,metro,metro,13,GA,South
+13299,5,rural,nonmetro_noadj,13,GA,South
+13301,8,rural,nonmetro_adj,13,GA,South
+13303,7,rural,nonmetro_noadj,13,GA,South
+13305,6,rural,nonmetro_adj,13,GA,South
+13307,8,rural,nonmetro_adj,13,GA,South
+13309,9,rural,nonmetro_noadj,13,GA,South
+13311,6,rural,nonmetro_adj,13,GA,South
+13313,3,metro,metro,13,GA,South
+13315,8,rural,nonmetro_adj,13,GA,South
+13317,6,rural,nonmetro_adj,13,GA,South
+13319,8,rural,nonmetro_adj,13,GA,South
+13321,3,metro,metro,13,GA,South
+15001,5,rural,nonmetro_noadj,15,HI,West
+15003,2,metro,metro,15,HI,West
+15005,3,metro,metro,15,HI,West
+15007,5,rural,nonmetro_noadj,15,HI,West
+15009,3,metro,metro,15,HI,West
+16001,2,metro,metro,16,ID,West
+16003,9,rural,nonmetro_noadj,16,ID,West
+16005,3,metro,metro,16,ID,West
+16007,9,rural,nonmetro_noadj,16,ID,West
+16009,6,rural,nonmetro_adj,16,ID,West
+16011,4,rural,nonmetro_adj,16,ID,West
+16013,7,rural,nonmetro_noadj,16,ID,West
+16015,2,metro,metro,16,ID,West
+16017,6,rural,nonmetro_adj,16,ID,West
+16019,3,metro,metro,16,ID,West
+16021,7,rural,nonmetro_noadj,16,ID,West
+16023,3,metro,metro,16,ID,West
+16025,9,rural,nonmetro_noadj,16,ID,West
+16027,2,metro,metro,16,ID,West
+16029,6,rural,nonmetro_adj,16,ID,West
+16031,7,rural,nonmetro_noadj,16,ID,West
+16033,9,rural,nonmetro_noadj,16,ID,West
+16035,6,rural,nonmetro_adj,16,ID,West
+16037,8,rural,nonmetro_adj,16,ID,West
+16039,6,rural,nonmetro_adj,16,ID,West
+16041,3,metro,metro,16,ID,West
+16043,6,rural,nonmetro_adj,16,ID,West
+16045,2,metro,metro,16,ID,West
+16047,7,rural,nonmetro_noadj,16,ID,West
+16049,6,rural,nonmetro_adj,16,ID,West
+16051,3,metro,metro,16,ID,West
+16053,7,rural,nonmetro_noadj,16,ID,West
+16055,3,metro,metro,16,ID,West
+16057,4,rural,nonmetro_adj,16,ID,West
+16059,7,rural,nonmetro_noadj,16,ID,West
+16061,8,rural,nonmetro_adj,16,ID,West
+16063,9,rural,nonmetro_noadj,16,ID,West
+16065,4,rural,nonmetro_adj,16,ID,West
+16067,7,rural,nonmetro_noadj,16,ID,West
+16069,3,metro,metro,16,ID,West
+16071,8,rural,nonmetro_adj,16,ID,West
+16073,2,metro,metro,16,ID,West
+16075,6,rural,nonmetro_adj,16,ID,West
+16077,6,rural,nonmetro_adj,16,ID,West
+16079,6,rural,nonmetro_adj,16,ID,West
+16081,9,rural,nonmetro_noadj,16,ID,West
+16083,5,rural,nonmetro_noadj,16,ID,West
+16085,8,rural,nonmetro_adj,16,ID,West
+16087,6,rural,nonmetro_adj,16,ID,West
+17001,5,rural,nonmetro_noadj,17,IL,North Central
+17003,3,metro,metro,17,IL,North Central
+17005,1,metro,metro,17,IL,North Central
+17007,2,metro,metro,17,IL,North Central
+17009,7,rural,nonmetro_noadj,17,IL,North Central
+17011,7,rural,nonmetro_noadj,17,IL,North Central
+17013,1,metro,metro,17,IL,North Central
+17015,7,rural,nonmetro_noadj,17,IL,North Central
+17017,6,rural,nonmetro_adj,17,IL,North Central
+17019,3,metro,metro,17,IL,North Central
+17021,6,rural,nonmetro_adj,17,IL,North Central
+17023,6,rural,nonmetro_adj,17,IL,North Central
+17025,7,rural,nonmetro_noadj,17,IL,North Central
+17027,1,metro,metro,17,IL,North Central
+17029,5,rural,nonmetro_noadj,17,IL,North Central
+17031,1,metro,metro,17,IL,North Central
+17033,7,rural,nonmetro_noadj,17,IL,North Central
+17035,9,rural,nonmetro_noadj,17,IL,North Central
+17037,1,metro,metro,17,IL,North Central
+17039,3,metro,metro,17,IL,North Central
+17041,6,rural,nonmetro_adj,17,IL,North Central
+17043,1,metro,metro,17,IL,North Central
+17045,6,rural,nonmetro_adj,17,IL,North Central
+17047,9,rural,nonmetro_noadj,17,IL,North Central
+17049,7,rural,nonmetro_noadj,17,IL,North Central
+17051,6,rural,nonmetro_adj,17,IL,North Central
+17053,3,metro,metro,17,IL,North Central
+17055,4,rural,nonmetro_adj,17,IL,North Central
+17057,6,rural,nonmetro_adj,17,IL,North Central
+17059,8,rural,nonmetro_adj,17,IL,North Central
+17061,6,rural,nonmetro_adj,17,IL,North Central
+17063,1,metro,metro,17,IL,North Central
+17065,7,rural,nonmetro_noadj,17,IL,North Central
+17067,7,rural,nonmetro_noadj,17,IL,North Central
+17069,9,rural,nonmetro_noadj,17,IL,North Central
+17071,9,rural,nonmetro_noadj,17,IL,North Central
+17073,2,metro,metro,17,IL,North Central
+17075,6,rural,nonmetro_adj,17,IL,North Central
+17077,3,metro,metro,17,IL,North Central
+17079,7,rural,nonmetro_noadj,17,IL,North Central
+17081,7,rural,nonmetro_noadj,17,IL,North Central
+17083,1,metro,metro,17,IL,North Central
+17085,6,rural,nonmetro_adj,17,IL,North Central
+17087,8,rural,nonmetro_adj,17,IL,North Central
+17089,1,metro,metro,17,IL,North Central
+17091,3,metro,metro,17,IL,North Central
+17093,1,metro,metro,17,IL,North Central
+17095,4,rural,nonmetro_adj,17,IL,North Central
+17097,1,metro,metro,17,IL,North Central
+17099,4,rural,nonmetro_adj,17,IL,North Central
+17101,7,rural,nonmetro_noadj,17,IL,North Central
+17103,6,rural,nonmetro_adj,17,IL,North Central
+17105,4,rural,nonmetro_adj,17,IL,North Central
+17107,6,rural,nonmetro_adj,17,IL,North Central
+17109,5,rural,nonmetro_noadj,17,IL,North Central
+17111,1,metro,metro,17,IL,North Central
+17113,3,metro,metro,17,IL,North Central
+17115,3,metro,metro,17,IL,North Central
+17117,1,metro,metro,17,IL,North Central
+17119,1,metro,metro,17,IL,North Central
+17121,4,rural,nonmetro_adj,17,IL,North Central
+17123,2,metro,metro,17,IL,North Central
+17125,6,rural,nonmetro_adj,17,IL,North Central
+17127,7,rural,nonmetro_noadj,17,IL,North Central
+17129,3,metro,metro,17,IL,North Central
+17131,2,metro,metro,17,IL,North Central
+17133,1,metro,metro,17,IL,North Central
+17135,6,rural,nonmetro_adj,17,IL,North Central
+17137,4,rural,nonmetro_adj,17,IL,North Central
+17139,6,rural,nonmetro_adj,17,IL,North Central
+17141,4,rural,nonmetro_adj,17,IL,North Central
+17143,2,metro,metro,17,IL,North Central
+17145,6,rural,nonmetro_adj,17,IL,North Central
+17147,3,metro,metro,17,IL,North Central
+17149,7,rural,nonmetro_noadj,17,IL,North Central
+17151,8,rural,nonmetro_adj,17,IL,North Central
+17153,8,rural,nonmetro_adj,17,IL,North Central
+17155,8,rural,nonmetro_adj,17,IL,North Central
+17157,6,rural,nonmetro_adj,17,IL,North Central
+17159,7,rural,nonmetro_noadj,17,IL,North Central
+17161,2,metro,metro,17,IL,North Central
+17163,1,metro,metro,17,IL,North Central
+17165,6,rural,nonmetro_adj,17,IL,North Central
+17167,3,metro,metro,17,IL,North Central
+17169,7,rural,nonmetro_noadj,17,IL,North Central
+17171,9,rural,nonmetro_noadj,17,IL,North Central
+17173,6,rural,nonmetro_adj,17,IL,North Central
+17175,2,metro,metro,17,IL,North Central
+17177,4,rural,nonmetro_adj,17,IL,North Central
+17179,2,metro,metro,17,IL,North Central
+17181,6,rural,nonmetro_adj,17,IL,North Central
+17183,3,metro,metro,17,IL,North Central
+17185,7,rural,nonmetro_noadj,17,IL,North Central
+17187,6,rural,nonmetro_adj,17,IL,North Central
+17189,6,rural,nonmetro_adj,17,IL,North Central
+17191,7,rural,nonmetro_noadj,17,IL,North Central
+17193,6,rural,nonmetro_adj,17,IL,North Central
+17195,4,rural,nonmetro_adj,17,IL,North Central
+17197,1,metro,metro,17,IL,North Central
+17199,3,metro,metro,17,IL,North Central
+17201,2,metro,metro,17,IL,North Central
+17203,2,metro,metro,17,IL,North Central
+18001,6,rural,nonmetro_adj,18,IN,North Central
+18003,2,metro,metro,18,IN,North Central
+18005,3,metro,metro,18,IN,North Central
+18007,3,metro,metro,18,IN,North Central
+18009,6,rural,nonmetro_adj,18,IN,North Central
+18011,1,metro,metro,18,IN,North Central
+18013,1,metro,metro,18,IN,North Central
+18015,3,metro,metro,18,IN,North Central
+18017,4,rural,nonmetro_adj,18,IN,North Central
+18019,1,metro,metro,18,IN,North Central
+18021,3,metro,metro,18,IN,North Central
+18023,6,rural,nonmetro_adj,18,IN,North Central
+18025,8,rural,nonmetro_adj,18,IN,North Central
+18027,7,rural,nonmetro_noadj,18,IN,North Central
+18029,1,metro,metro,18,IN,North Central
+18031,6,rural,nonmetro_adj,18,IN,North Central
+18033,4,rural,nonmetro_adj,18,IN,North Central
+18035,3,metro,metro,18,IN,North Central
+18037,5,rural,nonmetro_noadj,18,IN,North Central
+18039,3,metro,metro,18,IN,North Central
+18041,6,rural,nonmetro_adj,18,IN,North Central
+18043,1,metro,metro,18,IN,North Central
+18045,6,rural,nonmetro_adj,18,IN,North Central
+18047,6,rural,nonmetro_adj,18,IN,North Central
+18049,7,rural,nonmetro_noadj,18,IN,North Central
+18051,6,rural,nonmetro_adj,18,IN,North Central
+18053,4,rural,nonmetro_adj,18,IN,North Central
+18055,6,rural,nonmetro_adj,18,IN,North Central
+18057,1,metro,metro,18,IN,North Central
+18059,1,metro,metro,18,IN,North Central
+18061,1,metro,metro,18,IN,North Central
+18063,1,metro,metro,18,IN,North Central
+18065,4,rural,nonmetro_adj,18,IN,North Central
+18067,3,metro,metro,18,IN,North Central
+18069,6,rural,nonmetro_adj,18,IN,North Central
+18071,4,rural,nonmetro_adj,18,IN,North Central
+18073,1,metro,metro,18,IN,North Central
+18075,6,rural,nonmetro_adj,18,IN,North Central
+18077,6,rural,nonmetro_adj,18,IN,North Central
+18079,6,rural,nonmetro_adj,18,IN,North Central
+18081,1,metro,metro,18,IN,North Central
+18083,5,rural,nonmetro_noadj,18,IN,North Central
+18085,4,rural,nonmetro_adj,18,IN,North Central
+18087,6,rural,nonmetro_adj,18,IN,North Central
+18089,1,metro,metro,18,IN,North Central
+18091,3,metro,metro,18,IN,North Central
+18093,6,rural,nonmetro_adj,18,IN,North Central
+18095,1,metro,metro,18,IN,North Central
+18097,1,metro,metro,18,IN,North Central
+18099,6,rural,nonmetro_adj,18,IN,North Central
+18101,7,rural,nonmetro_noadj,18,IN,North Central
+18103,6,rural,nonmetro_adj,18,IN,North Central
+18105,3,metro,metro,18,IN,North Central
+18107,6,rural,nonmetro_adj,18,IN,North Central
+18109,1,metro,metro,18,IN,North Central
+18111,1,metro,metro,18,IN,North Central
+18113,6,rural,nonmetro_adj,18,IN,North Central
+18115,1,metro,metro,18,IN,North Central
+18117,6,rural,nonmetro_adj,18,IN,North Central
+18119,3,metro,metro,18,IN,North Central
+18121,6,rural,nonmetro_adj,18,IN,North Central
+18123,6,rural,nonmetro_adj,18,IN,North Central
+18125,8,rural,nonmetro_adj,18,IN,North Central
+18127,1,metro,metro,18,IN,North Central
+18129,2,metro,metro,18,IN,North Central
+18131,6,rural,nonmetro_adj,18,IN,North Central
+18133,1,metro,metro,18,IN,North Central
+18135,6,rural,nonmetro_adj,18,IN,North Central
+18137,6,rural,nonmetro_adj,18,IN,North Central
+18139,6,rural,nonmetro_adj,18,IN,North Central
+18141,2,metro,metro,18,IN,North Central
+18143,1,metro,metro,18,IN,North Central
+18145,1,metro,metro,18,IN,North Central
+18147,8,rural,nonmetro_adj,18,IN,North Central
+18149,6,rural,nonmetro_adj,18,IN,North Central
+18151,7,rural,nonmetro_noadj,18,IN,North Central
+18153,3,metro,metro,18,IN,North Central
+18155,8,rural,nonmetro_adj,18,IN,North Central
+18157,3,metro,metro,18,IN,North Central
+18159,6,rural,nonmetro_adj,18,IN,North Central
+18161,1,metro,metro,18,IN,North Central
+18163,2,metro,metro,18,IN,North Central
+18165,3,metro,metro,18,IN,North Central
+18167,3,metro,metro,18,IN,North Central
+18169,6,rural,nonmetro_adj,18,IN,North Central
+18171,8,rural,nonmetro_adj,18,IN,North Central
+18173,2,metro,metro,18,IN,North Central
+18175,1,metro,metro,18,IN,North Central
+18177,5,rural,nonmetro_noadj,18,IN,North Central
+18179,2,metro,metro,18,IN,North Central
+18181,6,rural,nonmetro_adj,18,IN,North Central
+18183,2,metro,metro,18,IN,North Central
+19001,8,rural,nonmetro_adj,19,IA,North Central
+19003,9,rural,nonmetro_noadj,19,IA,North Central
+19005,6,rural,nonmetro_adj,19,IA,North Central
+19007,7,rural,nonmetro_noadj,19,IA,North Central
+19009,8,rural,nonmetro_adj,19,IA,North Central
+19011,2,metro,metro,19,IA,North Central
+19013,3,metro,metro,19,IA,North Central
+19015,6,rural,nonmetro_adj,19,IA,North Central
+19017,3,metro,metro,19,IA,North Central
+19019,6,rural,nonmetro_adj,19,IA,North Central
+19021,7,rural,nonmetro_noadj,19,IA,North Central
+19023,8,rural,nonmetro_adj,19,IA,North Central
+19025,9,rural,nonmetro_noadj,19,IA,North Central
+19027,7,rural,nonmetro_noadj,19,IA,North Central
+19029,6,rural,nonmetro_adj,19,IA,North Central
+19031,6,rural,nonmetro_adj,19,IA,North Central
+19033,5,rural,nonmetro_noadj,19,IA,North Central
+19035,6,rural,nonmetro_adj,19,IA,North Central
+19037,6,rural,nonmetro_adj,19,IA,North Central
+19039,6,rural,nonmetro_adj,19,IA,North Central
+19041,7,rural,nonmetro_noadj,19,IA,North Central
+19043,8,rural,nonmetro_adj,19,IA,North Central
+19045,4,rural,nonmetro_adj,19,IA,North Central
+19047,7,rural,nonmetro_noadj,19,IA,North Central
+19049,2,metro,metro,19,IA,North Central
+19051,9,rural,nonmetro_noadj,19,IA,North Central
+19053,9,rural,nonmetro_noadj,19,IA,North Central
+19055,6,rural,nonmetro_adj,19,IA,North Central
+19057,5,rural,nonmetro_noadj,19,IA,North Central
+19059,7,rural,nonmetro_noadj,19,IA,North Central
+19061,3,metro,metro,19,IA,North Central
+19063,7,rural,nonmetro_noadj,19,IA,North Central
+19065,6,rural,nonmetro_adj,19,IA,North Central
+19067,7,rural,nonmetro_noadj,19,IA,North Central
+19069,7,rural,nonmetro_noadj,19,IA,North Central
+19071,8,rural,nonmetro_adj,19,IA,North Central
+19073,6,rural,nonmetro_adj,19,IA,North Central
+19075,3,metro,metro,19,IA,North Central
+19077,2,metro,metro,19,IA,North Central
+19079,6,rural,nonmetro_adj,19,IA,North Central
+19081,7,rural,nonmetro_noadj,19,IA,North Central
+19083,6,rural,nonmetro_adj,19,IA,North Central
+19085,2,metro,metro,19,IA,North Central
+19087,6,rural,nonmetro_adj,19,IA,North Central
+19089,6,rural,nonmetro_adj,19,IA,North Central
+19091,7,rural,nonmetro_noadj,19,IA,North Central
+19093,8,rural,nonmetro_adj,19,IA,North Central
+19095,6,rural,nonmetro_adj,19,IA,North Central
+19097,6,rural,nonmetro_adj,19,IA,North Central
+19099,6,rural,nonmetro_adj,19,IA,North Central
+19101,7,rural,nonmetro_noadj,19,IA,North Central
+19103,3,metro,metro,19,IA,North Central
+19105,2,metro,metro,19,IA,North Central
+19107,8,rural,nonmetro_adj,19,IA,North Central
+19109,7,rural,nonmetro_noadj,19,IA,North Central
+19111,5,rural,nonmetro_noadj,19,IA,North Central
+19113,2,metro,metro,19,IA,North Central
+19115,8,rural,nonmetro_adj,19,IA,North Central
+19117,6,rural,nonmetro_adj,19,IA,North Central
+19119,8,rural,nonmetro_adj,19,IA,North Central
+19121,2,metro,metro,19,IA,North Central
+19123,7,rural,nonmetro_noadj,19,IA,North Central
+19125,6,rural,nonmetro_adj,19,IA,North Central
+19127,4,rural,nonmetro_adj,19,IA,North Central
+19129,2,metro,metro,19,IA,North Central
+19131,7,rural,nonmetro_noadj,19,IA,North Central
+19133,6,rural,nonmetro_adj,19,IA,North Central
+19135,7,rural,nonmetro_noadj,19,IA,North Central
+19137,6,rural,nonmetro_adj,19,IA,North Central
+19139,4,rural,nonmetro_adj,19,IA,North Central
+19141,7,rural,nonmetro_noadj,19,IA,North Central
+19143,7,rural,nonmetro_noadj,19,IA,North Central
+19145,6,rural,nonmetro_adj,19,IA,North Central
+19147,7,rural,nonmetro_noadj,19,IA,North Central
+19149,3,metro,metro,19,IA,North Central
+19151,9,rural,nonmetro_noadj,19,IA,North Central
+19153,2,metro,metro,19,IA,North Central
+19155,2,metro,metro,19,IA,North Central
+19157,7,rural,nonmetro_noadj,19,IA,North Central
+19159,9,rural,nonmetro_noadj,19,IA,North Central
+19161,9,rural,nonmetro_noadj,19,IA,North Central
+19163,2,metro,metro,19,IA,North Central
+19165,6,rural,nonmetro_adj,19,IA,North Central
+19167,7,rural,nonmetro_noadj,19,IA,North Central
+19169,3,metro,metro,19,IA,North Central
+19171,6,rural,nonmetro_adj,19,IA,North Central
+19173,9,rural,nonmetro_noadj,19,IA,North Central
+19175,6,rural,nonmetro_adj,19,IA,North Central
+19177,9,rural,nonmetro_noadj,19,IA,North Central
+19179,5,rural,nonmetro_noadj,19,IA,North Central
+19181,2,metro,metro,19,IA,North Central
+19183,3,metro,metro,19,IA,North Central
+19185,9,rural,nonmetro_noadj,19,IA,North Central
+19187,5,rural,nonmetro_noadj,19,IA,North Central
+19189,7,rural,nonmetro_noadj,19,IA,North Central
+19191,7,rural,nonmetro_noadj,19,IA,North Central
+19193,3,metro,metro,19,IA,North Central
+19195,9,rural,nonmetro_noadj,19,IA,North Central
+19197,7,rural,nonmetro_noadj,19,IA,North Central
+20001,7,rural,nonmetro_noadj,20,KS,North Central
+20003,6,rural,nonmetro_adj,20,KS,North Central
+20005,6,rural,nonmetro_adj,20,KS,North Central
+20007,9,rural,nonmetro_noadj,20,KS,North Central
+20009,7,rural,nonmetro_noadj,20,KS,North Central
+20011,6,rural,nonmetro_adj,20,KS,North Central
+20013,6,rural,nonmetro_adj,20,KS,North Central
+20015,2,metro,metro,20,KS,North Central
+20017,9,rural,nonmetro_noadj,20,KS,North Central
+20019,8,rural,nonmetro_adj,20,KS,North Central
+20021,6,rural,nonmetro_adj,20,KS,North Central
+20023,9,rural,nonmetro_noadj,20,KS,North Central
+20025,9,rural,nonmetro_noadj,20,KS,North Central
+20027,6,rural,nonmetro_adj,20,KS,North Central
+20029,7,rural,nonmetro_noadj,20,KS,North Central
+20031,6,rural,nonmetro_adj,20,KS,North Central
+20033,9,rural,nonmetro_noadj,20,KS,North Central
+20035,4,rural,nonmetro_adj,20,KS,North Central
+20037,4,rural,nonmetro_adj,20,KS,North Central
+20039,9,rural,nonmetro_noadj,20,KS,North Central
+20041,7,rural,nonmetro_noadj,20,KS,North Central
+20043,3,metro,metro,20,KS,North Central
+20045,3,metro,metro,20,KS,North Central
+20047,9,rural,nonmetro_noadj,20,KS,North Central
+20049,8,rural,nonmetro_adj,20,KS,North Central
+20051,5,rural,nonmetro_noadj,20,KS,North Central
+20053,7,rural,nonmetro_noadj,20,KS,North Central
+20055,5,rural,nonmetro_noadj,20,KS,North Central
+20057,5,rural,nonmetro_noadj,20,KS,North Central
+20059,6,rural,nonmetro_adj,20,KS,North Central
+20061,4,rural,nonmetro_adj,20,KS,North Central
+20063,9,rural,nonmetro_noadj,20,KS,North Central
+20065,9,rural,nonmetro_noadj,20,KS,North Central
+20067,7,rural,nonmetro_noadj,20,KS,North Central
+20069,9,rural,nonmetro_noadj,20,KS,North Central
+20071,9,rural,nonmetro_noadj,20,KS,North Central
+20073,6,rural,nonmetro_adj,20,KS,North Central
+20075,9,rural,nonmetro_noadj,20,KS,North Central
+20077,8,rural,nonmetro_adj,20,KS,North Central
+20079,2,metro,metro,20,KS,North Central
+20081,9,rural,nonmetro_noadj,20,KS,North Central
+20083,9,rural,nonmetro_noadj,20,KS,North Central
+20085,3,metro,metro,20,KS,North Central
+20087,3,metro,metro,20,KS,North Central
+20089,9,rural,nonmetro_noadj,20,KS,North Central
+20091,1,metro,metro,20,KS,North Central
+20093,9,rural,nonmetro_noadj,20,KS,North Central
+20095,2,metro,metro,20,KS,North Central
+20097,9,rural,nonmetro_noadj,20,KS,North Central
+20099,7,rural,nonmetro_noadj,20,KS,North Central
+20101,9,rural,nonmetro_noadj,20,KS,North Central
+20103,1,metro,metro,20,KS,North Central
+20105,9,rural,nonmetro_noadj,20,KS,North Central
+20107,1,metro,metro,20,KS,North Central
+20109,9,rural,nonmetro_noadj,20,KS,North Central
+20111,4,rural,nonmetro_adj,20,KS,North Central
+20113,7,rural,nonmetro_noadj,20,KS,North Central
+20115,6,rural,nonmetro_adj,20,KS,North Central
+20117,6,rural,nonmetro_adj,20,KS,North Central
+20119,9,rural,nonmetro_noadj,20,KS,North Central
+20121,1,metro,metro,20,KS,North Central
+20123,7,rural,nonmetro_noadj,20,KS,North Central
+20125,5,rural,nonmetro_noadj,20,KS,North Central
+20127,8,rural,nonmetro_adj,20,KS,North Central
+20129,9,rural,nonmetro_noadj,20,KS,North Central
+20131,6,rural,nonmetro_adj,20,KS,North Central
+20133,7,rural,nonmetro_noadj,20,KS,North Central
+20135,9,rural,nonmetro_noadj,20,KS,North Central
+20137,7,rural,nonmetro_noadj,20,KS,North Central
+20139,3,metro,metro,20,KS,North Central
+20141,9,rural,nonmetro_noadj,20,KS,North Central
+20143,9,rural,nonmetro_noadj,20,KS,North Central
+20145,7,rural,nonmetro_noadj,20,KS,North Central
+20147,7,rural,nonmetro_noadj,20,KS,North Central
+20149,3,metro,metro,20,KS,North Central
+20151,7,rural,nonmetro_noadj,20,KS,North Central
+20153,9,rural,nonmetro_noadj,20,KS,North Central
+20155,4,rural,nonmetro_adj,20,KS,North Central
+20157,9,rural,nonmetro_noadj,20,KS,North Central
+20159,7,rural,nonmetro_noadj,20,KS,North Central
+20161,3,metro,metro,20,KS,North Central
+20163,9,rural,nonmetro_noadj,20,KS,North Central
+20165,9,rural,nonmetro_noadj,20,KS,North Central
+20167,7,rural,nonmetro_noadj,20,KS,North Central
+20169,5,rural,nonmetro_noadj,20,KS,North Central
+20171,7,rural,nonmetro_noadj,20,KS,North Central
+20173,2,metro,metro,20,KS,North Central
+20175,5,rural,nonmetro_noadj,20,KS,North Central
+20177,3,metro,metro,20,KS,North Central
+20179,9,rural,nonmetro_noadj,20,KS,North Central
+20181,7,rural,nonmetro_noadj,20,KS,North Central
+20183,9,rural,nonmetro_noadj,20,KS,North Central
+20185,9,rural,nonmetro_noadj,20,KS,North Central
+20187,9,rural,nonmetro_noadj,20,KS,North Central
+20189,7,rural,nonmetro_noadj,20,KS,North Central
+20191,2,metro,metro,20,KS,North Central
+20193,7,rural,nonmetro_noadj,20,KS,North Central
+20195,9,rural,nonmetro_noadj,20,KS,North Central
+20197,3,metro,metro,20,KS,North Central
+20199,9,rural,nonmetro_noadj,20,KS,North Central
+20201,9,rural,nonmetro_noadj,20,KS,North Central
+20203,9,rural,nonmetro_noadj,20,KS,North Central
+20205,7,rural,nonmetro_noadj,20,KS,North Central
+20207,9,rural,nonmetro_noadj,20,KS,North Central
+20209,1,metro,metro,20,KS,North Central
+21001,7,rural,nonmetro_noadj,21,KY,South
+21003,3,metro,metro,21,KY,South
+21005,6,rural,nonmetro_adj,21,KY,South
+21007,9,rural,nonmetro_noadj,21,KY,South
+21009,6,rural,nonmetro_adj,21,KY,South
+21011,8,rural,nonmetro_adj,21,KY,South
+21013,7,rural,nonmetro_noadj,21,KY,South
+21015,1,metro,metro,21,KY,South
+21017,2,metro,metro,21,KY,South
+21019,2,metro,metro,21,KY,South
+21021,7,rural,nonmetro_noadj,21,KY,South
+21023,1,metro,metro,21,KY,South
+21025,7,rural,nonmetro_noadj,21,KY,South
+21027,8,rural,nonmetro_adj,21,KY,South
+21029,1,metro,metro,21,KY,South
+21031,3,metro,metro,21,KY,South
+21033,7,rural,nonmetro_noadj,21,KY,South
+21035,7,rural,nonmetro_noadj,21,KY,South
+21037,1,metro,metro,21,KY,South
+21039,9,rural,nonmetro_noadj,21,KY,South
+21041,6,rural,nonmetro_adj,21,KY,South
+21043,6,rural,nonmetro_adj,21,KY,South
+21045,9,rural,nonmetro_noadj,21,KY,South
+21047,2,metro,metro,21,KY,South
+21049,2,metro,metro,21,KY,South
+21051,7,rural,nonmetro_noadj,21,KY,South
+21053,9,rural,nonmetro_noadj,21,KY,South
+21055,7,rural,nonmetro_noadj,21,KY,South
+21057,9,rural,nonmetro_noadj,21,KY,South
+21059,3,metro,metro,21,KY,South
+21061,3,metro,metro,21,KY,South
+21063,9,rural,nonmetro_noadj,21,KY,South
+21065,6,rural,nonmetro_adj,21,KY,South
+21067,2,metro,metro,21,KY,South
+21069,7,rural,nonmetro_noadj,21,KY,South
+21071,7,rural,nonmetro_noadj,21,KY,South
+21073,4,rural,nonmetro_adj,21,KY,South
+21075,9,rural,nonmetro_noadj,21,KY,South
+21077,1,metro,metro,21,KY,South
+21079,6,rural,nonmetro_adj,21,KY,South
+21081,1,metro,metro,21,KY,South
+21083,7,rural,nonmetro_noadj,21,KY,South
+21085,6,rural,nonmetro_adj,21,KY,South
+21087,8,rural,nonmetro_adj,21,KY,South
+21089,2,metro,metro,21,KY,South
+21091,3,metro,metro,21,KY,South
+21093,3,metro,metro,21,KY,South
+21095,7,rural,nonmetro_noadj,21,KY,South
+21097,6,rural,nonmetro_adj,21,KY,South
+21099,8,rural,nonmetro_adj,21,KY,South
+21101,2,metro,metro,21,KY,South
+21103,1,metro,metro,21,KY,South
+21105,9,rural,nonmetro_noadj,21,KY,South
+21107,5,rural,nonmetro_noadj,21,KY,South
+21109,9,rural,nonmetro_noadj,21,KY,South
+21111,1,metro,metro,21,KY,South
+21113,2,metro,metro,21,KY,South
+21115,7,rural,nonmetro_noadj,21,KY,South
+21117,1,metro,metro,21,KY,South
+21119,9,rural,nonmetro_noadj,21,KY,South
+21121,7,rural,nonmetro_noadj,21,KY,South
+21123,3,metro,metro,21,KY,South
+21125,5,rural,nonmetro_noadj,21,KY,South
+21127,6,rural,nonmetro_adj,21,KY,South
+21129,9,rural,nonmetro_noadj,21,KY,South
+21131,9,rural,nonmetro_noadj,21,KY,South
+21133,9,rural,nonmetro_noadj,21,KY,South
+21135,8,rural,nonmetro_adj,21,KY,South
+21137,7,rural,nonmetro_noadj,21,KY,South
+21139,9,rural,nonmetro_noadj,21,KY,South
+21141,6,rural,nonmetro_adj,21,KY,South
+21143,9,rural,nonmetro_noadj,21,KY,South
+21145,5,rural,nonmetro_noadj,21,KY,South
+21147,9,rural,nonmetro_noadj,21,KY,South
+21149,3,metro,metro,21,KY,South
+21151,4,rural,nonmetro_adj,21,KY,South
+21153,9,rural,nonmetro_noadj,21,KY,South
+21155,7,rural,nonmetro_noadj,21,KY,South
+21157,7,rural,nonmetro_noadj,21,KY,South
+21159,9,rural,nonmetro_noadj,21,KY,South
+21161,6,rural,nonmetro_adj,21,KY,South
+21163,3,metro,metro,21,KY,South
+21165,9,rural,nonmetro_noadj,21,KY,South
+21167,6,rural,nonmetro_adj,21,KY,South
+21169,9,rural,nonmetro_noadj,21,KY,South
+21171,8,rural,nonmetro_adj,21,KY,South
+21173,6,rural,nonmetro_adj,21,KY,South
+21175,9,rural,nonmetro_noadj,21,KY,South
+21177,6,rural,nonmetro_adj,21,KY,South
+21179,6,rural,nonmetro_adj,21,KY,South
+21181,8,rural,nonmetro_adj,21,KY,South
+21183,6,rural,nonmetro_adj,21,KY,South
+21185,1,metro,metro,21,KY,South
+21187,8,rural,nonmetro_adj,21,KY,South
+21189,9,rural,nonmetro_noadj,21,KY,South
+21191,1,metro,metro,21,KY,South
+21193,7,rural,nonmetro_noadj,21,KY,South
+21195,7,rural,nonmetro_noadj,21,KY,South
+21197,6,rural,nonmetro_adj,21,KY,South
+21199,5,rural,nonmetro_noadj,21,KY,South
+21201,8,rural,nonmetro_adj,21,KY,South
+21203,7,rural,nonmetro_noadj,21,KY,South
+21205,7,rural,nonmetro_noadj,21,KY,South
+21207,9,rural,nonmetro_noadj,21,KY,South
+21209,2,metro,metro,21,KY,South
+21211,1,metro,metro,21,KY,South
+21213,6,rural,nonmetro_adj,21,KY,South
+21215,1,metro,metro,21,KY,South
+21217,7,rural,nonmetro_noadj,21,KY,South
+21219,8,rural,nonmetro_adj,21,KY,South
+21221,2,metro,metro,21,KY,South
+21223,1,metro,metro,21,KY,South
+21225,6,rural,nonmetro_adj,21,KY,South
+21227,3,metro,metro,21,KY,South
+21229,9,rural,nonmetro_noadj,21,KY,South
+21231,7,rural,nonmetro_noadj,21,KY,South
+21233,8,rural,nonmetro_adj,21,KY,South
+21235,7,rural,nonmetro_noadj,21,KY,South
+21237,9,rural,nonmetro_noadj,21,KY,South
+21239,2,metro,metro,21,KY,South
+22001,2,metro,metro,22,LA,South
+22003,6,rural,nonmetro_adj,22,LA,South
+22005,2,metro,metro,22,LA,South
+22007,6,rural,nonmetro_adj,22,LA,South
+22009,6,rural,nonmetro_adj,22,LA,South
+22011,6,rural,nonmetro_adj,22,LA,South
+22013,6,rural,nonmetro_adj,22,LA,South
+22015,2,metro,metro,22,LA,South
+22017,2,metro,metro,22,LA,South
+22019,3,metro,metro,22,LA,South
+22021,8,rural,nonmetro_adj,22,LA,South
+22023,3,metro,metro,22,LA,South
+22025,9,rural,nonmetro_noadj,22,LA,South
+22027,6,rural,nonmetro_adj,22,LA,South
+22029,7,rural,nonmetro_noadj,22,LA,South
+22031,2,metro,metro,22,LA,South
+22033,2,metro,metro,22,LA,South
+22035,7,rural,nonmetro_noadj,22,LA,South
+22037,2,metro,metro,22,LA,South
+22039,6,rural,nonmetro_adj,22,LA,South
+22041,7,rural,nonmetro_noadj,22,LA,South
+22043,3,metro,metro,22,LA,South
+22045,2,metro,metro,22,LA,South
+22047,2,metro,metro,22,LA,South
+22049,6,rural,nonmetro_adj,22,LA,South
+22051,1,metro,metro,22,LA,South
+22053,6,rural,nonmetro_adj,22,LA,South
+22055,2,metro,metro,22,LA,South
+22057,3,metro,metro,22,LA,South
+22059,6,rural,nonmetro_adj,22,LA,South
+22061,4,rural,nonmetro_adj,22,LA,South
+22063,2,metro,metro,22,LA,South
+22065,7,rural,nonmetro_noadj,22,LA,South
+22067,6,rural,nonmetro_adj,22,LA,South
+22069,6,rural,nonmetro_adj,22,LA,South
+22071,1,metro,metro,22,LA,South
+22073,3,metro,metro,22,LA,South
+22075,1,metro,metro,22,LA,South
+22077,2,metro,metro,22,LA,South
+22079,3,metro,metro,22,LA,South
+22081,8,rural,nonmetro_adj,22,LA,South
+22083,6,rural,nonmetro_adj,22,LA,South
+22085,6,rural,nonmetro_adj,22,LA,South
+22087,1,metro,metro,22,LA,South
+22089,1,metro,metro,22,LA,South
+22091,2,metro,metro,22,LA,South
+22093,1,metro,metro,22,LA,South
+22095,1,metro,metro,22,LA,South
+22097,4,rural,nonmetro_adj,22,LA,South
+22099,2,metro,metro,22,LA,South
+22101,4,rural,nonmetro_adj,22,LA,South
+22103,1,metro,metro,22,LA,South
+22105,3,metro,metro,22,LA,South
+22107,9,rural,nonmetro_noadj,22,LA,South
+22109,3,metro,metro,22,LA,South
+22111,3,metro,metro,22,LA,South
+22113,2,metro,metro,22,LA,South
+22115,5,rural,nonmetro_noadj,22,LA,South
+22117,6,rural,nonmetro_adj,22,LA,South
+22119,2,metro,metro,22,LA,South
+22121,2,metro,metro,22,LA,South
+22123,9,rural,nonmetro_noadj,22,LA,South
+22125,2,metro,metro,22,LA,South
+22127,6,rural,nonmetro_adj,22,LA,South
+23001,3,metro,metro,23,ME,Northeast
+23003,7,rural,nonmetro_noadj,23,ME,Northeast
+23005,2,metro,metro,23,ME,Northeast
+23007,6,rural,nonmetro_adj,23,ME,Northeast
+23009,6,rural,nonmetro_adj,23,ME,Northeast
+23011,4,rural,nonmetro_adj,23,ME,Northeast
+23013,7,rural,nonmetro_noadj,23,ME,Northeast
+23015,8,rural,nonmetro_adj,23,ME,Northeast
+23017,6,rural,nonmetro_adj,23,ME,Northeast
+23019,3,metro,metro,23,ME,Northeast
+23021,8,rural,nonmetro_adj,23,ME,Northeast
+23023,2,metro,metro,23,ME,Northeast
+23025,6,rural,nonmetro_adj,23,ME,Northeast
+23027,6,rural,nonmetro_adj,23,ME,Northeast
+23029,7,rural,nonmetro_noadj,23,ME,Northeast
+23031,2,metro,metro,23,ME,Northeast
+24001,3,metro,metro,24,MD,South
+24003,1,metro,metro,24,MD,South
+24005,1,metro,metro,24,MD,South
+24009,1,metro,metro,24,MD,South
+24011,6,rural,nonmetro_adj,24,MD,South
+24013,1,metro,metro,24,MD,South
+24015,1,metro,metro,24,MD,South
+24017,1,metro,metro,24,MD,South
+24019,6,rural,nonmetro_adj,24,MD,South
+24021,1,metro,metro,24,MD,South
+24023,6,rural,nonmetro_adj,24,MD,South
+24025,1,metro,metro,24,MD,South
+24027,1,metro,metro,24,MD,South
+24029,6,rural,nonmetro_adj,24,MD,South
+24031,1,metro,metro,24,MD,South
+24033,1,metro,metro,24,MD,South
+24035,1,metro,metro,24,MD,South
+24037,3,metro,metro,24,MD,South
+24039,2,metro,metro,24,MD,South
+24041,6,rural,nonmetro_adj,24,MD,South
+24043,2,metro,metro,24,MD,South
+24045,2,metro,metro,24,MD,South
+24047,2,metro,metro,24,MD,South
+24510,1,metro,metro,24,MD,South
+25001,3,metro,metro,25,MA,Northeast
+25003,3,metro,metro,25,MA,Northeast
+25005,1,metro,metro,25,MA,Northeast
+25007,7,rural,nonmetro_noadj,25,MA,Northeast
+25009,1,metro,metro,25,MA,Northeast
+25011,4,rural,nonmetro_adj,25,MA,Northeast
+25013,2,metro,metro,25,MA,Northeast
+25015,2,metro,metro,25,MA,Northeast
+25017,1,metro,metro,25,MA,Northeast
+25019,7,rural,nonmetro_noadj,25,MA,Northeast
+25021,1,metro,metro,25,MA,Northeast
+25023,1,metro,metro,25,MA,Northeast
+25025,1,metro,metro,25,MA,Northeast
+25027,2,metro,metro,25,MA,Northeast
+26001,9,rural,nonmetro_noadj,26,MI,North Central
+26003,7,rural,nonmetro_noadj,26,MI,North Central
+26005,4,rural,nonmetro_adj,26,MI,North Central
+26007,7,rural,nonmetro_noadj,26,MI,North Central
+26009,9,rural,nonmetro_noadj,26,MI,North Central
+26011,8,rural,nonmetro_adj,26,MI,North Central
+26013,9,rural,nonmetro_noadj,26,MI,North Central
+26015,2,metro,metro,26,MI,North Central
+26017,3,metro,metro,26,MI,North Central
+26019,9,rural,nonmetro_noadj,26,MI,North Central
+26021,3,metro,metro,26,MI,North Central
+26023,6,rural,nonmetro_adj,26,MI,North Central
+26025,3,metro,metro,26,MI,North Central
+26027,2,metro,metro,26,MI,North Central
+26029,7,rural,nonmetro_noadj,26,MI,North Central
+26031,7,rural,nonmetro_noadj,26,MI,North Central
+26033,7,rural,nonmetro_noadj,26,MI,North Central
+26035,6,rural,nonmetro_adj,26,MI,North Central
+26037,2,metro,metro,26,MI,North Central
+26039,7,rural,nonmetro_noadj,26,MI,North Central
+26041,5,rural,nonmetro_noadj,26,MI,North Central
+26043,7,rural,nonmetro_noadj,26,MI,North Central
+26045,2,metro,metro,26,MI,North Central
+26047,7,rural,nonmetro_noadj,26,MI,North Central
+26049,2,metro,metro,26,MI,North Central
+26051,6,rural,nonmetro_adj,26,MI,North Central
+26053,7,rural,nonmetro_noadj,26,MI,North Central
+26055,5,rural,nonmetro_noadj,26,MI,North Central
+26057,6,rural,nonmetro_adj,26,MI,North Central
+26059,6,rural,nonmetro_adj,26,MI,North Central
+26061,5,rural,nonmetro_noadj,26,MI,North Central
+26063,7,rural,nonmetro_noadj,26,MI,North Central
+26065,2,metro,metro,26,MI,North Central
+26067,4,rural,nonmetro_adj,26,MI,North Central
+26069,7,rural,nonmetro_noadj,26,MI,North Central
+26071,7,rural,nonmetro_noadj,26,MI,North Central
+26073,4,rural,nonmetro_adj,26,MI,North Central
+26075,3,metro,metro,26,MI,North Central
+26077,2,metro,metro,26,MI,North Central
+26079,7,rural,nonmetro_noadj,26,MI,North Central
+26081,2,metro,metro,26,MI,North Central
+26083,9,rural,nonmetro_noadj,26,MI,North Central
+26085,9,rural,nonmetro_noadj,26,MI,North Central
+26087,1,metro,metro,26,MI,North Central
+26089,9,rural,nonmetro_noadj,26,MI,North Central
+26091,4,rural,nonmetro_adj,26,MI,North Central
+26093,1,metro,metro,26,MI,North Central
+26095,7,rural,nonmetro_noadj,26,MI,North Central
+26097,7,rural,nonmetro_noadj,26,MI,North Central
+26099,1,metro,metro,26,MI,North Central
+26101,7,rural,nonmetro_noadj,26,MI,North Central
+26103,5,rural,nonmetro_noadj,26,MI,North Central
+26105,7,rural,nonmetro_noadj,26,MI,North Central
+26107,6,rural,nonmetro_adj,26,MI,North Central
+26109,7,rural,nonmetro_noadj,26,MI,North Central
+26111,3,metro,metro,26,MI,North Central
+26113,9,rural,nonmetro_noadj,26,MI,North Central
+26115,3,metro,metro,26,MI,North Central
+26117,2,metro,metro,26,MI,North Central
+26119,9,rural,nonmetro_noadj,26,MI,North Central
+26121,3,metro,metro,26,MI,North Central
+26123,6,rural,nonmetro_adj,26,MI,North Central
+26125,1,metro,metro,26,MI,North Central
+26127,6,rural,nonmetro_adj,26,MI,North Central
+26129,9,rural,nonmetro_noadj,26,MI,North Central
+26131,9,rural,nonmetro_noadj,26,MI,North Central
+26133,9,rural,nonmetro_noadj,26,MI,North Central
+26135,9,rural,nonmetro_noadj,26,MI,North Central
+26137,7,rural,nonmetro_noadj,26,MI,North Central
+26139,2,metro,metro,26,MI,North Central
+26141,7,rural,nonmetro_noadj,26,MI,North Central
+26143,7,rural,nonmetro_noadj,26,MI,North Central
+26145,3,metro,metro,26,MI,North Central
+26147,1,metro,metro,26,MI,North Central
+26149,4,rural,nonmetro_adj,26,MI,North Central
+26151,6,rural,nonmetro_adj,26,MI,North Central
+26153,7,rural,nonmetro_noadj,26,MI,North Central
+26155,4,rural,nonmetro_adj,26,MI,North Central
+26157,6,rural,nonmetro_adj,26,MI,North Central
+26159,2,metro,metro,26,MI,North Central
+26161,2,metro,metro,26,MI,North Central
+26163,1,metro,metro,26,MI,North Central
+26165,7,rural,nonmetro_noadj,26,MI,North Central
+27001,8,rural,nonmetro_adj,27,MN,North Central
+27003,1,metro,metro,27,MN,North Central
+27005,6,rural,nonmetro_adj,27,MN,North Central
+27007,7,rural,nonmetro_noadj,27,MN,North Central
+27009,3,metro,metro,27,MN,North Central
+27011,9,rural,nonmetro_noadj,27,MN,North Central
+27013,3,metro,metro,27,MN,North Central
+27015,6,rural,nonmetro_adj,27,MN,North Central
+27017,2,metro,metro,27,MN,North Central
+27019,1,metro,metro,27,MN,North Central
+27021,9,rural,nonmetro_noadj,27,MN,North Central
+27023,7,rural,nonmetro_noadj,27,MN,North Central
+27025,1,metro,metro,27,MN,North Central
+27027,3,metro,metro,27,MN,North Central
+27029,8,rural,nonmetro_adj,27,MN,North Central
+27031,9,rural,nonmetro_noadj,27,MN,North Central
+27033,7,rural,nonmetro_noadj,27,MN,North Central
+27035,4,rural,nonmetro_adj,27,MN,North Central
+27037,1,metro,metro,27,MN,North Central
+27039,3,metro,metro,27,MN,North Central
+27041,6,rural,nonmetro_adj,27,MN,North Central
+27043,6,rural,nonmetro_adj,27,MN,North Central
+27045,3,metro,metro,27,MN,North Central
+27047,7,rural,nonmetro_noadj,27,MN,North Central
+27049,4,rural,nonmetro_adj,27,MN,North Central
+27051,9,rural,nonmetro_noadj,27,MN,North Central
+27053,1,metro,metro,27,MN,North Central
+27055,3,metro,metro,27,MN,North Central
+27057,7,rural,nonmetro_noadj,27,MN,North Central
+27059,1,metro,metro,27,MN,North Central
+27061,6,rural,nonmetro_adj,27,MN,North Central
+27063,7,rural,nonmetro_noadj,27,MN,North Central
+27065,6,rural,nonmetro_adj,27,MN,North Central
+27067,4,rural,nonmetro_adj,27,MN,North Central
+27069,9,rural,nonmetro_noadj,27,MN,North Central
+27071,6,rural,nonmetro_adj,27,MN,North Central
+27073,9,rural,nonmetro_noadj,27,MN,North Central
+27075,6,rural,nonmetro_adj,27,MN,North Central
+27077,9,rural,nonmetro_noadj,27,MN,North Central
+27079,1,metro,metro,27,MN,North Central
+27081,9,rural,nonmetro_noadj,27,MN,North Central
+27083,7,rural,nonmetro_noadj,27,MN,North Central
+27085,6,rural,nonmetro_adj,27,MN,North Central
+27087,8,rural,nonmetro_adj,27,MN,North Central
+27089,8,rural,nonmetro_adj,27,MN,North Central
+27091,7,rural,nonmetro_noadj,27,MN,North Central
+27093,6,rural,nonmetro_adj,27,MN,North Central
+27095,1,metro,metro,27,MN,North Central
+27097,6,rural,nonmetro_adj,27,MN,North Central
+27099,4,rural,nonmetro_adj,27,MN,North Central
+27101,9,rural,nonmetro_noadj,27,MN,North Central
+27103,3,metro,metro,27,MN,North Central
+27105,7,rural,nonmetro_noadj,27,MN,North Central
+27107,8,rural,nonmetro_adj,27,MN,North Central
+27109,3,metro,metro,27,MN,North Central
+27111,6,rural,nonmetro_adj,27,MN,North Central
+27113,6,rural,nonmetro_adj,27,MN,North Central
+27115,6,rural,nonmetro_adj,27,MN,North Central
+27117,6,rural,nonmetro_adj,27,MN,North Central
+27119,3,metro,metro,27,MN,North Central
+27121,8,rural,nonmetro_adj,27,MN,North Central
+27123,1,metro,metro,27,MN,North Central
+27125,8,rural,nonmetro_adj,27,MN,North Central
+27127,7,rural,nonmetro_noadj,27,MN,North Central
+27129,8,rural,nonmetro_adj,27,MN,North Central
+27131,4,rural,nonmetro_adj,27,MN,North Central
+27133,6,rural,nonmetro_adj,27,MN,North Central
+27135,7,rural,nonmetro_noadj,27,MN,North Central
+27137,2,metro,metro,27,MN,North Central
+27139,1,metro,metro,27,MN,North Central
+27141,1,metro,metro,27,MN,North Central
+27143,1,metro,metro,27,MN,North Central
+27145,3,metro,metro,27,MN,North Central
+27147,5,rural,nonmetro_noadj,27,MN,North Central
+27149,7,rural,nonmetro_noadj,27,MN,North Central
+27151,7,rural,nonmetro_noadj,27,MN,North Central
+27153,6,rural,nonmetro_adj,27,MN,North Central
+27155,9,rural,nonmetro_noadj,27,MN,North Central
+27157,3,metro,metro,27,MN,North Central
+27159,7,rural,nonmetro_noadj,27,MN,North Central
+27161,6,rural,nonmetro_adj,27,MN,North Central
+27163,1,metro,metro,27,MN,North Central
+27165,6,rural,nonmetro_adj,27,MN,North Central
+27167,6,rural,nonmetro_adj,27,MN,North Central
+27169,4,rural,nonmetro_adj,27,MN,North Central
+27171,1,metro,metro,27,MN,North Central
+27173,9,rural,nonmetro_noadj,27,MN,North Central
+28001,5,rural,nonmetro_noadj,28,MS,South
+28003,7,rural,nonmetro_noadj,28,MS,South
+28005,8,rural,nonmetro_adj,28,MS,South
+28007,6,rural,nonmetro_adj,28,MS,South
+28009,1,metro,metro,28,MS,South
+28011,7,rural,nonmetro_noadj,28,MS,South
+28013,9,rural,nonmetro_noadj,28,MS,South
+28015,9,rural,nonmetro_noadj,28,MS,South
+28017,7,rural,nonmetro_noadj,28,MS,South
+28019,9,rural,nonmetro_noadj,28,MS,South
+28021,8,rural,nonmetro_adj,28,MS,South
+28023,9,rural,nonmetro_noadj,28,MS,South
+28025,7,rural,nonmetro_noadj,28,MS,South
+28027,7,rural,nonmetro_noadj,28,MS,South
+28029,2,metro,metro,28,MS,South
+28031,8,rural,nonmetro_adj,28,MS,South
+28033,1,metro,metro,28,MS,South
+28035,3,metro,metro,28,MS,South
+28037,9,rural,nonmetro_noadj,28,MS,South
+28039,6,rural,nonmetro_adj,28,MS,South
+28041,8,rural,nonmetro_adj,28,MS,South
+28043,7,rural,nonmetro_noadj,28,MS,South
+28045,2,metro,metro,28,MS,South
+28047,2,metro,metro,28,MS,South
+28049,2,metro,metro,28,MS,South
+28051,6,rural,nonmetro_adj,28,MS,South
+28053,6,rural,nonmetro_adj,28,MS,South
+28055,8,rural,nonmetro_adj,28,MS,South
+28057,7,rural,nonmetro_noadj,28,MS,South
+28059,2,metro,metro,28,MS,South
+28061,9,rural,nonmetro_noadj,28,MS,South
+28063,8,rural,nonmetro_adj,28,MS,South
+28065,8,rural,nonmetro_adj,28,MS,South
+28067,4,rural,nonmetro_adj,28,MS,South
+28069,9,rural,nonmetro_noadj,28,MS,South
+28071,4,rural,nonmetro_adj,28,MS,South
+28073,3,metro,metro,28,MS,South
+28075,5,rural,nonmetro_noadj,28,MS,South
+28077,8,rural,nonmetro_adj,28,MS,South
+28079,6,rural,nonmetro_adj,28,MS,South
+28081,5,rural,nonmetro_noadj,28,MS,South
+28083,5,rural,nonmetro_noadj,28,MS,South
+28085,6,rural,nonmetro_adj,28,MS,South
+28087,5,rural,nonmetro_noadj,28,MS,South
+28089,2,metro,metro,28,MS,South
+28091,6,rural,nonmetro_adj,28,MS,South
+28093,1,metro,metro,28,MS,South
+28095,7,rural,nonmetro_noadj,28,MS,South
+28097,7,rural,nonmetro_noadj,28,MS,South
+28099,7,rural,nonmetro_noadj,28,MS,South
+28101,7,rural,nonmetro_noadj,28,MS,South
+28103,7,rural,nonmetro_noadj,28,MS,South
+28105,5,rural,nonmetro_noadj,28,MS,South
+28107,6,rural,nonmetro_adj,28,MS,South
+28109,6,rural,nonmetro_adj,28,MS,South
+28111,3,metro,metro,28,MS,South
+28113,6,rural,nonmetro_adj,28,MS,South
+28115,7,rural,nonmetro_noadj,28,MS,South
+28117,7,rural,nonmetro_noadj,28,MS,South
+28119,6,rural,nonmetro_adj,28,MS,South
+28121,2,metro,metro,28,MS,South
+28123,6,rural,nonmetro_adj,28,MS,South
+28125,8,rural,nonmetro_adj,28,MS,South
+28127,2,metro,metro,28,MS,South
+28129,8,rural,nonmetro_adj,28,MS,South
+28131,6,rural,nonmetro_adj,28,MS,South
+28133,7,rural,nonmetro_noadj,28,MS,South
+28135,7,rural,nonmetro_noadj,28,MS,South
+28137,1,metro,metro,28,MS,South
+28139,6,rural,nonmetro_adj,28,MS,South
+28141,8,rural,nonmetro_adj,28,MS,South
+28143,1,metro,metro,28,MS,South
+28145,6,rural,nonmetro_adj,28,MS,South
+28147,9,rural,nonmetro_noadj,28,MS,South
+28149,4,rural,nonmetro_adj,28,MS,South
+28151,5,rural,nonmetro_noadj,28,MS,South
+28153,7,rural,nonmetro_noadj,28,MS,South
+28155,9,rural,nonmetro_noadj,28,MS,South
+28157,8,rural,nonmetro_adj,28,MS,South
+28159,7,rural,nonmetro_noadj,28,MS,South
+28161,7,rural,nonmetro_noadj,28,MS,South
+28163,2,metro,metro,28,MS,South
+29001,7,rural,nonmetro_noadj,29,MO,North Central
+29003,3,metro,metro,29,MO,North Central
+29005,9,rural,nonmetro_noadj,29,MO,North Central
+29007,6,rural,nonmetro_adj,29,MO,North Central
+29009,6,rural,nonmetro_adj,29,MO,North Central
+29011,6,rural,nonmetro_adj,29,MO,North Central
+29013,1,metro,metro,29,MO,North Central
+29015,7,rural,nonmetro_noadj,29,MO,North Central
+29017,3,metro,metro,29,MO,North Central
+29019,3,metro,metro,29,MO,North Central
+29021,3,metro,metro,29,MO,North Central
+29023,5,rural,nonmetro_noadj,29,MO,North Central
+29025,1,metro,metro,29,MO,North Central
+29027,3,metro,metro,29,MO,North Central
+29029,7,rural,nonmetro_noadj,29,MO,North Central
+29031,3,metro,metro,29,MO,North Central
+29033,6,rural,nonmetro_adj,29,MO,North Central
+29035,9,rural,nonmetro_noadj,29,MO,North Central
+29039,6,rural,nonmetro_adj,29,MO,North Central
+29041,9,rural,nonmetro_noadj,29,MO,North Central
+29043,2,metro,metro,29,MO,North Central
+29045,9,rural,nonmetro_noadj,29,MO,North Central
+29049,1,metro,metro,29,MO,North Central
+29051,3,metro,metro,29,MO,North Central
+29053,6,rural,nonmetro_adj,29,MO,North Central
+29055,6,rural,nonmetro_adj,29,MO,North Central
+29057,8,rural,nonmetro_adj,29,MO,North Central
+29059,2,metro,metro,29,MO,North Central
+29061,8,rural,nonmetro_adj,29,MO,North Central
+29063,3,metro,metro,29,MO,North Central
+29065,7,rural,nonmetro_noadj,29,MO,North Central
+29067,6,rural,nonmetro_adj,29,MO,North Central
+29069,7,rural,nonmetro_noadj,29,MO,North Central
+29071,1,metro,metro,29,MO,North Central
+29073,6,rural,nonmetro_adj,29,MO,North Central
+29075,8,rural,nonmetro_adj,29,MO,North Central
+29077,2,metro,metro,29,MO,North Central
+29079,7,rural,nonmetro_noadj,29,MO,North Central
+29081,7,rural,nonmetro_noadj,29,MO,North Central
+29083,6,rural,nonmetro_adj,29,MO,North Central
+29085,8,rural,nonmetro_adj,29,MO,North Central
+29087,8,rural,nonmetro_adj,29,MO,North Central
+29089,6,rural,nonmetro_adj,29,MO,North Central
+29091,7,rural,nonmetro_noadj,29,MO,North Central
+29093,7,rural,nonmetro_noadj,29,MO,North Central
+29097,3,metro,metro,29,MO,North Central
+29099,1,metro,metro,29,MO,North Central
+29101,4,rural,nonmetro_adj,29,MO,North Central
+29103,9,rural,nonmetro_noadj,29,MO,North Central
+29105,6,rural,nonmetro_adj,29,MO,North Central
+29107,1,metro,metro,29,MO,North Central
+29109,6,rural,nonmetro_adj,29,MO,North Central
+29111,9,rural,nonmetro_noadj,29,MO,North Central
+29113,1,metro,metro,29,MO,North Central
+29115,7,rural,nonmetro_noadj,29,MO,North Central
+29117,6,rural,nonmetro_adj,29,MO,North Central
+29119,2,metro,metro,29,MO,North Central
+29121,7,rural,nonmetro_noadj,29,MO,North Central
+29123,6,rural,nonmetro_adj,29,MO,North Central
+29125,8,rural,nonmetro_adj,29,MO,North Central
+29127,5,rural,nonmetro_noadj,29,MO,North Central
+29129,9,rural,nonmetro_noadj,29,MO,North Central
+29131,6,rural,nonmetro_adj,29,MO,North Central
+29133,6,rural,nonmetro_adj,29,MO,North Central
+29135,3,metro,metro,29,MO,North Central
+29137,9,rural,nonmetro_noadj,29,MO,North Central
+29139,6,rural,nonmetro_adj,29,MO,North Central
+29141,8,rural,nonmetro_adj,29,MO,North Central
+29143,7,rural,nonmetro_noadj,29,MO,North Central
+29145,3,metro,metro,29,MO,North Central
+29147,6,rural,nonmetro_adj,29,MO,North Central
+29149,9,rural,nonmetro_noadj,29,MO,North Central
+29151,3,metro,metro,29,MO,North Central
+29153,9,rural,nonmetro_noadj,29,MO,North Central
+29155,7,rural,nonmetro_noadj,29,MO,North Central
+29157,6,rural,nonmetro_adj,29,MO,North Central
+29159,4,rural,nonmetro_adj,29,MO,North Central
+29161,5,rural,nonmetro_noadj,29,MO,North Central
+29163,6,rural,nonmetro_adj,29,MO,North Central
+29167,2,metro,metro,29,MO,North Central
+29169,5,rural,nonmetro_noadj,29,MO,North Central
+29171,9,rural,nonmetro_noadj,29,MO,North Central
+29173,9,rural,nonmetro_noadj,29,MO,North Central
+29175,6,rural,nonmetro_adj,29,MO,North Central
+29177,1,metro,metro,29,MO,North Central
+29179,9,rural,nonmetro_noadj,29,MO,North Central
+29181,9,rural,nonmetro_noadj,29,MO,North Central
+29183,1,metro,metro,29,MO,North Central
+29185,8,rural,nonmetro_adj,29,MO,North Central
+29186,6,rural,nonmetro_adj,29,MO,North Central
+29187,4,rural,nonmetro_adj,29,MO,North Central
+29189,1,metro,metro,29,MO,North Central
+29195,6,rural,nonmetro_adj,29,MO,North Central
+29197,9,rural,nonmetro_noadj,29,MO,North Central
+29199,9,rural,nonmetro_noadj,29,MO,North Central
+29201,4,rural,nonmetro_adj,29,MO,North Central
+29203,9,rural,nonmetro_noadj,29,MO,North Central
+29205,9,rural,nonmetro_noadj,29,MO,North Central
+29207,6,rural,nonmetro_adj,29,MO,North Central
+29209,6,rural,nonmetro_adj,29,MO,North Central
+29211,9,rural,nonmetro_noadj,29,MO,North Central
+29213,4,rural,nonmetro_adj,29,MO,North Central
+29215,9,rural,nonmetro_noadj,29,MO,North Central
+29217,7,rural,nonmetro_noadj,29,MO,North Central
+29219,1,metro,metro,29,MO,North Central
+29221,6,rural,nonmetro_adj,29,MO,North Central
+29223,9,rural,nonmetro_noadj,29,MO,North Central
+29225,2,metro,metro,29,MO,North Central
+29227,9,rural,nonmetro_noadj,29,MO,North Central
+29229,6,rural,nonmetro_adj,29,MO,North Central
+29510,1,metro,metro,29,MO,North Central
+30001,7,rural,nonmetro_noadj,30,MT,West
+30003,6,rural,nonmetro_adj,30,MT,West
+30005,9,rural,nonmetro_noadj,30,MT,West
+30007,9,rural,nonmetro_noadj,30,MT,West
+30009,3,metro,metro,30,MT,West
+30011,9,rural,nonmetro_noadj,30,MT,West
+30013,3,metro,metro,30,MT,West
+30015,8,rural,nonmetro_adj,30,MT,West
+30017,7,rural,nonmetro_noadj,30,MT,West
+30019,9,rural,nonmetro_noadj,30,MT,West
+30021,7,rural,nonmetro_noadj,30,MT,West
+30023,7,rural,nonmetro_noadj,30,MT,West
+30025,9,rural,nonmetro_noadj,30,MT,West
+30027,7,rural,nonmetro_noadj,30,MT,West
+30029,5,rural,nonmetro_noadj,30,MT,West
+30031,5,rural,nonmetro_noadj,30,MT,West
+30033,9,rural,nonmetro_noadj,30,MT,West
+30035,7,rural,nonmetro_noadj,30,MT,West
+30037,3,metro,metro,30,MT,West
+30039,8,rural,nonmetro_adj,30,MT,West
+30041,7,rural,nonmetro_noadj,30,MT,West
+30043,9,rural,nonmetro_noadj,30,MT,West
+30045,8,rural,nonmetro_adj,30,MT,West
+30047,6,rural,nonmetro_adj,30,MT,West
+30049,5,rural,nonmetro_noadj,30,MT,West
+30051,9,rural,nonmetro_noadj,30,MT,West
+30053,7,rural,nonmetro_noadj,30,MT,West
+30055,9,rural,nonmetro_noadj,30,MT,West
+30057,9,rural,nonmetro_noadj,30,MT,West
+30059,9,rural,nonmetro_noadj,30,MT,West
+30061,8,rural,nonmetro_adj,30,MT,West
+30063,3,metro,metro,30,MT,West
+30065,8,rural,nonmetro_adj,30,MT,West
+30067,7,rural,nonmetro_noadj,30,MT,West
+30069,9,rural,nonmetro_noadj,30,MT,West
+30071,9,rural,nonmetro_noadj,30,MT,West
+30073,7,rural,nonmetro_noadj,30,MT,West
+30075,9,rural,nonmetro_noadj,30,MT,West
+30077,6,rural,nonmetro_adj,30,MT,West
+30079,9,rural,nonmetro_noadj,30,MT,West
+30081,6,rural,nonmetro_adj,30,MT,West
+30083,7,rural,nonmetro_noadj,30,MT,West
+30085,7,rural,nonmetro_noadj,30,MT,West
+30087,9,rural,nonmetro_noadj,30,MT,West
+30089,8,rural,nonmetro_adj,30,MT,West
+30091,9,rural,nonmetro_noadj,30,MT,West
+30093,5,rural,nonmetro_noadj,30,MT,West
+30095,8,rural,nonmetro_adj,30,MT,West
+30097,9,rural,nonmetro_noadj,30,MT,West
+30099,8,rural,nonmetro_adj,30,MT,West
+30101,7,rural,nonmetro_noadj,30,MT,West
+30103,8,rural,nonmetro_adj,30,MT,West
+30105,7,rural,nonmetro_noadj,30,MT,West
+30107,9,rural,nonmetro_noadj,30,MT,West
+30109,9,rural,nonmetro_noadj,30,MT,West
+30111,3,metro,metro,30,MT,West
+31001,4,rural,nonmetro_adj,31,NE,North Central
+31003,9,rural,nonmetro_noadj,31,NE,North Central
+31005,9,rural,nonmetro_noadj,31,NE,North Central
+31007,9,rural,nonmetro_noadj,31,NE,North Central
+31009,9,rural,nonmetro_noadj,31,NE,North Central
+31011,9,rural,nonmetro_noadj,31,NE,North Central
+31013,7,rural,nonmetro_noadj,31,NE,North Central
+31015,9,rural,nonmetro_noadj,31,NE,North Central
+31017,9,rural,nonmetro_noadj,31,NE,North Central
+31019,4,rural,nonmetro_adj,31,NE,North Central
+31021,8,rural,nonmetro_adj,31,NE,North Central
+31023,6,rural,nonmetro_adj,31,NE,North Central
+31025,2,metro,metro,31,NE,North Central
+31027,9,rural,nonmetro_noadj,31,NE,North Central
+31029,9,rural,nonmetro_noadj,31,NE,North Central
+31031,7,rural,nonmetro_noadj,31,NE,North Central
+31033,7,rural,nonmetro_noadj,31,NE,North Central
+31035,8,rural,nonmetro_adj,31,NE,North Central
+31037,7,rural,nonmetro_noadj,31,NE,North Central
+31039,7,rural,nonmetro_noadj,31,NE,North Central
+31041,7,rural,nonmetro_noadj,31,NE,North Central
+31043,3,metro,metro,31,NE,North Central
+31045,7,rural,nonmetro_noadj,31,NE,North Central
+31047,7,rural,nonmetro_noadj,31,NE,North Central
+31049,9,rural,nonmetro_noadj,31,NE,North Central
+31051,3,metro,metro,31,NE,North Central
+31053,4,rural,nonmetro_adj,31,NE,North Central
+31055,2,metro,metro,31,NE,North Central
+31057,9,rural,nonmetro_noadj,31,NE,North Central
+31059,8,rural,nonmetro_adj,31,NE,North Central
+31061,9,rural,nonmetro_noadj,31,NE,North Central
+31063,9,rural,nonmetro_noadj,31,NE,North Central
+31065,9,rural,nonmetro_noadj,31,NE,North Central
+31067,6,rural,nonmetro_adj,31,NE,North Central
+31069,9,rural,nonmetro_noadj,31,NE,North Central
+31071,9,rural,nonmetro_noadj,31,NE,North Central
+31073,9,rural,nonmetro_noadj,31,NE,North Central
+31075,9,rural,nonmetro_noadj,31,NE,North Central
+31077,8,rural,nonmetro_adj,31,NE,North Central
+31079,3,metro,metro,31,NE,North Central
+31081,3,metro,metro,31,NE,North Central
+31083,9,rural,nonmetro_noadj,31,NE,North Central
+31085,9,rural,nonmetro_noadj,31,NE,North Central
+31087,9,rural,nonmetro_noadj,31,NE,North Central
+31089,7,rural,nonmetro_noadj,31,NE,North Central
+31091,9,rural,nonmetro_noadj,31,NE,North Central
+31093,3,metro,metro,31,NE,North Central
+31095,7,rural,nonmetro_noadj,31,NE,North Central
+31097,8,rural,nonmetro_adj,31,NE,North Central
+31099,7,rural,nonmetro_noadj,31,NE,North Central
+31101,7,rural,nonmetro_noadj,31,NE,North Central
+31103,9,rural,nonmetro_noadj,31,NE,North Central
+31105,8,rural,nonmetro_adj,31,NE,North Central
+31107,9,rural,nonmetro_noadj,31,NE,North Central
+31109,2,metro,metro,31,NE,North Central
+31111,5,rural,nonmetro_noadj,31,NE,North Central
+31113,9,rural,nonmetro_noadj,31,NE,North Central
+31115,9,rural,nonmetro_noadj,31,NE,North Central
+31117,9,rural,nonmetro_noadj,31,NE,North Central
+31119,5,rural,nonmetro_noadj,31,NE,North Central
+31121,3,metro,metro,31,NE,North Central
+31123,9,rural,nonmetro_noadj,31,NE,North Central
+31125,8,rural,nonmetro_adj,31,NE,North Central
+31127,7,rural,nonmetro_noadj,31,NE,North Central
+31129,9,rural,nonmetro_noadj,31,NE,North Central
+31131,6,rural,nonmetro_adj,31,NE,North Central
+31133,9,rural,nonmetro_noadj,31,NE,North Central
+31135,9,rural,nonmetro_noadj,31,NE,North Central
+31137,7,rural,nonmetro_noadj,31,NE,North Central
+31139,9,rural,nonmetro_noadj,31,NE,North Central
+31141,5,rural,nonmetro_noadj,31,NE,North Central
+31143,9,rural,nonmetro_noadj,31,NE,North Central
+31145,7,rural,nonmetro_noadj,31,NE,North Central
+31147,7,rural,nonmetro_noadj,31,NE,North Central
+31149,9,rural,nonmetro_noadj,31,NE,North Central
+31151,6,rural,nonmetro_adj,31,NE,North Central
+31153,2,metro,metro,31,NE,North Central
+31155,2,metro,metro,31,NE,North Central
+31157,5,rural,nonmetro_noadj,31,NE,North Central
+31159,2,metro,metro,31,NE,North Central
+31161,9,rural,nonmetro_noadj,31,NE,North Central
+31163,8,rural,nonmetro_adj,31,NE,North Central
+31165,9,rural,nonmetro_noadj,31,NE,North Central
+31167,9,rural,nonmetro_noadj,31,NE,North Central
+31169,9,rural,nonmetro_noadj,31,NE,North Central
+31171,9,rural,nonmetro_noadj,31,NE,North Central
+31173,8,rural,nonmetro_adj,31,NE,North Central
+31175,9,rural,nonmetro_noadj,31,NE,North Central
+31177,2,metro,metro,31,NE,North Central
+31179,6,rural,nonmetro_adj,31,NE,North Central
+31181,9,rural,nonmetro_noadj,31,NE,North Central
+31183,9,rural,nonmetro_noadj,31,NE,North Central
+31185,6,rural,nonmetro_adj,31,NE,North Central
+32001,6,rural,nonmetro_adj,32,NV,West
+32003,1,metro,metro,32,NV,West
+32005,4,rural,nonmetro_adj,32,NV,West
+32007,5,rural,nonmetro_noadj,32,NV,West
+32009,9,rural,nonmetro_noadj,32,NV,West
+32011,9,rural,nonmetro_noadj,32,NV,West
+32013,7,rural,nonmetro_noadj,32,NV,West
+32015,7,rural,nonmetro_noadj,32,NV,West
+32017,8,rural,nonmetro_adj,32,NV,West
+32019,4,rural,nonmetro_adj,32,NV,West
+32021,7,rural,nonmetro_noadj,32,NV,West
+32023,4,rural,nonmetro_adj,32,NV,West
+32027,9,rural,nonmetro_noadj,32,NV,West
+32029,2,metro,metro,32,NV,West
+32031,2,metro,metro,32,NV,West
+32033,7,rural,nonmetro_noadj,32,NV,West
+32510,3,metro,metro,32,NV,West
+33001,4,rural,nonmetro_adj,33,NH,Northeast
+33003,6,rural,nonmetro_adj,33,NH,Northeast
+33005,4,rural,nonmetro_adj,33,NH,Northeast
+33007,7,rural,nonmetro_noadj,33,NH,Northeast
+33009,5,rural,nonmetro_noadj,33,NH,Northeast
+33011,2,metro,metro,33,NH,Northeast
+33013,4,rural,nonmetro_adj,33,NH,Northeast
+33015,1,metro,metro,33,NH,Northeast
+33017,1,metro,metro,33,NH,Northeast
+33019,7,rural,nonmetro_noadj,33,NH,Northeast
+34001,2,metro,metro,34,NJ,Northeast
+34003,1,metro,metro,34,NJ,Northeast
+34005,1,metro,metro,34,NJ,Northeast
+34007,1,metro,metro,34,NJ,Northeast
+34009,3,metro,metro,34,NJ,Northeast
+34011,3,metro,metro,34,NJ,Northeast
+34013,1,metro,metro,34,NJ,Northeast
+34015,1,metro,metro,34,NJ,Northeast
+34017,1,metro,metro,34,NJ,Northeast
+34019,1,metro,metro,34,NJ,Northeast
+34021,2,metro,metro,34,NJ,Northeast
+34023,1,metro,metro,34,NJ,Northeast
+34025,1,metro,metro,34,NJ,Northeast
+34027,1,metro,metro,34,NJ,Northeast
+34029,1,metro,metro,34,NJ,Northeast
+34031,1,metro,metro,34,NJ,Northeast
+34033,1,metro,metro,34,NJ,Northeast
+34035,1,metro,metro,34,NJ,Northeast
+34037,1,metro,metro,34,NJ,Northeast
+34039,1,metro,metro,34,NJ,Northeast
+34041,2,metro,metro,34,NJ,Northeast
+35001,2,metro,metro,35,NM,West
+35003,9,rural,nonmetro_noadj,35,NM,West
+35005,5,rural,nonmetro_noadj,35,NM,West
+35006,6,rural,nonmetro_adj,35,NM,West
+35007,7,rural,nonmetro_noadj,35,NM,West
+35009,5,rural,nonmetro_noadj,35,NM,West
+35011,9,rural,nonmetro_noadj,35,NM,West
+35013,3,metro,metro,35,NM,West
+35015,5,rural,nonmetro_noadj,35,NM,West
+35017,7,rural,nonmetro_noadj,35,NM,West
+35019,7,rural,nonmetro_noadj,35,NM,West
+35021,9,rural,nonmetro_noadj,35,NM,West
+35023,9,rural,nonmetro_noadj,35,NM,West
+35025,5,rural,nonmetro_noadj,35,NM,West
+35027,7,rural,nonmetro_noadj,35,NM,West
+35028,6,rural,nonmetro_adj,35,NM,West
+35029,6,rural,nonmetro_adj,35,NM,West
+35031,5,rural,nonmetro_noadj,35,NM,West
+35033,9,rural,nonmetro_noadj,35,NM,West
+35035,4,rural,nonmetro_adj,35,NM,West
+35037,7,rural,nonmetro_noadj,35,NM,West
+35039,4,rural,nonmetro_adj,35,NM,West
+35041,7,rural,nonmetro_noadj,35,NM,West
+35043,2,metro,metro,35,NM,West
+35045,3,metro,metro,35,NM,West
+35047,6,rural,nonmetro_adj,35,NM,West
+35049,3,metro,metro,35,NM,West
+35051,6,rural,nonmetro_adj,35,NM,West
+35053,6,rural,nonmetro_adj,35,NM,West
+35055,7,rural,nonmetro_noadj,35,NM,West
+35057,2,metro,metro,35,NM,West
+35059,9,rural,nonmetro_noadj,35,NM,West
+35061,2,metro,metro,35,NM,West
+36001,2,metro,metro,36,NY,Northeast
+36003,7,rural,nonmetro_noadj,36,NY,Northeast
+36007,2,metro,metro,36,NY,Northeast
+36009,4,rural,nonmetro_adj,36,NY,Northeast
+36011,4,rural,nonmetro_adj,36,NY,Northeast
+36013,4,rural,nonmetro_adj,36,NY,Northeast
+36015,3,metro,metro,36,NY,Northeast
+36017,6,rural,nonmetro_adj,36,NY,Northeast
+36019,5,rural,nonmetro_noadj,36,NY,Northeast
+36021,6,rural,nonmetro_adj,36,NY,Northeast
+36023,4,rural,nonmetro_adj,36,NY,Northeast
+36025,6,rural,nonmetro_adj,36,NY,Northeast
+36027,1,metro,metro,36,NY,Northeast
+36029,1,metro,metro,36,NY,Northeast
+36031,6,rural,nonmetro_adj,36,NY,Northeast
+36033,7,rural,nonmetro_noadj,36,NY,Northeast
+36035,4,rural,nonmetro_adj,36,NY,Northeast
+36037,4,rural,nonmetro_adj,36,NY,Northeast
+36039,6,rural,nonmetro_adj,36,NY,Northeast
+36041,8,rural,nonmetro_adj,36,NY,Northeast
+36043,2,metro,metro,36,NY,Northeast
+36045,3,metro,metro,36,NY,Northeast
+36049,6,rural,nonmetro_adj,36,NY,Northeast
+36051,1,metro,metro,36,NY,Northeast
+36053,2,metro,metro,36,NY,Northeast
+36055,1,metro,metro,36,NY,Northeast
+36057,4,rural,nonmetro_adj,36,NY,Northeast
+36059,1,metro,metro,36,NY,Northeast
+36063,1,metro,metro,36,NY,Northeast
+36065,2,metro,metro,36,NY,Northeast
+36067,2,metro,metro,36,NY,Northeast
+36069,1,metro,metro,36,NY,Northeast
+36071,1,metro,metro,36,NY,Northeast
+36073,1,metro,metro,36,NY,Northeast
+36075,2,metro,metro,36,NY,Northeast
+36077,7,rural,nonmetro_noadj,36,NY,Northeast
+36079,1,metro,metro,36,NY,Northeast
+36083,2,metro,metro,36,NY,Northeast
+36087,1,metro,metro,36,NY,Northeast
+36089,4,rural,nonmetro_adj,36,NY,Northeast
+36091,2,metro,metro,36,NY,Northeast
+36093,2,metro,metro,36,NY,Northeast
+36095,2,metro,metro,36,NY,Northeast
+36097,6,rural,nonmetro_adj,36,NY,Northeast
+36099,6,rural,nonmetro_adj,36,NY,Northeast
+36101,4,rural,nonmetro_adj,36,NY,Northeast
+36103,1,metro,metro,36,NY,Northeast
+36105,4,rural,nonmetro_adj,36,NY,Northeast
+36107,2,metro,metro,36,NY,Northeast
+36109,3,metro,metro,36,NY,Northeast
+36111,3,metro,metro,36,NY,Northeast
+36113,3,metro,metro,36,NY,Northeast
+36115,3,metro,metro,36,NY,Northeast
+36117,1,metro,metro,36,NY,Northeast
+36119,1,metro,metro,36,NY,Northeast
+36121,6,rural,nonmetro_adj,36,NY,Northeast
+36123,1,metro,metro,36,NY,Northeast
+37001,3,metro,metro,37,NC,South
+37003,2,metro,metro,37,NC,South
+37005,9,rural,nonmetro_noadj,37,NC,South
+37007,6,rural,nonmetro_adj,37,NC,South
+37009,7,rural,nonmetro_noadj,37,NC,South
+37011,8,rural,nonmetro_adj,37,NC,South
+37013,6,rural,nonmetro_adj,37,NC,South
+37015,7,rural,nonmetro_noadj,37,NC,South
+37017,6,rural,nonmetro_adj,37,NC,South
+37019,2,metro,metro,37,NC,South
+37021,2,metro,metro,37,NC,South
+37023,2,metro,metro,37,NC,South
+37025,1,metro,metro,37,NC,South
+37027,2,metro,metro,37,NC,South
+37029,8,rural,nonmetro_adj,37,NC,South
+37031,4,rural,nonmetro_adj,37,NC,South
+37033,8,rural,nonmetro_adj,37,NC,South
+37035,2,metro,metro,37,NC,South
+37037,2,metro,metro,37,NC,South
+37039,9,rural,nonmetro_noadj,37,NC,South
+37041,6,rural,nonmetro_adj,37,NC,South
+37043,9,rural,nonmetro_noadj,37,NC,South
+37045,4,rural,nonmetro_adj,37,NC,South
+37047,6,rural,nonmetro_adj,37,NC,South
+37049,3,metro,metro,37,NC,South
+37051,2,metro,metro,37,NC,South
+37053,1,metro,metro,37,NC,South
+37055,4,rural,nonmetro_adj,37,NC,South
+37057,2,metro,metro,37,NC,South
+37059,2,metro,metro,37,NC,South
+37061,6,rural,nonmetro_adj,37,NC,South
+37063,2,metro,metro,37,NC,South
+37065,3,metro,metro,37,NC,South
+37067,2,metro,metro,37,NC,South
+37069,1,metro,metro,37,NC,South
+37071,1,metro,metro,37,NC,South
+37073,1,metro,metro,37,NC,South
+37075,9,rural,nonmetro_noadj,37,NC,South
+37077,4,rural,nonmetro_adj,37,NC,South
+37079,8,rural,nonmetro_adj,37,NC,South
+37081,2,metro,metro,37,NC,South
+37083,4,rural,nonmetro_adj,37,NC,South
+37085,4,rural,nonmetro_adj,37,NC,South
+37087,2,metro,metro,37,NC,South
+37089,2,metro,metro,37,NC,South
+37091,6,rural,nonmetro_adj,37,NC,South
+37093,2,metro,metro,37,NC,South
+37095,9,rural,nonmetro_noadj,37,NC,South
+37097,1,metro,metro,37,NC,South
+37099,6,rural,nonmetro_adj,37,NC,South
+37101,1,metro,metro,37,NC,South
+37103,3,metro,metro,37,NC,South
+37105,4,rural,nonmetro_adj,37,NC,South
+37107,4,rural,nonmetro_adj,37,NC,South
+37109,1,metro,metro,37,NC,South
+37111,6,rural,nonmetro_adj,37,NC,South
+37113,7,rural,nonmetro_noadj,37,NC,South
+37115,2,metro,metro,37,NC,South
+37117,6,rural,nonmetro_adj,37,NC,South
+37119,1,metro,metro,37,NC,South
+37121,7,rural,nonmetro_noadj,37,NC,South
+37123,6,rural,nonmetro_adj,37,NC,South
+37125,4,rural,nonmetro_adj,37,NC,South
+37127,3,metro,metro,37,NC,South
+37129,2,metro,metro,37,NC,South
+37131,9,rural,nonmetro_noadj,37,NC,South
+37133,3,metro,metro,37,NC,South
+37135,2,metro,metro,37,NC,South
+37137,3,metro,metro,37,NC,South
+37139,4,rural,nonmetro_adj,37,NC,South
+37141,2,metro,metro,37,NC,South
+37143,8,rural,nonmetro_adj,37,NC,South
+37145,2,metro,metro,37,NC,South
+37147,3,metro,metro,37,NC,South
+37149,8,rural,nonmetro_adj,37,NC,South
+37151,2,metro,metro,37,NC,South
+37153,5,rural,nonmetro_noadj,37,NC,South
+37155,4,rural,nonmetro_adj,37,NC,South
+37157,2,metro,metro,37,NC,South
+37159,1,metro,metro,37,NC,South
+37161,4,rural,nonmetro_adj,37,NC,South
+37163,6,rural,nonmetro_adj,37,NC,South
+37165,6,rural,nonmetro_adj,37,NC,South
+37167,6,rural,nonmetro_adj,37,NC,South
+37169,2,metro,metro,37,NC,South
+37171,4,rural,nonmetro_adj,37,NC,South
+37173,8,rural,nonmetro_adj,37,NC,South
+37175,6,rural,nonmetro_adj,37,NC,South
+37177,9,rural,nonmetro_noadj,37,NC,South
+37179,1,metro,metro,37,NC,South
+37181,4,rural,nonmetro_adj,37,NC,South
+37183,1,metro,metro,37,NC,South
+37185,8,rural,nonmetro_adj,37,NC,South
+37187,7,rural,nonmetro_noadj,37,NC,South
+37189,5,rural,nonmetro_noadj,37,NC,South
+37191,3,metro,metro,37,NC,South
+37193,6,rural,nonmetro_adj,37,NC,South
+37195,4,rural,nonmetro_adj,37,NC,South
+37197,2,metro,metro,37,NC,South
+37199,8,rural,nonmetro_adj,37,NC,South
+38001,9,rural,nonmetro_noadj,38,ND,North Central
+38003,6,rural,nonmetro_adj,38,ND,North Central
+38005,9,rural,nonmetro_noadj,38,ND,North Central
+38007,9,rural,nonmetro_noadj,38,ND,North Central
+38009,9,rural,nonmetro_noadj,38,ND,North Central
+38011,9,rural,nonmetro_noadj,38,ND,North Central
+38013,9,rural,nonmetro_noadj,38,ND,North Central
+38015,3,metro,metro,38,ND,North Central
+38017,3,metro,metro,38,ND,North Central
+38019,9,rural,nonmetro_noadj,38,ND,North Central
+38021,9,rural,nonmetro_noadj,38,ND,North Central
+38023,9,rural,nonmetro_noadj,38,ND,North Central
+38025,9,rural,nonmetro_noadj,38,ND,North Central
+38027,9,rural,nonmetro_noadj,38,ND,North Central
+38029,8,rural,nonmetro_adj,38,ND,North Central
+38031,9,rural,nonmetro_noadj,38,ND,North Central
+38033,9,rural,nonmetro_noadj,38,ND,North Central
+38035,3,metro,metro,38,ND,North Central
+38037,8,rural,nonmetro_adj,38,ND,North Central
+38039,9,rural,nonmetro_noadj,38,ND,North Central
+38041,9,rural,nonmetro_noadj,38,ND,North Central
+38043,8,rural,nonmetro_adj,38,ND,North Central
+38045,9,rural,nonmetro_noadj,38,ND,North Central
+38047,9,rural,nonmetro_noadj,38,ND,North Central
+38049,9,rural,nonmetro_noadj,38,ND,North Central
+38051,9,rural,nonmetro_noadj,38,ND,North Central
+38053,9,rural,nonmetro_noadj,38,ND,North Central
+38055,8,rural,nonmetro_adj,38,ND,North Central
+38057,7,rural,nonmetro_noadj,38,ND,North Central
+38059,3,metro,metro,38,ND,North Central
+38061,9,rural,nonmetro_noadj,38,ND,North Central
+38063,8,rural,nonmetro_adj,38,ND,North Central
+38065,3,metro,metro,38,ND,North Central
+38067,9,rural,nonmetro_noadj,38,ND,North Central
+38069,7,rural,nonmetro_noadj,38,ND,North Central
+38071,7,rural,nonmetro_noadj,38,ND,North Central
+38073,8,rural,nonmetro_adj,38,ND,North Central
+38075,9,rural,nonmetro_noadj,38,ND,North Central
+38077,6,rural,nonmetro_adj,38,ND,North Central
+38079,9,rural,nonmetro_noadj,38,ND,North Central
+38081,9,rural,nonmetro_noadj,38,ND,North Central
+38083,9,rural,nonmetro_noadj,38,ND,North Central
+38085,3,metro,metro,38,ND,North Central
+38087,9,rural,nonmetro_noadj,38,ND,North Central
+38089,7,rural,nonmetro_noadj,38,ND,North Central
+38091,8,rural,nonmetro_adj,38,ND,North Central
+38093,7,rural,nonmetro_noadj,38,ND,North Central
+38095,9,rural,nonmetro_noadj,38,ND,North Central
+38097,8,rural,nonmetro_adj,38,ND,North Central
+38099,6,rural,nonmetro_adj,38,ND,North Central
+38101,5,rural,nonmetro_noadj,38,ND,North Central
+38103,9,rural,nonmetro_noadj,38,ND,North Central
+38105,7,rural,nonmetro_noadj,38,ND,North Central
+39001,6,rural,nonmetro_adj,39,OH,North Central
+39003,3,metro,metro,39,OH,North Central
+39005,4,rural,nonmetro_adj,39,OH,North Central
+39007,4,rural,nonmetro_adj,39,OH,North Central
+39009,4,rural,nonmetro_adj,39,OH,North Central
+39011,4,rural,nonmetro_adj,39,OH,North Central
+39013,3,metro,metro,39,OH,North Central
+39015,1,metro,metro,39,OH,North Central
+39017,1,metro,metro,39,OH,North Central
+39019,2,metro,metro,39,OH,North Central
+39021,6,rural,nonmetro_adj,39,OH,North Central
+39023,3,metro,metro,39,OH,North Central
+39025,1,metro,metro,39,OH,North Central
+39027,6,rural,nonmetro_adj,39,OH,North Central
+39029,4,rural,nonmetro_adj,39,OH,North Central
+39031,6,rural,nonmetro_adj,39,OH,North Central
+39033,4,rural,nonmetro_adj,39,OH,North Central
+39035,1,metro,metro,39,OH,North Central
+39037,6,rural,nonmetro_adj,39,OH,North Central
+39039,4,rural,nonmetro_adj,39,OH,North Central
+39041,1,metro,metro,39,OH,North Central
+39043,4,rural,nonmetro_adj,39,OH,North Central
+39045,1,metro,metro,39,OH,North Central
+39047,6,rural,nonmetro_adj,39,OH,North Central
+39049,1,metro,metro,39,OH,North Central
+39051,2,metro,metro,39,OH,North Central
+39053,6,rural,nonmetro_adj,39,OH,North Central
+39055,1,metro,metro,39,OH,North Central
+39057,2,metro,metro,39,OH,North Central
+39059,6,rural,nonmetro_adj,39,OH,North Central
+39061,1,metro,metro,39,OH,North Central
+39063,4,rural,nonmetro_adj,39,OH,North Central
+39065,6,rural,nonmetro_adj,39,OH,North Central
+39067,6,rural,nonmetro_adj,39,OH,North Central
+39069,6,rural,nonmetro_adj,39,OH,North Central
+39071,6,rural,nonmetro_adj,39,OH,North Central
+39073,1,metro,metro,39,OH,North Central
+39075,7,rural,nonmetro_noadj,39,OH,North Central
+39077,4,rural,nonmetro_adj,39,OH,North Central
+39079,7,rural,nonmetro_noadj,39,OH,North Central
+39081,3,metro,metro,39,OH,North Central
+39083,4,rural,nonmetro_adj,39,OH,North Central
+39085,1,metro,metro,39,OH,North Central
+39087,2,metro,metro,39,OH,North Central
+39089,1,metro,metro,39,OH,North Central
+39091,6,rural,nonmetro_adj,39,OH,North Central
+39093,1,metro,metro,39,OH,North Central
+39095,2,metro,metro,39,OH,North Central
+39097,1,metro,metro,39,OH,North Central
+39099,2,metro,metro,39,OH,North Central
+39101,4,rural,nonmetro_adj,39,OH,North Central
+39103,1,metro,metro,39,OH,North Central
+39105,6,rural,nonmetro_adj,39,OH,North Central
+39107,7,rural,nonmetro_noadj,39,OH,North Central
+39109,2,metro,metro,39,OH,North Central
+39111,8,rural,nonmetro_adj,39,OH,North Central
+39113,2,metro,metro,39,OH,North Central
+39115,6,rural,nonmetro_adj,39,OH,North Central
+39117,1,metro,metro,39,OH,North Central
+39119,4,rural,nonmetro_adj,39,OH,North Central
+39121,7,rural,nonmetro_noadj,39,OH,North Central
+39123,4,rural,nonmetro_adj,39,OH,North Central
+39125,6,rural,nonmetro_adj,39,OH,North Central
+39127,1,metro,metro,39,OH,North Central
+39129,1,metro,metro,39,OH,North Central
+39131,7,rural,nonmetro_noadj,39,OH,North Central
+39133,2,metro,metro,39,OH,North Central
+39135,6,rural,nonmetro_adj,39,OH,North Central
+39137,6,rural,nonmetro_adj,39,OH,North Central
+39139,3,metro,metro,39,OH,North Central
+39141,4,rural,nonmetro_adj,39,OH,North Central
+39143,4,rural,nonmetro_adj,39,OH,North Central
+39145,4,rural,nonmetro_adj,39,OH,North Central
+39147,4,rural,nonmetro_adj,39,OH,North Central
+39149,4,rural,nonmetro_adj,39,OH,North Central
+39151,2,metro,metro,39,OH,North Central
+39153,2,metro,metro,39,OH,North Central
+39155,2,metro,metro,39,OH,North Central
+39157,4,rural,nonmetro_adj,39,OH,North Central
+39159,1,metro,metro,39,OH,North Central
+39161,6,rural,nonmetro_adj,39,OH,North Central
+39163,8,rural,nonmetro_adj,39,OH,North Central
+39165,1,metro,metro,39,OH,North Central
+39167,4,rural,nonmetro_adj,39,OH,North Central
+39169,4,rural,nonmetro_adj,39,OH,North Central
+39171,6,rural,nonmetro_adj,39,OH,North Central
+39173,2,metro,metro,39,OH,North Central
+39175,7,rural,nonmetro_noadj,39,OH,North Central
+40001,6,rural,nonmetro_adj,40,OK,South
+40003,9,rural,nonmetro_noadj,40,OK,South
+40005,9,rural,nonmetro_noadj,40,OK,South
+40007,9,rural,nonmetro_noadj,40,OK,South
+40009,7,rural,nonmetro_noadj,40,OK,South
+40011,6,rural,nonmetro_adj,40,OK,South
+40013,6,rural,nonmetro_adj,40,OK,South
+40015,6,rural,nonmetro_adj,40,OK,South
+40017,1,metro,metro,40,OK,South
+40019,5,rural,nonmetro_noadj,40,OK,South
+40021,6,rural,nonmetro_adj,40,OK,South
+40023,7,rural,nonmetro_noadj,40,OK,South
+40025,9,rural,nonmetro_noadj,40,OK,South
+40027,1,metro,metro,40,OK,South
+40029,9,rural,nonmetro_noadj,40,OK,South
+40031,3,metro,metro,40,OK,South
+40033,3,metro,metro,40,OK,South
+40035,6,rural,nonmetro_adj,40,OK,South
+40037,2,metro,metro,40,OK,South
+40039,7,rural,nonmetro_noadj,40,OK,South
+40041,6,rural,nonmetro_adj,40,OK,South
+40043,9,rural,nonmetro_noadj,40,OK,South
+40045,9,rural,nonmetro_noadj,40,OK,South
+40047,5,rural,nonmetro_noadj,40,OK,South
+40049,6,rural,nonmetro_adj,40,OK,South
+40051,1,metro,metro,40,OK,South
+40053,9,rural,nonmetro_noadj,40,OK,South
+40055,7,rural,nonmetro_noadj,40,OK,South
+40057,9,rural,nonmetro_noadj,40,OK,South
+40059,9,rural,nonmetro_noadj,40,OK,South
+40061,6,rural,nonmetro_adj,40,OK,South
+40063,7,rural,nonmetro_noadj,40,OK,South
+40065,7,rural,nonmetro_noadj,40,OK,South
+40067,8,rural,nonmetro_adj,40,OK,South
+40069,9,rural,nonmetro_noadj,40,OK,South
+40071,5,rural,nonmetro_noadj,40,OK,South
+40073,6,rural,nonmetro_adj,40,OK,South
+40075,6,rural,nonmetro_adj,40,OK,South
+40077,7,rural,nonmetro_noadj,40,OK,South
+40079,2,metro,metro,40,OK,South
+40081,1,metro,metro,40,OK,South
+40083,1,metro,metro,40,OK,South
+40085,9,rural,nonmetro_noadj,40,OK,South
+40087,1,metro,metro,40,OK,South
+40089,7,rural,nonmetro_noadj,40,OK,South
+40091,6,rural,nonmetro_adj,40,OK,South
+40093,9,rural,nonmetro_noadj,40,OK,South
+40095,6,rural,nonmetro_adj,40,OK,South
+40097,6,rural,nonmetro_adj,40,OK,South
+40099,7,rural,nonmetro_noadj,40,OK,South
+40101,4,rural,nonmetro_adj,40,OK,South
+40103,6,rural,nonmetro_adj,40,OK,South
+40105,6,rural,nonmetro_adj,40,OK,South
+40107,6,rural,nonmetro_adj,40,OK,South
+40109,1,metro,metro,40,OK,South
+40111,2,metro,metro,40,OK,South
+40113,2,metro,metro,40,OK,South
+40115,6,rural,nonmetro_adj,40,OK,South
+40117,2,metro,metro,40,OK,South
+40119,4,rural,nonmetro_adj,40,OK,South
+40121,5,rural,nonmetro_noadj,40,OK,South
+40123,7,rural,nonmetro_noadj,40,OK,South
+40125,4,rural,nonmetro_adj,40,OK,South
+40127,9,rural,nonmetro_noadj,40,OK,South
+40129,9,rural,nonmetro_noadj,40,OK,South
+40131,2,metro,metro,40,OK,South
+40133,7,rural,nonmetro_noadj,40,OK,South
+40135,2,metro,metro,40,OK,South
+40137,4,rural,nonmetro_adj,40,OK,South
+40139,7,rural,nonmetro_noadj,40,OK,South
+40141,6,rural,nonmetro_adj,40,OK,South
+40143,2,metro,metro,40,OK,South
+40145,2,metro,metro,40,OK,South
+40147,4,rural,nonmetro_adj,40,OK,South
+40149,7,rural,nonmetro_noadj,40,OK,South
+40151,7,rural,nonmetro_noadj,40,OK,South
+40153,7,rural,nonmetro_noadj,40,OK,South
+41001,7,rural,nonmetro_noadj,41,OR,West
+41003,3,metro,metro,41,OR,West
+41005,1,metro,metro,41,OR,West
+41007,4,rural,nonmetro_adj,41,OR,West
+41009,1,metro,metro,41,OR,West
+41011,5,rural,nonmetro_noadj,41,OR,West
+41013,6,rural,nonmetro_adj,41,OR,West
+41015,7,rural,nonmetro_noadj,41,OR,West
+41017,3,metro,metro,41,OR,West
+41019,4,rural,nonmetro_adj,41,OR,West
+41021,9,rural,nonmetro_noadj,41,OR,West
+41023,9,rural,nonmetro_noadj,41,OR,West
+41025,7,rural,nonmetro_noadj,41,OR,West
+41027,6,rural,nonmetro_adj,41,OR,West
+41029,3,metro,metro,41,OR,West
+41031,6,rural,nonmetro_adj,41,OR,West
+41033,3,metro,metro,41,OR,West
+41035,5,rural,nonmetro_noadj,41,OR,West
+41037,7,rural,nonmetro_noadj,41,OR,West
+41039,2,metro,metro,41,OR,West
+41041,5,rural,nonmetro_noadj,41,OR,West
+41043,3,metro,metro,41,OR,West
+41045,6,rural,nonmetro_adj,41,OR,West
+41047,2,metro,metro,41,OR,West
+41049,6,rural,nonmetro_adj,41,OR,West
+41051,1,metro,metro,41,OR,West
+41053,2,metro,metro,41,OR,West
+41055,9,rural,nonmetro_noadj,41,OR,West
+41057,6,rural,nonmetro_adj,41,OR,West
+41059,4,rural,nonmetro_adj,41,OR,West
+41061,7,rural,nonmetro_noadj,41,OR,West
+41063,9,rural,nonmetro_noadj,41,OR,West
+41065,6,rural,nonmetro_adj,41,OR,West
+41067,1,metro,metro,41,OR,West
+41069,9,rural,nonmetro_noadj,41,OR,West
+41071,1,metro,metro,41,OR,West
+42001,3,metro,metro,42,PA,Northeast
+42003,1,metro,metro,42,PA,Northeast
+42005,1,metro,metro,42,PA,Northeast
+42007,1,metro,metro,42,PA,Northeast
+42009,6,rural,nonmetro_adj,42,PA,Northeast
+42011,2,metro,metro,42,PA,Northeast
+42013,3,metro,metro,42,PA,Northeast
+42015,6,rural,nonmetro_adj,42,PA,Northeast
+42017,1,metro,metro,42,PA,Northeast
+42019,1,metro,metro,42,PA,Northeast
+42021,3,metro,metro,42,PA,Northeast
+42023,7,rural,nonmetro_noadj,42,PA,Northeast
+42025,2,metro,metro,42,PA,Northeast
+42027,3,metro,metro,42,PA,Northeast
+42029,1,metro,metro,42,PA,Northeast
+42031,6,rural,nonmetro_adj,42,PA,Northeast
+42033,4,rural,nonmetro_adj,42,PA,Northeast
+42035,4,rural,nonmetro_adj,42,PA,Northeast
+42037,3,metro,metro,42,PA,Northeast
+42039,4,rural,nonmetro_adj,42,PA,Northeast
+42041,2,metro,metro,42,PA,Northeast
+42043,2,metro,metro,42,PA,Northeast
+42045,1,metro,metro,42,PA,Northeast
+42047,7,rural,nonmetro_noadj,42,PA,Northeast
+42049,2,metro,metro,42,PA,Northeast
+42051,1,metro,metro,42,PA,Northeast
+42053,9,rural,nonmetro_noadj,42,PA,Northeast
+42055,3,metro,metro,42,PA,Northeast
+42057,8,rural,nonmetro_adj,42,PA,Northeast
+42059,6,rural,nonmetro_adj,42,PA,Northeast
+42061,6,rural,nonmetro_adj,42,PA,Northeast
+42063,4,rural,nonmetro_adj,42,PA,Northeast
+42065,7,rural,nonmetro_noadj,42,PA,Northeast
+42067,6,rural,nonmetro_adj,42,PA,Northeast
+42069,2,metro,metro,42,PA,Northeast
+42071,2,metro,metro,42,PA,Northeast
+42073,4,rural,nonmetro_adj,42,PA,Northeast
+42075,3,metro,metro,42,PA,Northeast
+42077,2,metro,metro,42,PA,Northeast
+42079,2,metro,metro,42,PA,Northeast
+42081,3,metro,metro,42,PA,Northeast
+42083,7,rural,nonmetro_noadj,42,PA,Northeast
+42085,2,metro,metro,42,PA,Northeast
+42087,4,rural,nonmetro_adj,42,PA,Northeast
+42089,3,metro,metro,42,PA,Northeast
+42091,1,metro,metro,42,PA,Northeast
+42093,3,metro,metro,42,PA,Northeast
+42095,2,metro,metro,42,PA,Northeast
+42097,4,rural,nonmetro_adj,42,PA,Northeast
+42099,2,metro,metro,42,PA,Northeast
+42101,1,metro,metro,42,PA,Northeast
+42103,1,metro,metro,42,PA,Northeast
+42105,9,rural,nonmetro_noadj,42,PA,Northeast
+42107,4,rural,nonmetro_adj,42,PA,Northeast
+42109,7,rural,nonmetro_noadj,42,PA,Northeast
+42111,4,rural,nonmetro_adj,42,PA,Northeast
+42113,8,rural,nonmetro_adj,42,PA,Northeast
+42115,6,rural,nonmetro_adj,42,PA,Northeast
+42117,6,rural,nonmetro_adj,42,PA,Northeast
+42119,4,rural,nonmetro_adj,42,PA,Northeast
+42121,4,rural,nonmetro_adj,42,PA,Northeast
+42123,6,rural,nonmetro_adj,42,PA,Northeast
+42125,1,metro,metro,42,PA,Northeast
+42127,6,rural,nonmetro_adj,42,PA,Northeast
+42129,1,metro,metro,42,PA,Northeast
+42131,2,metro,metro,42,PA,Northeast
+42133,2,metro,metro,42,PA,Northeast
+44001,1,metro,metro,44,RI,Northeast
+44003,1,metro,metro,44,RI,Northeast
+44005,1,metro,metro,44,RI,Northeast
+44007,1,metro,metro,44,RI,Northeast
+44009,1,metro,metro,44,RI,Northeast
+45001,6,rural,nonmetro_adj,45,SC,South
+45003,2,metro,metro,45,SC,South
+45005,6,rural,nonmetro_adj,45,SC,South
+45007,2,metro,metro,45,SC,South
+45009,7,rural,nonmetro_noadj,45,SC,South
+45011,6,rural,nonmetro_adj,45,SC,South
+45013,3,metro,metro,45,SC,South
+45015,2,metro,metro,45,SC,South
+45017,2,metro,metro,45,SC,South
+45019,2,metro,metro,45,SC,South
+45021,4,rural,nonmetro_adj,45,SC,South
+45023,1,metro,metro,45,SC,South
+45025,6,rural,nonmetro_adj,45,SC,South
+45027,6,rural,nonmetro_adj,45,SC,South
+45029,6,rural,nonmetro_adj,45,SC,South
+45031,3,metro,metro,45,SC,South
+45033,6,rural,nonmetro_adj,45,SC,South
+45035,2,metro,metro,45,SC,South
+45037,2,metro,metro,45,SC,South
+45039,2,metro,metro,45,SC,South
+45041,3,metro,metro,45,SC,South
+45043,4,rural,nonmetro_adj,45,SC,South
+45045,2,metro,metro,45,SC,South
+45047,4,rural,nonmetro_adj,45,SC,South
+45049,6,rural,nonmetro_adj,45,SC,South
+45051,2,metro,metro,45,SC,South
+45053,3,metro,metro,45,SC,South
+45055,2,metro,metro,45,SC,South
+45057,1,metro,metro,45,SC,South
+45059,2,metro,metro,45,SC,South
+45061,6,rural,nonmetro_adj,45,SC,South
+45063,2,metro,metro,45,SC,South
+45065,8,rural,nonmetro_adj,45,SC,South
+45067,6,rural,nonmetro_adj,45,SC,South
+45069,6,rural,nonmetro_adj,45,SC,South
+45071,6,rural,nonmetro_adj,45,SC,South
+45073,4,rural,nonmetro_adj,45,SC,South
+45075,4,rural,nonmetro_adj,45,SC,South
+45077,2,metro,metro,45,SC,South
+45079,2,metro,metro,45,SC,South
+45081,2,metro,metro,45,SC,South
+45083,2,metro,metro,45,SC,South
+45085,3,metro,metro,45,SC,South
+45087,2,metro,metro,45,SC,South
+45089,6,rural,nonmetro_adj,45,SC,South
+45091,1,metro,metro,45,SC,South
+46003,9,rural,nonmetro_noadj,46,SD,North Central
+46005,7,rural,nonmetro_noadj,46,SD,North Central
+46007,9,rural,nonmetro_noadj,46,SD,North Central
+46009,9,rural,nonmetro_noadj,46,SD,North Central
+46011,5,rural,nonmetro_noadj,46,SD,North Central
+46013,5,rural,nonmetro_noadj,46,SD,North Central
+46015,9,rural,nonmetro_noadj,46,SD,North Central
+46017,9,rural,nonmetro_noadj,46,SD,North Central
+46019,6,rural,nonmetro_adj,46,SD,North Central
+46021,9,rural,nonmetro_noadj,46,SD,North Central
+46023,9,rural,nonmetro_noadj,46,SD,North Central
+46025,9,rural,nonmetro_noadj,46,SD,North Central
+46027,6,rural,nonmetro_adj,46,SD,North Central
+46029,5,rural,nonmetro_noadj,46,SD,North Central
+46031,9,rural,nonmetro_noadj,46,SD,North Central
+46033,3,metro,metro,46,SD,North Central
+46035,7,rural,nonmetro_noadj,46,SD,North Central
+46037,9,rural,nonmetro_noadj,46,SD,North Central
+46039,9,rural,nonmetro_noadj,46,SD,North Central
+46041,9,rural,nonmetro_noadj,46,SD,North Central
+46043,9,rural,nonmetro_noadj,46,SD,North Central
+46045,9,rural,nonmetro_noadj,46,SD,North Central
+46047,6,rural,nonmetro_adj,46,SD,North Central
+46049,9,rural,nonmetro_noadj,46,SD,North Central
+46051,7,rural,nonmetro_noadj,46,SD,North Central
+46053,9,rural,nonmetro_noadj,46,SD,North Central
+46055,8,rural,nonmetro_adj,46,SD,North Central
+46057,9,rural,nonmetro_noadj,46,SD,North Central
+46059,9,rural,nonmetro_noadj,46,SD,North Central
+46061,8,rural,nonmetro_adj,46,SD,North Central
+46063,9,rural,nonmetro_noadj,46,SD,North Central
+46065,7,rural,nonmetro_noadj,46,SD,North Central
+46067,8,rural,nonmetro_adj,46,SD,North Central
+46069,9,rural,nonmetro_noadj,46,SD,North Central
+46071,8,rural,nonmetro_adj,46,SD,North Central
+46073,9,rural,nonmetro_noadj,46,SD,North Central
+46075,9,rural,nonmetro_noadj,46,SD,North Central
+46077,9,rural,nonmetro_noadj,46,SD,North Central
+46079,6,rural,nonmetro_adj,46,SD,North Central
+46081,6,rural,nonmetro_adj,46,SD,North Central
+46083,3,metro,metro,46,SD,North Central
+46085,9,rural,nonmetro_noadj,46,SD,North Central
+46087,3,metro,metro,46,SD,North Central
+46089,9,rural,nonmetro_noadj,46,SD,North Central
+46091,9,rural,nonmetro_noadj,46,SD,North Central
+46093,3,metro,metro,46,SD,North Central
+46095,9,rural,nonmetro_noadj,46,SD,North Central
+46097,8,rural,nonmetro_adj,46,SD,North Central
+46099,3,metro,metro,46,SD,North Central
+46101,8,rural,nonmetro_adj,46,SD,North Central
+46103,3,metro,metro,46,SD,North Central
+46105,8,rural,nonmetro_adj,46,SD,North Central
+46107,9,rural,nonmetro_noadj,46,SD,North Central
+46109,9,rural,nonmetro_noadj,46,SD,North Central
+46111,9,rural,nonmetro_noadj,46,SD,North Central
+46113,6,rural,nonmetro_adj,46,SD,North Central
+46115,9,rural,nonmetro_noadj,46,SD,North Central
+46117,9,rural,nonmetro_noadj,46,SD,North Central
+46119,9,rural,nonmetro_noadj,46,SD,North Central
+46121,9,rural,nonmetro_noadj,46,SD,North Central
+46123,7,rural,nonmetro_noadj,46,SD,North Central
+46125,3,metro,metro,46,SD,North Central
+46127,3,metro,metro,46,SD,North Central
+46129,7,rural,nonmetro_noadj,46,SD,North Central
+46135,7,rural,nonmetro_noadj,46,SD,North Central
+46137,8,rural,nonmetro_adj,46,SD,North Central
+47001,2,metro,metro,47,TN,South
+47003,4,rural,nonmetro_adj,47,TN,South
+47005,7,rural,nonmetro_noadj,47,TN,South
+47007,8,rural,nonmetro_adj,47,TN,South
+47009,2,metro,metro,47,TN,South
+47011,3,metro,metro,47,TN,South
+47013,2,metro,metro,47,TN,South
+47015,1,metro,metro,47,TN,South
+47017,6,rural,nonmetro_adj,47,TN,South
+47019,3,metro,metro,47,TN,South
+47021,1,metro,metro,47,TN,South
+47023,3,metro,metro,47,TN,South
+47025,6,rural,nonmetro_adj,47,TN,South
+47027,9,rural,nonmetro_noadj,47,TN,South
+47029,6,rural,nonmetro_adj,47,TN,South
+47031,4,rural,nonmetro_adj,47,TN,South
+47033,3,metro,metro,47,TN,South
+47035,4,rural,nonmetro_adj,47,TN,South
+47037,1,metro,metro,47,TN,South
+47039,9,rural,nonmetro_noadj,47,TN,South
+47041,6,rural,nonmetro_adj,47,TN,South
+47043,1,metro,metro,47,TN,South
+47045,5,rural,nonmetro_noadj,47,TN,South
+47047,1,metro,metro,47,TN,South
+47049,9,rural,nonmetro_noadj,47,TN,South
+47051,6,rural,nonmetro_adj,47,TN,South
+47053,4,rural,nonmetro_adj,47,TN,South
+47055,6,rural,nonmetro_adj,47,TN,South
+47057,2,metro,metro,47,TN,South
+47059,4,rural,nonmetro_adj,47,TN,South
+47061,8,rural,nonmetro_adj,47,TN,South
+47063,3,metro,metro,47,TN,South
+47065,2,metro,metro,47,TN,South
+47067,8,rural,nonmetro_adj,47,TN,South
+47069,6,rural,nonmetro_adj,47,TN,South
+47071,6,rural,nonmetro_adj,47,TN,South
+47073,2,metro,metro,47,TN,South
+47075,6,rural,nonmetro_adj,47,TN,South
+47077,6,rural,nonmetro_adj,47,TN,South
+47079,7,rural,nonmetro_noadj,47,TN,South
+47081,1,metro,metro,47,TN,South
+47083,8,rural,nonmetro_adj,47,TN,South
+47085,6,rural,nonmetro_adj,47,TN,South
+47087,8,rural,nonmetro_adj,47,TN,South
+47089,3,metro,metro,47,TN,South
+47091,6,rural,nonmetro_adj,47,TN,South
+47093,2,metro,metro,47,TN,South
+47095,9,rural,nonmetro_noadj,47,TN,South
+47097,6,rural,nonmetro_adj,47,TN,South
+47099,6,rural,nonmetro_adj,47,TN,South
+47101,6,rural,nonmetro_adj,47,TN,South
+47103,6,rural,nonmetro_adj,47,TN,South
+47105,2,metro,metro,47,TN,South
+47107,4,rural,nonmetro_adj,47,TN,South
+47109,6,rural,nonmetro_adj,47,TN,South
+47111,1,metro,metro,47,TN,South
+47113,3,metro,metro,47,TN,South
+47115,2,metro,metro,47,TN,South
+47117,6,rural,nonmetro_adj,47,TN,South
+47119,1,metro,metro,47,TN,South
+47121,8,rural,nonmetro_adj,47,TN,South
+47123,6,rural,nonmetro_adj,47,TN,South
+47125,2,metro,metro,47,TN,South
+47127,9,rural,nonmetro_noadj,47,TN,South
+47129,2,metro,metro,47,TN,South
+47131,7,rural,nonmetro_noadj,47,TN,South
+47133,7,rural,nonmetro_noadj,47,TN,South
+47135,8,rural,nonmetro_adj,47,TN,South
+47137,9,rural,nonmetro_noadj,47,TN,South
+47139,3,metro,metro,47,TN,South
+47141,4,rural,nonmetro_adj,47,TN,South
+47143,6,rural,nonmetro_adj,47,TN,South
+47145,2,metro,metro,47,TN,South
+47147,1,metro,metro,47,TN,South
+47149,1,metro,metro,47,TN,South
+47151,6,rural,nonmetro_adj,47,TN,South
+47153,2,metro,metro,47,TN,South
+47155,4,rural,nonmetro_adj,47,TN,South
+47157,1,metro,metro,47,TN,South
+47159,1,metro,metro,47,TN,South
+47161,8,rural,nonmetro_adj,47,TN,South
+47163,2,metro,metro,47,TN,South
+47165,1,metro,metro,47,TN,South
+47167,1,metro,metro,47,TN,South
+47169,1,metro,metro,47,TN,South
+47171,3,metro,metro,47,TN,South
+47173,2,metro,metro,47,TN,South
+47175,9,rural,nonmetro_noadj,47,TN,South
+47177,6,rural,nonmetro_adj,47,TN,South
+47179,3,metro,metro,47,TN,South
+47181,8,rural,nonmetro_adj,47,TN,South
+47183,7,rural,nonmetro_noadj,47,TN,South
+47185,7,rural,nonmetro_noadj,47,TN,South
+47187,1,metro,metro,47,TN,South
+47189,1,metro,metro,47,TN,South
+48001,7,rural,nonmetro_noadj,48,TX,South
+48003,6,rural,nonmetro_adj,48,TX,South
+48005,5,rural,nonmetro_noadj,48,TX,South
+48007,2,metro,metro,48,TX,South
+48009,3,metro,metro,48,TX,South
+48011,2,metro,metro,48,TX,South
+48013,1,metro,metro,48,TX,South
+48015,1,metro,metro,48,TX,South
+48017,7,rural,nonmetro_noadj,48,TX,South
+48019,1,metro,metro,48,TX,South
+48021,1,metro,metro,48,TX,South
+48023,8,rural,nonmetro_adj,48,TX,South
+48025,6,rural,nonmetro_adj,48,TX,South
+48027,2,metro,metro,48,TX,South
+48029,1,metro,metro,48,TX,South
+48031,8,rural,nonmetro_adj,48,TX,South
+48033,8,rural,nonmetro_adj,48,TX,South
+48035,6,rural,nonmetro_adj,48,TX,South
+48037,3,metro,metro,48,TX,South
+48039,1,metro,metro,48,TX,South
+48041,3,metro,metro,48,TX,South
+48043,7,rural,nonmetro_noadj,48,TX,South
+48045,9,rural,nonmetro_noadj,48,TX,South
+48047,7,rural,nonmetro_noadj,48,TX,South
+48049,5,rural,nonmetro_noadj,48,TX,South
+48051,3,metro,metro,48,TX,South
+48053,6,rural,nonmetro_adj,48,TX,South
+48055,1,metro,metro,48,TX,South
+48057,6,rural,nonmetro_adj,48,TX,South
+48059,3,metro,metro,48,TX,South
+48061,2,metro,metro,48,TX,South
+48063,6,rural,nonmetro_adj,48,TX,South
+48065,2,metro,metro,48,TX,South
+48067,6,rural,nonmetro_adj,48,TX,South
+48069,6,rural,nonmetro_adj,48,TX,South
+48071,1,metro,metro,48,TX,South
+48073,6,rural,nonmetro_adj,48,TX,South
+48075,7,rural,nonmetro_noadj,48,TX,South
+48077,3,metro,metro,48,TX,South
+48079,9,rural,nonmetro_noadj,48,TX,South
+48081,8,rural,nonmetro_adj,48,TX,South
+48083,6,rural,nonmetro_adj,48,TX,South
+48085,1,metro,metro,48,TX,South
+48087,9,rural,nonmetro_noadj,48,TX,South
+48089,6,rural,nonmetro_adj,48,TX,South
+48091,1,metro,metro,48,TX,South
+48093,7,rural,nonmetro_noadj,48,TX,South
+48095,8,rural,nonmetro_adj,48,TX,South
+48097,6,rural,nonmetro_adj,48,TX,South
+48099,2,metro,metro,48,TX,South
+48101,9,rural,nonmetro_noadj,48,TX,South
+48103,6,rural,nonmetro_adj,48,TX,South
+48105,7,rural,nonmetro_noadj,48,TX,South
+48107,2,metro,metro,48,TX,South
+48109,9,rural,nonmetro_noadj,48,TX,South
+48111,7,rural,nonmetro_noadj,48,TX,South
+48113,1,metro,metro,48,TX,South
+48115,7,rural,nonmetro_noadj,48,TX,South
+48117,6,rural,nonmetro_adj,48,TX,South
+48119,8,rural,nonmetro_adj,48,TX,South
+48121,1,metro,metro,48,TX,South
+48123,6,rural,nonmetro_adj,48,TX,South
+48125,8,rural,nonmetro_adj,48,TX,South
+48127,6,rural,nonmetro_adj,48,TX,South
+48129,8,rural,nonmetro_adj,48,TX,South
+48131,7,rural,nonmetro_noadj,48,TX,South
+48133,6,rural,nonmetro_adj,48,TX,South
+48135,3,metro,metro,48,TX,South
+48137,9,rural,nonmetro_noadj,48,TX,South
+48139,1,metro,metro,48,TX,South
+48141,2,metro,metro,48,TX,South
+48143,4,rural,nonmetro_adj,48,TX,South
+48145,2,metro,metro,48,TX,South
+48147,6,rural,nonmetro_adj,48,TX,South
+48149,6,rural,nonmetro_adj,48,TX,South
+48151,8,rural,nonmetro_adj,48,TX,South
+48153,6,rural,nonmetro_adj,48,TX,South
+48155,9,rural,nonmetro_noadj,48,TX,South
+48157,1,metro,metro,48,TX,South
+48159,7,rural,nonmetro_noadj,48,TX,South
+48161,7,rural,nonmetro_noadj,48,TX,South
+48163,6,rural,nonmetro_adj,48,TX,South
+48165,7,rural,nonmetro_noadj,48,TX,South
+48167,1,metro,metro,48,TX,South
+48169,6,rural,nonmetro_adj,48,TX,South
+48171,7,rural,nonmetro_noadj,48,TX,South
+48173,8,rural,nonmetro_adj,48,TX,South
+48175,3,metro,metro,48,TX,South
+48177,6,rural,nonmetro_adj,48,TX,South
+48179,6,rural,nonmetro_adj,48,TX,South
+48181,3,metro,metro,48,TX,South
+48183,3,metro,metro,48,TX,South
+48185,6,rural,nonmetro_adj,48,TX,South
+48187,1,metro,metro,48,TX,South
+48189,4,rural,nonmetro_adj,48,TX,South
+48191,9,rural,nonmetro_noadj,48,TX,South
+48193,6,rural,nonmetro_adj,48,TX,South
+48195,7,rural,nonmetro_noadj,48,TX,South
+48197,9,rural,nonmetro_noadj,48,TX,South
+48199,2,metro,metro,48,TX,South
+48201,1,metro,metro,48,TX,South
+48203,4,rural,nonmetro_adj,48,TX,South
+48205,7,rural,nonmetro_noadj,48,TX,South
+48207,6,rural,nonmetro_adj,48,TX,South
+48209,1,metro,metro,48,TX,South
+48211,7,rural,nonmetro_noadj,48,TX,South
+48213,4,rural,nonmetro_adj,48,TX,South
+48215,2,metro,metro,48,TX,South
+48217,6,rural,nonmetro_adj,48,TX,South
+48219,6,rural,nonmetro_adj,48,TX,South
+48221,1,metro,metro,48,TX,South
+48223,6,rural,nonmetro_adj,48,TX,South
+48225,7,rural,nonmetro_noadj,48,TX,South
+48227,4,rural,nonmetro_adj,48,TX,South
+48229,2,metro,metro,48,TX,South
+48231,1,metro,metro,48,TX,South
+48233,6,rural,nonmetro_adj,48,TX,South
+48235,3,metro,metro,48,TX,South
+48237,6,rural,nonmetro_adj,48,TX,South
+48239,6,rural,nonmetro_adj,48,TX,South
+48241,6,rural,nonmetro_adj,48,TX,South
+48243,9,rural,nonmetro_noadj,48,TX,South
+48245,2,metro,metro,48,TX,South
+48247,6,rural,nonmetro_adj,48,TX,South
+48249,4,rural,nonmetro_adj,48,TX,South
+48251,1,metro,metro,48,TX,South
+48253,3,metro,metro,48,TX,South
+48255,6,rural,nonmetro_adj,48,TX,South
+48257,1,metro,metro,48,TX,South
+48259,1,metro,metro,48,TX,South
+48261,9,rural,nonmetro_noadj,48,TX,South
+48263,9,rural,nonmetro_noadj,48,TX,South
+48265,4,rural,nonmetro_adj,48,TX,South
+48267,7,rural,nonmetro_noadj,48,TX,South
+48269,9,rural,nonmetro_noadj,48,TX,South
+48271,7,rural,nonmetro_noadj,48,TX,South
+48273,4,rural,nonmetro_adj,48,TX,South
+48275,9,rural,nonmetro_noadj,48,TX,South
+48277,5,rural,nonmetro_noadj,48,TX,South
+48279,6,rural,nonmetro_adj,48,TX,South
+48281,2,metro,metro,48,TX,South
+48283,6,rural,nonmetro_adj,48,TX,South
+48285,6,rural,nonmetro_adj,48,TX,South
+48287,6,rural,nonmetro_adj,48,TX,South
+48289,8,rural,nonmetro_adj,48,TX,South
+48291,1,metro,metro,48,TX,South
+48293,6,rural,nonmetro_adj,48,TX,South
+48295,9,rural,nonmetro_noadj,48,TX,South
+48297,8,rural,nonmetro_adj,48,TX,South
+48299,7,rural,nonmetro_noadj,48,TX,South
+48301,9,rural,nonmetro_noadj,48,TX,South
+48303,2,metro,metro,48,TX,South
+48305,2,metro,metro,48,TX,South
+48307,7,rural,nonmetro_noadj,48,TX,South
+48309,2,metro,metro,48,TX,South
+48311,9,rural,nonmetro_noadj,48,TX,South
+48313,6,rural,nonmetro_adj,48,TX,South
+48315,8,rural,nonmetro_adj,48,TX,South
+48317,3,metro,metro,48,TX,South
+48319,9,rural,nonmetro_noadj,48,TX,South
+48321,4,rural,nonmetro_adj,48,TX,South
+48323,5,rural,nonmetro_noadj,48,TX,South
+48325,1,metro,metro,48,TX,South
+48327,9,rural,nonmetro_noadj,48,TX,South
+48329,3,metro,metro,48,TX,South
+48331,6,rural,nonmetro_adj,48,TX,South
+48333,9,rural,nonmetro_noadj,48,TX,South
+48335,7,rural,nonmetro_noadj,48,TX,South
+48337,6,rural,nonmetro_adj,48,TX,South
+48339,1,metro,metro,48,TX,South
+48341,7,rural,nonmetro_noadj,48,TX,South
+48343,6,rural,nonmetro_adj,48,TX,South
+48345,9,rural,nonmetro_noadj,48,TX,South
+48347,5,rural,nonmetro_noadj,48,TX,South
+48349,4,rural,nonmetro_adj,48,TX,South
+48351,2,metro,metro,48,TX,South
+48353,6,rural,nonmetro_adj,48,TX,South
+48355,2,metro,metro,48,TX,South
+48357,7,rural,nonmetro_noadj,48,TX,South
+48359,2,metro,metro,48,TX,South
+48361,2,metro,metro,48,TX,South
+48363,6,rural,nonmetro_adj,48,TX,South
+48365,6,rural,nonmetro_adj,48,TX,South
+48367,1,metro,metro,48,TX,South
+48369,7,rural,nonmetro_noadj,48,TX,South
+48371,7,rural,nonmetro_noadj,48,TX,South
+48373,6,rural,nonmetro_adj,48,TX,South
+48375,2,metro,metro,48,TX,South
+48377,7,rural,nonmetro_noadj,48,TX,South
+48379,8,rural,nonmetro_adj,48,TX,South
+48381,2,metro,metro,48,TX,South
+48383,6,rural,nonmetro_adj,48,TX,South
+48385,9,rural,nonmetro_noadj,48,TX,South
+48387,6,rural,nonmetro_adj,48,TX,South
+48389,7,rural,nonmetro_noadj,48,TX,South
+48391,6,rural,nonmetro_adj,48,TX,South
+48393,9,rural,nonmetro_noadj,48,TX,South
+48395,3,metro,metro,48,TX,South
+48397,1,metro,metro,48,TX,South
+48399,6,rural,nonmetro_adj,48,TX,South
+48401,3,metro,metro,48,TX,South
+48403,8,rural,nonmetro_adj,48,TX,South
+48405,9,rural,nonmetro_noadj,48,TX,South
+48407,8,rural,nonmetro_adj,48,TX,South
+48409,2,metro,metro,48,TX,South
+48411,7,rural,nonmetro_noadj,48,TX,South
+48413,8,rural,nonmetro_adj,48,TX,South
+48415,7,rural,nonmetro_noadj,48,TX,South
+48417,8,rural,nonmetro_adj,48,TX,South
+48419,7,rural,nonmetro_noadj,48,TX,South
+48421,9,rural,nonmetro_noadj,48,TX,South
+48423,3,metro,metro,48,TX,South
+48425,1,metro,metro,48,TX,South
+48427,4,rural,nonmetro_adj,48,TX,South
+48429,7,rural,nonmetro_noadj,48,TX,South
+48431,8,rural,nonmetro_adj,48,TX,South
+48433,9,rural,nonmetro_noadj,48,TX,South
+48435,7,rural,nonmetro_noadj,48,TX,South
+48437,6,rural,nonmetro_adj,48,TX,South
+48439,1,metro,metro,48,TX,South
+48441,3,metro,metro,48,TX,South
+48443,9,rural,nonmetro_noadj,48,TX,South
+48445,6,rural,nonmetro_adj,48,TX,South
+48447,9,rural,nonmetro_noadj,48,TX,South
+48449,7,rural,nonmetro_noadj,48,TX,South
+48451,3,metro,metro,48,TX,South
+48453,1,metro,metro,48,TX,South
+48455,7,rural,nonmetro_noadj,48,TX,South
+48457,6,rural,nonmetro_adj,48,TX,South
+48459,3,metro,metro,48,TX,South
+48461,8,rural,nonmetro_adj,48,TX,South
+48463,6,rural,nonmetro_adj,48,TX,South
+48465,5,rural,nonmetro_noadj,48,TX,South
+48467,6,rural,nonmetro_adj,48,TX,South
+48469,3,metro,metro,48,TX,South
+48471,4,rural,nonmetro_adj,48,TX,South
+48473,1,metro,metro,48,TX,South
+48475,6,rural,nonmetro_adj,48,TX,South
+48477,6,rural,nonmetro_adj,48,TX,South
+48479,2,metro,metro,48,TX,South
+48481,4,rural,nonmetro_adj,48,TX,South
+48483,9,rural,nonmetro_noadj,48,TX,South
+48485,3,metro,metro,48,TX,South
+48487,6,rural,nonmetro_adj,48,TX,South
+48489,6,rural,nonmetro_adj,48,TX,South
+48491,1,metro,metro,48,TX,South
+48493,1,metro,metro,48,TX,South
+48495,6,rural,nonmetro_adj,48,TX,South
+48497,1,metro,metro,48,TX,South
+48499,6,rural,nonmetro_adj,48,TX,South
+48501,7,rural,nonmetro_noadj,48,TX,South
+48503,7,rural,nonmetro_noadj,48,TX,South
+48505,6,rural,nonmetro_adj,48,TX,South
+48507,7,rural,nonmetro_noadj,48,TX,South
+49001,7,rural,nonmetro_noadj,49,UT,West
+49003,2,metro,metro,49,UT,West
+49005,3,metro,metro,49,UT,West
+49007,7,rural,nonmetro_noadj,49,UT,West
+49009,9,rural,nonmetro_noadj,49,UT,West
+49011,2,metro,metro,49,UT,West
+49013,7,rural,nonmetro_noadj,49,UT,West
+49015,7,rural,nonmetro_noadj,49,UT,West
+49017,9,rural,nonmetro_noadj,49,UT,West
+49019,7,rural,nonmetro_noadj,49,UT,West
+49021,4,rural,nonmetro_adj,49,UT,West
+49023,2,metro,metro,49,UT,West
+49025,6,rural,nonmetro_adj,49,UT,West
+49027,7,rural,nonmetro_noadj,49,UT,West
+49029,2,metro,metro,49,UT,West
+49031,9,rural,nonmetro_noadj,49,UT,West
+49033,8,rural,nonmetro_adj,49,UT,West
+49035,1,metro,metro,49,UT,West
+49037,7,rural,nonmetro_noadj,49,UT,West
+49039,6,rural,nonmetro_adj,49,UT,West
+49041,7,rural,nonmetro_noadj,49,UT,West
+49043,4,rural,nonmetro_adj,49,UT,West
+49045,1,metro,metro,49,UT,West
+49047,7,rural,nonmetro_noadj,49,UT,West
+49049,2,metro,metro,49,UT,West
+49051,6,rural,nonmetro_adj,49,UT,West
+49053,3,metro,metro,49,UT,West
+49055,9,rural,nonmetro_noadj,49,UT,West
+49057,2,metro,metro,49,UT,West
+50001,6,rural,nonmetro_adj,50,VT,Northeast
+50003,6,rural,nonmetro_adj,50,VT,Northeast
+50005,7,rural,nonmetro_noadj,50,VT,Northeast
+50007,3,metro,metro,50,VT,Northeast
+50009,9,rural,nonmetro_noadj,50,VT,Northeast
+50011,3,metro,metro,50,VT,Northeast
+50013,3,metro,metro,50,VT,Northeast
+50015,8,rural,nonmetro_adj,50,VT,Northeast
+50017,9,rural,nonmetro_noadj,50,VT,Northeast
+50019,7,rural,nonmetro_noadj,50,VT,Northeast
+50021,4,rural,nonmetro_adj,50,VT,Northeast
+50023,4,rural,nonmetro_adj,50,VT,Northeast
+50025,7,rural,nonmetro_noadj,50,VT,Northeast
+50027,7,rural,nonmetro_noadj,50,VT,Northeast
+51001,8,rural,nonmetro_adj,51,VA,South
+51003,3,metro,metro,51,VA,South
+51005,6,rural,nonmetro_adj,51,VA,South
+51007,1,metro,metro,51,VA,South
+51009,2,metro,metro,51,VA,South
+51011,2,metro,metro,51,VA,South
+51013,1,metro,metro,51,VA,South
+51015,3,metro,metro,51,VA,South
+51017,8,rural,nonmetro_adj,51,VA,South
+51019,2,metro,metro,51,VA,South
+51021,8,rural,nonmetro_adj,51,VA,South
+51023,2,metro,metro,51,VA,South
+51025,6,rural,nonmetro_adj,51,VA,South
+51027,9,rural,nonmetro_noadj,51,VA,South
+51029,3,metro,metro,51,VA,South
+51031,2,metro,metro,51,VA,South
+51033,1,metro,metro,51,VA,South
+51035,7,rural,nonmetro_noadj,51,VA,South
+51036,1,metro,metro,51,VA,South
+51037,8,rural,nonmetro_adj,51,VA,South
+51041,1,metro,metro,51,VA,South
+51043,1,metro,metro,51,VA,South
+51045,2,metro,metro,51,VA,South
+51047,1,metro,metro,51,VA,South
+51049,8,rural,nonmetro_adj,51,VA,South
+51051,9,rural,nonmetro_noadj,51,VA,South
+51053,1,metro,metro,51,VA,South
+51057,6,rural,nonmetro_adj,51,VA,South
+51059,1,metro,metro,51,VA,South
+51061,1,metro,metro,51,VA,South
+51063,3,metro,metro,51,VA,South
+51065,3,metro,metro,51,VA,South
+51067,2,metro,metro,51,VA,South
+51069,3,metro,metro,51,VA,South
+51071,3,metro,metro,51,VA,South
+51073,1,metro,metro,51,VA,South
+51075,1,metro,metro,51,VA,South
+51077,9,rural,nonmetro_noadj,51,VA,South
+51079,3,metro,metro,51,VA,South
+51081,6,rural,nonmetro_adj,51,VA,South
+51083,6,rural,nonmetro_adj,51,VA,South
+51085,1,metro,metro,51,VA,South
+51087,1,metro,metro,51,VA,South
+51089,4,rural,nonmetro_adj,51,VA,South
+51091,8,rural,nonmetro_adj,51,VA,South
+51093,1,metro,metro,51,VA,South
+51095,1,metro,metro,51,VA,South
+51097,8,rural,nonmetro_adj,51,VA,South
+51099,6,rural,nonmetro_adj,51,VA,South
+51101,1,metro,metro,51,VA,South
+51103,9,rural,nonmetro_noadj,51,VA,South
+51105,8,rural,nonmetro_adj,51,VA,South
+51107,1,metro,metro,51,VA,South
+51109,8,rural,nonmetro_adj,51,VA,South
+51111,9,rural,nonmetro_noadj,51,VA,South
+51113,8,rural,nonmetro_adj,51,VA,South
+51115,1,metro,metro,51,VA,South
+51117,7,rural,nonmetro_noadj,51,VA,South
+51119,8,rural,nonmetro_adj,51,VA,South
+51121,3,metro,metro,51,VA,South
+51125,3,metro,metro,51,VA,South
+51127,1,metro,metro,51,VA,South
+51131,8,rural,nonmetro_adj,51,VA,South
+51133,9,rural,nonmetro_noadj,51,VA,South
+51135,6,rural,nonmetro_adj,51,VA,South
+51137,6,rural,nonmetro_adj,51,VA,South
+51139,6,rural,nonmetro_adj,51,VA,South
+51141,8,rural,nonmetro_adj,51,VA,South
+51143,4,rural,nonmetro_adj,51,VA,South
+51145,1,metro,metro,51,VA,South
+51147,6,rural,nonmetro_adj,51,VA,South
+51149,1,metro,metro,51,VA,South
+51153,1,metro,metro,51,VA,South
+51155,3,metro,metro,51,VA,South
+51157,1,metro,metro,51,VA,South
+51159,9,rural,nonmetro_noadj,51,VA,South
+51161,2,metro,metro,51,VA,South
+51163,6,rural,nonmetro_adj,51,VA,South
+51165,3,metro,metro,51,VA,South
+51167,7,rural,nonmetro_noadj,51,VA,South
+51169,2,metro,metro,51,VA,South
+51171,6,rural,nonmetro_adj,51,VA,South
+51173,7,rural,nonmetro_noadj,51,VA,South
+51175,6,rural,nonmetro_adj,51,VA,South
+51177,1,metro,metro,51,VA,South
+51179,1,metro,metro,51,VA,South
+51181,8,rural,nonmetro_adj,51,VA,South
+51183,1,metro,metro,51,VA,South
+51185,5,rural,nonmetro_noadj,51,VA,South
+51187,1,metro,metro,51,VA,South
+51191,2,metro,metro,51,VA,South
+51193,6,rural,nonmetro_adj,51,VA,South
+51195,7,rural,nonmetro_noadj,51,VA,South
+51197,6,rural,nonmetro_adj,51,VA,South
+51199,1,metro,metro,51,VA,South
+51510,1,metro,metro,51,VA,South
+51515,2,metro,metro,51,VA,South
+51520,2,metro,metro,51,VA,South
+51530,6,rural,nonmetro_adj,51,VA,South
+51540,3,metro,metro,51,VA,South
+51550,1,metro,metro,51,VA,South
+51570,1,metro,metro,51,VA,South
+51580,6,rural,nonmetro_adj,51,VA,South
+51590,4,rural,nonmetro_adj,51,VA,South
+51595,6,rural,nonmetro_adj,51,VA,South
+51600,1,metro,metro,51,VA,South
+51610,1,metro,metro,51,VA,South
+51620,6,rural,nonmetro_adj,51,VA,South
+51630,1,metro,metro,51,VA,South
+51640,7,rural,nonmetro_noadj,51,VA,South
+51650,1,metro,metro,51,VA,South
+51660,3,metro,metro,51,VA,South
+51670,1,metro,metro,51,VA,South
+51678,6,rural,nonmetro_adj,51,VA,South
+51680,2,metro,metro,51,VA,South
+51683,1,metro,metro,51,VA,South
+51685,1,metro,metro,51,VA,South
+51690,4,rural,nonmetro_adj,51,VA,South
+51700,1,metro,metro,51,VA,South
+51710,1,metro,metro,51,VA,South
+51720,7,rural,nonmetro_noadj,51,VA,South
+51730,1,metro,metro,51,VA,South
+51735,1,metro,metro,51,VA,South
+51740,1,metro,metro,51,VA,South
+51750,3,metro,metro,51,VA,South
+51760,1,metro,metro,51,VA,South
+51770,2,metro,metro,51,VA,South
+51775,2,metro,metro,51,VA,South
+51790,3,metro,metro,51,VA,South
+51800,1,metro,metro,51,VA,South
+51810,1,metro,metro,51,VA,South
+51820,3,metro,metro,51,VA,South
+51830,1,metro,metro,51,VA,South
+51840,3,metro,metro,51,VA,South
+53001,6,rural,nonmetro_adj,53,WA,West
+53003,3,metro,metro,53,WA,West
+53005,2,metro,metro,53,WA,West
+53007,3,metro,metro,53,WA,West
+53009,5,rural,nonmetro_noadj,53,WA,West
+53011,1,metro,metro,53,WA,West
+53013,3,metro,metro,53,WA,West
+53015,3,metro,metro,53,WA,West
+53017,3,metro,metro,53,WA,West
+53019,9,rural,nonmetro_noadj,53,WA,West
+53021,2,metro,metro,53,WA,West
+53023,8,rural,nonmetro_adj,53,WA,West
+53025,5,rural,nonmetro_noadj,53,WA,West
+53027,4,rural,nonmetro_adj,53,WA,West
+53029,4,rural,nonmetro_adj,53,WA,West
+53031,6,rural,nonmetro_adj,53,WA,West
+53033,1,metro,metro,53,WA,West
+53035,2,metro,metro,53,WA,West
+53037,4,rural,nonmetro_adj,53,WA,West
+53039,6,rural,nonmetro_adj,53,WA,West
+53041,4,rural,nonmetro_adj,53,WA,West
+53043,8,rural,nonmetro_adj,53,WA,West
+53045,4,rural,nonmetro_adj,53,WA,West
+53047,6,rural,nonmetro_adj,53,WA,West
+53049,7,rural,nonmetro_noadj,53,WA,West
+53051,2,metro,metro,53,WA,West
+53053,1,metro,metro,53,WA,West
+53055,9,rural,nonmetro_noadj,53,WA,West
+53057,3,metro,metro,53,WA,West
+53059,1,metro,metro,53,WA,West
+53061,1,metro,metro,53,WA,West
+53063,2,metro,metro,53,WA,West
+53065,2,metro,metro,53,WA,West
+53067,2,metro,metro,53,WA,West
+53069,8,rural,nonmetro_adj,53,WA,West
+53071,3,metro,metro,53,WA,West
+53073,3,metro,metro,53,WA,West
+53075,4,rural,nonmetro_adj,53,WA,West
+53077,3,metro,metro,53,WA,West
+54001,6,rural,nonmetro_adj,54,WV,Northeast
+54003,2,metro,metro,54,WV,Northeast
+54005,3,metro,metro,54,WV,Northeast
+54007,8,rural,nonmetro_adj,54,WV,Northeast
+54009,3,metro,metro,54,WV,Northeast
+54011,2,metro,metro,54,WV,Northeast
+54013,8,rural,nonmetro_adj,54,WV,Northeast
+54015,3,metro,metro,54,WV,Northeast
+54017,9,rural,nonmetro_noadj,54,WV,Northeast
+54019,3,metro,metro,54,WV,Northeast
+54021,7,rural,nonmetro_noadj,54,WV,Northeast
+54023,7,rural,nonmetro_noadj,54,WV,Northeast
+54025,6,rural,nonmetro_adj,54,WV,Northeast
+54027,3,metro,metro,54,WV,Northeast
+54029,3,metro,metro,54,WV,Northeast
+54031,6,rural,nonmetro_adj,54,WV,Northeast
+54033,5,rural,nonmetro_noadj,54,WV,Northeast
+54035,6,rural,nonmetro_adj,54,WV,Northeast
+54037,1,metro,metro,54,WV,Northeast
+54039,3,metro,metro,54,WV,Northeast
+54041,7,rural,nonmetro_noadj,54,WV,Northeast
+54043,2,metro,metro,54,WV,Northeast
+54045,6,rural,nonmetro_adj,54,WV,Northeast
+54047,7,rural,nonmetro_noadj,54,WV,Northeast
+54049,4,rural,nonmetro_adj,54,WV,Northeast
+54051,3,metro,metro,54,WV,Northeast
+54053,6,rural,nonmetro_adj,54,WV,Northeast
+54055,4,rural,nonmetro_adj,54,WV,Northeast
+54057,3,metro,metro,54,WV,Northeast
+54059,7,rural,nonmetro_noadj,54,WV,Northeast
+54061,3,metro,metro,54,WV,Northeast
+54063,8,rural,nonmetro_adj,54,WV,Northeast
+54065,8,rural,nonmetro_adj,54,WV,Northeast
+54067,6,rural,nonmetro_adj,54,WV,Northeast
+54069,3,metro,metro,54,WV,Northeast
+54071,8,rural,nonmetro_adj,54,WV,Northeast
+54073,6,rural,nonmetro_adj,54,WV,Northeast
+54075,9,rural,nonmetro_noadj,54,WV,Northeast
+54077,3,metro,metro,54,WV,Northeast
+54079,2,metro,metro,54,WV,Northeast
+54081,3,metro,metro,54,WV,Northeast
+54083,7,rural,nonmetro_noadj,54,WV,Northeast
+54085,8,rural,nonmetro_adj,54,WV,Northeast
+54087,6,rural,nonmetro_adj,54,WV,Northeast
+54089,6,rural,nonmetro_adj,54,WV,Northeast
+54091,6,rural,nonmetro_adj,54,WV,Northeast
+54093,8,rural,nonmetro_adj,54,WV,Northeast
+54095,9,rural,nonmetro_noadj,54,WV,Northeast
+54097,7,rural,nonmetro_noadj,54,WV,Northeast
+54099,2,metro,metro,54,WV,Northeast
+54101,9,rural,nonmetro_noadj,54,WV,Northeast
+54103,6,rural,nonmetro_adj,54,WV,Northeast
+54105,3,metro,metro,54,WV,Northeast
+54107,3,metro,metro,54,WV,Northeast
+54109,6,rural,nonmetro_adj,54,WV,Northeast
+55001,8,rural,nonmetro_adj,55,WI,North Central
+55003,7,rural,nonmetro_noadj,55,WI,North Central
+55005,6,rural,nonmetro_adj,55,WI,North Central
+55007,8,rural,nonmetro_adj,55,WI,North Central
+55009,2,metro,metro,55,WI,North Central
+55011,8,rural,nonmetro_adj,55,WI,North Central
+55013,8,rural,nonmetro_adj,55,WI,North Central
+55015,3,metro,metro,55,WI,North Central
+55017,3,metro,metro,55,WI,North Central
+55019,6,rural,nonmetro_adj,55,WI,North Central
+55021,2,metro,metro,55,WI,North Central
+55023,7,rural,nonmetro_noadj,55,WI,North Central
+55025,2,metro,metro,55,WI,North Central
+55027,4,rural,nonmetro_adj,55,WI,North Central
+55029,6,rural,nonmetro_adj,55,WI,North Central
+55031,2,metro,metro,55,WI,North Central
+55033,6,rural,nonmetro_adj,55,WI,North Central
+55035,3,metro,metro,55,WI,North Central
+55037,9,rural,nonmetro_noadj,55,WI,North Central
+55039,3,metro,metro,55,WI,North Central
+55041,9,rural,nonmetro_noadj,55,WI,North Central
+55043,6,rural,nonmetro_adj,55,WI,North Central
+55045,2,metro,metro,55,WI,North Central
+55047,6,rural,nonmetro_adj,55,WI,North Central
+55049,2,metro,metro,55,WI,North Central
+55051,9,rural,nonmetro_noadj,55,WI,North Central
+55053,6,rural,nonmetro_adj,55,WI,North Central
+55055,4,rural,nonmetro_adj,55,WI,North Central
+55057,7,rural,nonmetro_noadj,55,WI,North Central
+55059,1,metro,metro,55,WI,North Central
+55061,2,metro,metro,55,WI,North Central
+55063,3,metro,metro,55,WI,North Central
+55065,8,rural,nonmetro_adj,55,WI,North Central
+55067,6,rural,nonmetro_adj,55,WI,North Central
+55069,6,rural,nonmetro_adj,55,WI,North Central
+55071,4,rural,nonmetro_adj,55,WI,North Central
+55073,3,metro,metro,55,WI,North Central
+55075,6,rural,nonmetro_adj,55,WI,North Central
+55077,8,rural,nonmetro_adj,55,WI,North Central
+55078,8,rural,nonmetro_adj,55,WI,North Central
+55079,1,metro,metro,55,WI,North Central
+55081,6,rural,nonmetro_adj,55,WI,North Central
+55083,2,metro,metro,55,WI,North Central
+55085,7,rural,nonmetro_noadj,55,WI,North Central
+55087,3,metro,metro,55,WI,North Central
+55089,1,metro,metro,55,WI,North Central
+55091,8,rural,nonmetro_adj,55,WI,North Central
+55093,1,metro,metro,55,WI,North Central
+55095,6,rural,nonmetro_adj,55,WI,North Central
+55097,4,rural,nonmetro_adj,55,WI,North Central
+55099,9,rural,nonmetro_noadj,55,WI,North Central
+55101,3,metro,metro,55,WI,North Central
+55103,6,rural,nonmetro_adj,55,WI,North Central
+55105,3,metro,metro,55,WI,North Central
+55107,6,rural,nonmetro_adj,55,WI,North Central
+55109,1,metro,metro,55,WI,North Central
+55111,4,rural,nonmetro_adj,55,WI,North Central
+55113,7,rural,nonmetro_noadj,55,WI,North Central
+55115,6,rural,nonmetro_adj,55,WI,North Central
+55117,3,metro,metro,55,WI,North Central
+55119,6,rural,nonmetro_adj,55,WI,North Central
+55121,6,rural,nonmetro_adj,55,WI,North Central
+55123,6,rural,nonmetro_adj,55,WI,North Central
+55125,9,rural,nonmetro_noadj,55,WI,North Central
+55127,4,rural,nonmetro_adj,55,WI,North Central
+55129,7,rural,nonmetro_noadj,55,WI,North Central
+55131,1,metro,metro,55,WI,North Central
+55133,1,metro,metro,55,WI,North Central
+55135,6,rural,nonmetro_adj,55,WI,North Central
+55137,6,rural,nonmetro_adj,55,WI,North Central
+55139,3,metro,metro,55,WI,North Central
+55141,4,rural,nonmetro_adj,55,WI,North Central
+56001,4,rural,nonmetro_adj,56,WY,West
+56003,9,rural,nonmetro_noadj,56,WY,West
+56005,5,rural,nonmetro_noadj,56,WY,West
+56007,7,rural,nonmetro_noadj,56,WY,West
+56009,6,rural,nonmetro_adj,56,WY,West
+56011,9,rural,nonmetro_noadj,56,WY,West
+56013,7,rural,nonmetro_noadj,56,WY,West
+56015,7,rural,nonmetro_noadj,56,WY,West
+56017,7,rural,nonmetro_noadj,56,WY,West
+56019,7,rural,nonmetro_noadj,56,WY,West
+56021,3,metro,metro,56,WY,West
+56023,7,rural,nonmetro_noadj,56,WY,West
+56025,3,metro,metro,56,WY,West
+56027,9,rural,nonmetro_noadj,56,WY,West
+56029,7,rural,nonmetro_noadj,56,WY,West
+56031,7,rural,nonmetro_noadj,56,WY,West
+56033,7,rural,nonmetro_noadj,56,WY,West
+56035,9,rural,nonmetro_noadj,56,WY,West
+56037,5,rural,nonmetro_noadj,56,WY,West
+56039,7,rural,nonmetro_noadj,56,WY,West
+56041,7,rural,nonmetro_noadj,56,WY,West
+56043,7,rural,nonmetro_noadj,56,WY,West
+56045,7,rural,nonmetro_noadj,56,WY,West
+72001,6,rural,nonmetro_adj,72,NA,NA
+72003,2,metro,metro,72,NA,NA
+72005,2,metro,metro,72,NA,NA
+72007,1,metro,metro,72,NA,NA
+72009,1,metro,metro,72,NA,NA
+72011,2,metro,metro,72,NA,NA
+72013,3,metro,metro,72,NA,NA
+72015,3,metro,metro,72,NA,NA
+72017,1,metro,metro,72,NA,NA
+72019,1,metro,metro,72,NA,NA
+72021,1,metro,metro,72,NA,NA
+72023,3,metro,metro,72,NA,NA
+72025,1,metro,metro,72,NA,NA
+72027,3,metro,metro,72,NA,NA
+72029,1,metro,metro,72,NA,NA
+72031,1,metro,metro,72,NA,NA
+72033,1,metro,metro,72,NA,NA
+72035,1,metro,metro,72,NA,NA
+72037,1,metro,metro,72,NA,NA
+72039,1,metro,metro,72,NA,NA
+72041,1,metro,metro,72,NA,NA
+72043,4,rural,nonmetro_adj,72,NA,NA
+72045,1,metro,metro,72,NA,NA
+72047,1,metro,metro,72,NA,NA
+72049,9,rural,nonmetro_noadj,72,NA,NA
+72051,1,metro,metro,72,NA,NA
+72053,1,metro,metro,72,NA,NA
+72054,1,metro,metro,72,NA,NA
+72055,2,metro,metro,72,NA,NA
+72057,3,metro,metro,72,NA,NA
+72059,2,metro,metro,72,NA,NA
+72061,1,metro,metro,72,NA,NA
+72063,1,metro,metro,72,NA,NA
+72065,3,metro,metro,72,NA,NA
+72067,3,metro,metro,72,NA,NA
+72069,1,metro,metro,72,NA,NA
+72071,2,metro,metro,72,NA,NA
+72073,6,rural,nonmetro_adj,72,NA,NA
+72075,2,metro,metro,72,NA,NA
+72077,1,metro,metro,72,NA,NA
+72079,3,metro,metro,72,NA,NA
+72081,2,metro,metro,72,NA,NA
+72083,6,rural,nonmetro_adj,72,NA,NA
+72085,1,metro,metro,72,NA,NA
+72087,1,metro,metro,72,NA,NA
+72089,1,metro,metro,72,NA,NA
+72091,1,metro,metro,72,NA,NA
+72093,6,rural,nonmetro_adj,72,NA,NA
+72095,1,metro,metro,72,NA,NA
+72097,3,metro,metro,72,NA,NA
+72099,2,metro,metro,72,NA,NA
+72101,1,metro,metro,72,NA,NA
+72103,1,metro,metro,72,NA,NA
+72105,1,metro,metro,72,NA,NA
+72107,1,metro,metro,72,NA,NA
+72109,3,metro,metro,72,NA,NA
+72111,2,metro,metro,72,NA,NA
+72113,2,metro,metro,72,NA,NA
+72115,3,metro,metro,72,NA,NA
+72117,2,metro,metro,72,NA,NA
+72119,1,metro,metro,72,NA,NA
+72121,3,metro,metro,72,NA,NA
+72123,4,rural,nonmetro_adj,72,NA,NA
+72125,3,metro,metro,72,NA,NA
+72127,1,metro,metro,72,NA,NA
+72129,1,metro,metro,72,NA,NA
+72131,2,metro,metro,72,NA,NA
+72133,4,rural,nonmetro_adj,72,NA,NA
+72135,1,metro,metro,72,NA,NA
+72137,1,metro,metro,72,NA,NA
+72139,1,metro,metro,72,NA,NA
+72141,2,metro,metro,72,NA,NA
+72143,1,metro,metro,72,NA,NA
+72145,1,metro,metro,72,NA,NA
+72147,7,rural,nonmetro_noadj,72,NA,NA
+72149,2,metro,metro,72,NA,NA
+72151,1,metro,metro,72,NA,NA
+72153,2,metro,metro,72,NA,NA
+36061,1,metro,metro,36,NY,Northeast
+29901,1,metro,metro,29,MO,North Central

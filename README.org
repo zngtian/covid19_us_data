@@ -1,33 +1,38 @@
-This repository maintains the dataset of the COVID-19 in
-U.S. counties. The original database is "the 2019 Novel Coronavirus
-COVID-19 (2019-nCoV) Data Repository" by Johns Hopkins CSSE
-(https://github.com/CSSEGISandData/COVID-19). 
+This repository maintains the dataset of the COVID-19 in U.S. counties
+and other related data that are used to write NERCRD briefs on
+COVID-19. All data are saved under the =data= folder. 
 
-Each daily update is saved in a csv file named
-=uscases_YYYY-MM-DD.csv=. The file =20200320_pa_closing_naics.csv=
-contains the list of industries that are classified as either
-life-sustaining or not, according the Governor Wolf's order on March
-19, 2020. 
+Currently (up to [2020-04-09 Thu]), the data files are as follows
 
-A sample code to read all daily data is given below.
-#+begin_src R
-read_uscases_alltime <- function(start_date, end_date) {
-    ## start_data and end_date are characters in the form of YYYY-MM-DD.
-    ## This function requires the R packages of lubridate and tidyverse.
+- =uscases_nyt.csv=. This file contains the COVID-19 data from the New
+  York Times (https://github.com/nytimes/covid-19-data). The dataset
+  has two geographic exceptions that need manual correction: (1) New
+  York City include all cases of five counties but does not have an
+  FIPS. I assign it with the FIPS of New York County, "36061". (2)
+  Kansas City excludes cases of four counties that the city is
+  seated. This gives rise to some difficulty in combining with other
+  county-level data sources, such as American Community Survey, which
+  does not have city data but county ones. I combine all city and
+  county data into one geographic unit as Kansas City and give it an
+  FIPS "29901". 
 
-    d1 <- ymd(start_date)
-    d2 <- ymd(end_date)
+- =pop_density.csv=. This file contains the data on total population,
+  population of age 60+, population density, etc., extracted from the
+  2014-2018 American Community Survey. The data for New York City and
+  Kansas City are combined with data of the cities and their seating
+  counties.
 
-    d <- d1
-    fnames <- vector(mode = "character")
-    while (d <= d2) {
-        f <- str_c("uscases_", d, ".csv")
-        fnames <- c(fnames, f)
-        d <- d + 1
-    }
+- =rucc_region.csv=. This file contains the Rural-Urban Continuum Code
+  of the USDA and the division of Census Regions. The counties in New
+  York City and Kansas City are removed. The two cities are assigned
+  ~RUCC: 1~.
 
-    fpaths <- map_chr(fnames, ~ file.path(.))
+- =pa_closing_naics=. This file contains the list of essential
+  life-sustaining sectors that are operating under the stay-at-home
+  order of Pennsylvania Governor Wolf. 
 
-    dat <- map_dfr(fpaths, ~ read_csv(.))
-}
-#+end_src
+- =jhm=. The folder contains the files of cases of COVID-19 of US
+  counties, extracted from "the 2019 Novel Coronavirus COVID-19
+  (2019-nCoV) Data Repository" by Johns Hopkins CSSE
+  (https://github.com/CSSEGISandData/COVID-19). Each daily update is
+  saved in a csv file named =uscases_YYYY-MM-DD.csv=.
