@@ -31,6 +31,12 @@ Currently (up to [2020-04-09 Thu]), the data files are as follows
   life-sustaining sectors that are operating under the stay-at-home
   order of Pennsylvania Governor Wolf. 
 
+- =spatial_uscty_agg.rds=. This R data file contains the spatial data
+  from U.S. counties. The original data is contained in the R package
+  ~albersusa~ that shifts the geo-locations of Alaska and Hawaii
+  immediately below the continental states. The rows for the counties
+  in New York City and Kansas City are combined into the cities.
+
 - =jhm=. The folder contains the files of cases of COVID-19 of US
   counties, extracted from "the 2019 Novel Coronavirus COVID-19
   (2019-nCoV) Data Repository" by Johns Hopkins CSSE
