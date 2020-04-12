@@ -4,7 +4,7 @@ COVID-19. All data are saved under the =data= folder.
 
 Currently (up to [2020-04-09 Thu]), the data files are as follows
 
-- =uscases_nyt.csv=. This file contains the COVID-19 data from the New
+- =uscases_cty.csv=. This file contains the COVID-19 data from the New
   York Times (https://github.com/nytimes/covid-19-data). The dataset
   has two geographic exceptions that need manual correction: (1) New
   York City include all cases of five counties but does not have an
@@ -14,7 +14,11 @@ Currently (up to [2020-04-09 Thu]), the data files are as follows
   county-level data sources, such as American Community Survey, which
   does not have city data but county ones. I combine all city and
   county data into one geographic unit as Kansas City and give it an
-  FIPS "29901". 
+  FIPS "29901". However, the dataset does not include cases with
+  unknown location in each state. 
+
+- =uscases_unknown.csv=. This file contains the cases with unknown
+  location for all states. 
 
 - =pop_density.csv=. This file contains the data on total population,
   population of age 60+, population density, etc., extracted from the
