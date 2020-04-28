@@ -136,7 +136,7 @@ Unknown,Illinois,2020-03-24,58,0,17
 Unknown,Kentucky,2020-03-24,18,0,21
 Unknown,Louisiana,2020-03-24,12,1,22
 Unknown,Maine,2020-03-24,5,0,23
-Unknown,Massachusetts,2020-03-24,90,4,25
+Unknown,Massachusetts,2020-03-24,90,0,25
 Unknown,Minnesota,2020-03-24,1,0,27
 Unknown,Missouri,2020-03-24,72,0,29
 Unknown,Nevada,2020-03-24,82,0,32
@@ -157,7 +157,7 @@ Unknown,Illinois,2020-03-25,58,0,17
 Unknown,Kentucky,2020-03-25,36,0,21
 Unknown,Louisiana,2020-03-25,12,1,22
 Unknown,Maine,2020-03-25,5,0,23
-Unknown,Massachusetts,2020-03-25,159,4,25
+Unknown,Massachusetts,2020-03-25,159,0,25
 Unknown,Minnesota,2020-03-25,1,0,27
 Unknown,Missouri,2020-03-25,4,0,29
 Unknown,Nevada,2020-03-25,90,4,32
@@ -179,7 +179,7 @@ Unknown,Illinois,2020-03-26,58,0,17
 Unknown,Kentucky,2020-03-26,42,0,21
 Unknown,Louisiana,2020-03-26,13,1,22
 Unknown,Maine,2020-03-26,5,0,23
-Unknown,Massachusetts,2020-03-26,267,4,25
+Unknown,Massachusetts,2020-03-26,267,0,25
 Unknown,Michigan,2020-03-26,13,0,26
 Unknown,Minnesota,2020-03-26,1,1,27
 Unknown,Missouri,2020-03-26,10,0,29
@@ -204,7 +204,7 @@ Unknown,Illinois,2020-03-27,58,0,17
 Unknown,Kentucky,2020-03-27,45,0,21
 Unknown,Louisiana,2020-03-27,16,1,22
 Unknown,Maine,2020-03-27,5,0,23
-Unknown,Massachusetts,2020-03-27,304,4,25
+Unknown,Massachusetts,2020-03-27,304,0,25
 Unknown,Michigan,2020-03-27,23,0,26
 Unknown,Minnesota,2020-03-27,1,1,27
 Unknown,Mississippi,2020-03-27,6,0,28
@@ -228,7 +228,7 @@ Unknown,Illinois,2020-03-28,58,0,17
 Unknown,Kentucky,2020-03-28,60,0,21
 Unknown,Louisiana,2020-03-28,12,2,22
 Unknown,Maine,2020-03-28,5,0,23
-Unknown,Massachusetts,2020-03-28,358,4,25
+Unknown,Massachusetts,2020-03-28,358,0,25
 Unknown,Michigan,2020-03-28,47,0,26
 Unknown,Minnesota,2020-03-28,1,0,27
 Unknown,Mississippi,2020-03-28,6,0,28
@@ -253,7 +253,7 @@ Unknown,Illinois,2020-03-29,58,0,17
 Unknown,Kentucky,2020-03-29,61,0,21
 Unknown,Louisiana,2020-03-29,12,1,22
 Unknown,Maine,2020-03-29,5,1,23
-Unknown,Massachusetts,2020-03-29,462,4,25
+Unknown,Massachusetts,2020-03-29,462,0,25
 Unknown,Michigan,2020-03-29,77,0,26
 Unknown,Minnesota,2020-03-29,1,0,27
 Unknown,Missouri,2020-03-29,8,0,29
@@ -279,7 +279,7 @@ Unknown,Illinois,2020-03-30,58,0,17
 Unknown,Kentucky,2020-03-30,59,0,21
 Unknown,Louisiana,2020-03-30,14,1,22
 Unknown,Maine,2020-03-30,5,1,23
-Unknown,Massachusetts,2020-03-30,491,4,25
+Unknown,Massachusetts,2020-03-30,491,0,25
 Unknown,Michigan,2020-03-30,78,0,26
 Unknown,Minnesota,2020-03-30,1,0,27
 Unknown,Missouri,2020-03-30,12,0,29
@@ -289,7 +289,6 @@ Unknown,New Jersey,2020-03-30,3840,7,34
 Unknown,Northern Mariana Islands,2020-03-30,2,0,69
 Unknown,Puerto Rico,2020-03-30,174,6,72
 Unknown,Rhode Island,2020-03-30,106,4,44
-Unknown,South Dakota,2020-03-30,1,0,46
 Unknown,Tennessee,2020-03-30,101,9,47
 Unknown,Utah,2020-03-30,8,3,49
 Unknown,Vermont,2020-03-30,23,5,50
@@ -307,7 +306,7 @@ Unknown,Indiana,2020-03-31,2,0,18
 Unknown,Kentucky,2020-03-31,9,0,21
 Unknown,Louisiana,2020-03-31,22,4,22
 Unknown,Maine,2020-03-31,6,0,23
-Unknown,Massachusetts,2020-03-31,335,5,25
+Unknown,Massachusetts,2020-03-31,335,0,25
 Unknown,Michigan,2020-03-31,93,0,26
 Unknown,Minnesota,2020-03-31,1,0,27
 Unknown,Mississippi,2020-03-31,4,0,28
@@ -335,7 +334,7 @@ Unknown,Indiana,2020-04-01,2,0,18
 Unknown,Kentucky,2020-04-01,9,0,21
 Unknown,Louisiana,2020-04-01,28,4,22
 Unknown,Maine,2020-04-01,7,0,23
-Unknown,Massachusetts,2020-04-01,335,5,25
+Unknown,Massachusetts,2020-04-01,335,0,25
 Unknown,Michigan,2020-04-01,161,2,26
 Unknown,Minnesota,2020-04-01,1,0,27
 Unknown,Mississippi,2020-04-01,4,0,28
@@ -362,7 +361,7 @@ Unknown,Hawaii,2020-04-02,20,0,15
 Unknown,Illinois,2020-04-02,28,0,17
 Unknown,Louisiana,2020-04-02,38,1,22
 Unknown,Maine,2020-04-02,8,0,23
-Unknown,Massachusetts,2020-04-02,270,5,25
+Unknown,Massachusetts,2020-04-02,270,0,25
 Unknown,Michigan,2020-04-02,182,0,26
 Unknown,Missouri,2020-04-02,3,0,29
 Unknown,Nebraska,2020-04-02,1,0,31
@@ -387,7 +386,7 @@ Unknown,Illinois,2020-04-03,40,0,17
 Unknown,Kentucky,2020-04-03,15,0,21
 Unknown,Louisiana,2020-04-03,40,4,22
 Unknown,Maine,2020-04-03,11,0,23
-Unknown,Massachusetts,2020-04-03,213,5,25
+Unknown,Massachusetts,2020-04-03,213,0,25
 Unknown,Michigan,2020-04-03,215,1,26
 Unknown,Minnesota,2020-04-03,0,3,27
 Unknown,Missouri,2020-04-03,3,0,29
@@ -415,7 +414,7 @@ Unknown,Illinois,2020-04-04,16,0,17
 Unknown,Kentucky,2020-04-04,77,3,21
 Unknown,Louisiana,2020-04-04,31,0,22
 Unknown,Maine,2020-04-04,12,0,23
-Unknown,Massachusetts,2020-04-04,274,5,25
+Unknown,Massachusetts,2020-04-04,274,0,25
 Unknown,Michigan,2020-04-04,333,1,26
 Unknown,Minnesota,2020-04-04,2,3,27
 Unknown,Missouri,2020-04-04,3,0,29
@@ -445,7 +444,7 @@ Unknown,Illinois,2020-04-05,48,0,17
 Unknown,Kentucky,2020-04-05,9,7,21
 Unknown,Louisiana,2020-04-05,31,4,22
 Unknown,Maine,2020-04-05,11,0,23
-Unknown,Massachusetts,2020-04-05,215,5,25
+Unknown,Massachusetts,2020-04-05,215,0,25
 Unknown,Michigan,2020-04-05,306,0,26
 Unknown,Minnesota,2020-04-05,0,4,27
 Unknown,Nevada,2020-04-05,52,0,32
@@ -473,7 +472,7 @@ Unknown,Illinois,2020-04-06,62,0,17
 Unknown,Kentucky,2020-04-06,0,7,21
 Unknown,Louisiana,2020-04-06,48,3,22
 Unknown,Maine,2020-04-06,11,0,23
-Unknown,Massachusetts,2020-04-06,246,7,25
+Unknown,Massachusetts,2020-04-06,246,2,25
 Unknown,Michigan,2020-04-06,367,1,26
 Unknown,Missouri,2020-04-06,2,0,29
 Unknown,Nevada,2020-04-06,32,12,32
@@ -500,7 +499,7 @@ Unknown,Hawaii,2020-04-07,7,0,15
 Unknown,Illinois,2020-04-07,34,0,17
 Unknown,Louisiana,2020-04-07,49,2,22
 Unknown,Maine,2020-04-07,9,0,23
-Unknown,Massachusetts,2020-04-07,229,8,25
+Unknown,Massachusetts,2020-04-07,229,3,25
 Unknown,Michigan,2020-04-07,405,0,26
 Unknown,Missouri,2020-04-07,2,0,29
 Unknown,New Hampshire,2020-04-07,1,0,33
@@ -526,7 +525,7 @@ Unknown,Illinois,2020-04-08,61,0,17
 Unknown,Kentucky,2020-04-08,0,7,21
 Unknown,Louisiana,2020-04-08,49,2,22
 Unknown,Maine,2020-04-08,8,0,23
-Unknown,Massachusetts,2020-04-08,223,9,25
+Unknown,Massachusetts,2020-04-08,223,5,25
 Unknown,Michigan,2020-04-08,363,3,26
 Unknown,Missouri,2020-04-08,1,0,29
 Unknown,Nevada,2020-04-08,53,6,32
@@ -535,6 +534,7 @@ Unknown,New Jersey,2020-04-08,1362,4,34
 Unknown,Northern Mariana Islands,2020-04-08,11,2,69
 Unknown,Puerto Rico,2020-04-08,620,24,72
 Unknown,Rhode Island,2020-04-08,297,15,44
+Unknown,South Dakota,2020-04-08,0,4,46
 Unknown,Vermont,2020-04-08,8,0,50
 Unknown,Virgin Islands,2020-04-08,45,1,78
 Unknown,Washington,2020-04-08,705,0,53
@@ -549,7 +549,7 @@ Unknown,Illinois,2020-04-09,68,1,17
 Unknown,Kentucky,2020-04-09,0,7,21
 Unknown,Louisiana,2020-04-09,51,2,22
 Unknown,Maine,2020-04-09,4,0,23
-Unknown,Massachusetts,2020-04-09,203,9,25
+Unknown,Massachusetts,2020-04-09,203,5,25
 Unknown,Michigan,2020-04-09,368,5,26
 Unknown,Missouri,2020-04-09,1,0,29
 Unknown,Nevada,2020-04-09,20,0,32
@@ -557,7 +557,6 @@ Unknown,New Jersey,2020-04-09,996,12,34
 Unknown,Northern Mariana Islands,2020-04-09,11,2,69
 Unknown,Puerto Rico,2020-04-09,683,33,72
 Unknown,Rhode Island,2020-04-09,424,23,44
-Unknown,South Dakota,2020-04-09,0,4,46
 Unknown,Tennessee,2020-04-09,0,8,47
 Unknown,Utah,2020-04-09,0,3,49
 Unknown,Vermont,2020-04-09,8,0,50
@@ -578,7 +577,7 @@ Unknown,Illinois,2020-04-10,81,1,17
 Unknown,Kansas,2020-04-10,0,4,20
 Unknown,Louisiana,2020-04-10,54,2,22
 Unknown,Maine,2020-04-10,3,0,23
-Unknown,Massachusetts,2020-04-10,129,9,25
+Unknown,Massachusetts,2020-04-10,129,5,25
 Unknown,Michigan,2020-04-10,433,7,26
 Unknown,Missouri,2020-04-10,1,0,29
 Unknown,New Jersey,2020-04-10,649,2,34
@@ -586,7 +585,6 @@ Unknown,North Dakota,2020-04-10,0,1,38
 Unknown,Northern Mariana Islands,2020-04-10,11,2,69
 Unknown,Puerto Rico,2020-04-10,725,39,72
 Unknown,Rhode Island,2020-04-10,712,29,44
-Unknown,South Dakota,2020-04-10,0,4,46
 Unknown,Tennessee,2020-04-10,22,0,47
 Unknown,Utah,2020-04-10,0,7,49
 Unknown,Vermont,2020-04-10,26,1,50
@@ -606,7 +604,7 @@ Unknown,Illinois,2020-04-11,85,0,17
 Unknown,Kansas,2020-04-11,0,4,20
 Unknown,Louisiana,2020-04-11,54,3,22
 Unknown,Maine,2020-04-11,3,0,23
-Unknown,Massachusetts,2020-04-11,225,9,25
+Unknown,Massachusetts,2020-04-11,225,5,25
 Unknown,Michigan,2020-04-11,474,15,26
 Unknown,Minnesota,2020-04-11,3,0,27
 Unknown,Missouri,2020-04-11,1,0,29
@@ -634,7 +632,7 @@ Unknown,Kansas,2020-04-12,0,3,20
 Unknown,Kentucky,2020-04-12,24,0,21
 Unknown,Louisiana,2020-04-12,54,3,22
 Unknown,Maine,2020-04-12,3,0,23
-Unknown,Massachusetts,2020-04-12,373,9,25
+Unknown,Massachusetts,2020-04-12,373,5,25
 Unknown,Michigan,2020-04-12,480,20,26
 Unknown,Minnesota,2020-04-12,5,0,27
 Unknown,Missouri,2020-04-12,1,0,29
@@ -661,7 +659,7 @@ Unknown,Illinois,2020-04-13,65,0,17
 Unknown,Kentucky,2020-04-13,23,0,21
 Unknown,Louisiana,2020-04-13,56,0,22
 Unknown,Maine,2020-04-13,5,0,23
-Unknown,Massachusetts,2020-04-13,447,11,25
+Unknown,Massachusetts,2020-04-13,447,7,25
 Unknown,Michigan,2020-04-13,469,12,26
 Unknown,Minnesota,2020-04-13,34,0,27
 Unknown,Missouri,2020-04-13,1,0,29
@@ -669,7 +667,7 @@ Unknown,Nebraska,2020-04-13,1,0,31
 Unknown,New Hampshire,2020-04-13,1,0,33
 Unknown,New Jersey,2020-04-13,1203,2,34
 Unknown,Northern Mariana Islands,2020-04-13,11,2,69
-Unknown,Puerto Rico,2020-04-13,897,45,72
+Unknown,Puerto Rico,2020-04-13,903,45,72
 Unknown,Rhode Island,2020-04-13,1300,53,44
 Unknown,Utah,2020-04-13,44,7,49
 Unknown,Vermont,2020-04-13,8,0,50
@@ -690,15 +688,15 @@ Unknown,Kansas,2020-04-14,0,2,20
 Unknown,Kentucky,2020-04-14,15,0,21
 Unknown,Louisiana,2020-04-14,56,0,22
 Unknown,Maine,2020-04-14,2,0,23
-Unknown,Massachusetts,2020-04-14,506,11,25
+Unknown,Massachusetts,2020-04-14,506,7,25
 Unknown,Michigan,2020-04-14,543,13,26
 Unknown,Minnesota,2020-04-14,6,0,27
 Unknown,Missouri,2020-04-14,1,0,29
 Unknown,Nevada,2020-04-14,0,9,32
 Unknown,New Hampshire,2020-04-14,1,0,33
 Unknown,New Jersey,2020-04-14,1702,2,34
-Unknown,Northern Mariana Islands,2020-04-14,11,2,69
-Unknown,Puerto Rico,2020-04-14,897,45,72
+Unknown,Northern Mariana Islands,2020-04-14,13,2,69
+Unknown,Puerto Rico,2020-04-14,923,45,72
 Unknown,Rhode Island,2020-04-14,756,60,44
 Unknown,Utah,2020-04-14,0,8,49
 Unknown,Vermont,2020-04-14,8,0,50
@@ -718,14 +716,14 @@ Unknown,Kentucky,2020-04-15,77,1,21
 Unknown,Louisiana,2020-04-15,56,1,22
 Unknown,Maine,2020-04-15,2,0,23
 Unknown,Maryland,2020-04-15,0,71,24
-Unknown,Massachusetts,2020-04-15,572,11,25
+Unknown,Massachusetts,2020-04-15,572,7,25
 Unknown,Michigan,2020-04-15,584,17,26
 Unknown,Minnesota,2020-04-15,5,0,27
 Unknown,Missouri,2020-04-15,1,0,29
 Unknown,Nevada,2020-04-15,0,6,32
 Unknown,New Jersey,2020-04-15,1189,2,34
 Unknown,North Dakota,2020-04-15,1,0,38
-Unknown,Northern Mariana Islands,2020-04-15,11,2,69
+Unknown,Northern Mariana Islands,2020-04-15,13,2,69
 Unknown,Puerto Rico,2020-04-15,974,51,72
 Unknown,Rhode Island,2020-04-15,756,67,44
 Unknown,Utah,2020-04-15,0,9,49
@@ -746,7 +744,7 @@ Unknown,Kentucky,2020-04-16,76,1,21
 Unknown,Louisiana,2020-04-16,56,1,22
 Unknown,Maine,2020-04-16,2,0,23
 Unknown,Maryland,2020-04-16,0,71,24
-Unknown,Massachusetts,2020-04-16,638,13,25
+Unknown,Massachusetts,2020-04-16,638,9,25
 Unknown,Michigan,2020-04-16,601,16,26
 Unknown,Minnesota,2020-04-16,5,0,27
 Unknown,Missouri,2020-04-16,2,0,29
@@ -754,8 +752,8 @@ Unknown,Nevada,2020-04-16,16,4,32
 Unknown,New Hampshire,2020-04-16,1,0,33
 Unknown,New Jersey,2020-04-16,1048,3,34
 Unknown,North Dakota,2020-04-16,1,0,38
-Unknown,Northern Mariana Islands,2020-04-16,11,2,69
-Unknown,Puerto Rico,2020-04-16,974,51,72
+Unknown,Northern Mariana Islands,2020-04-16,13,2,69
+Unknown,Puerto Rico,2020-04-16,1043,56,72
 Unknown,Rhode Island,2020-04-16,840,98,44
 Unknown,Utah,2020-04-16,3,1,49
 Unknown,Vermont,2020-04-16,9,0,50
@@ -776,7 +774,7 @@ Unknown,Kentucky,2020-04-17,25,0,21
 Unknown,Louisiana,2020-04-17,56,1,22
 Unknown,Maine,2020-04-17,2,0,23
 Unknown,Maryland,2020-04-17,0,71,24
-Unknown,Massachusetts,2020-04-17,760,40,25
+Unknown,Massachusetts,2020-04-17,760,12,25
 Unknown,Michigan,2020-04-17,604,19,26
 Unknown,Minnesota,2020-04-17,1,0,27
 Unknown,Missouri,2020-04-17,4,0,29
@@ -785,7 +783,7 @@ Unknown,New Hampshire,2020-04-17,2,0,33
 Unknown,New Jersey,2020-04-17,719,3,34
 Unknown,New York,2020-04-17,0,630,36
 Unknown,North Dakota,2020-04-17,1,0,38
-Unknown,Northern Mariana Islands,2020-04-17,11,2,69
+Unknown,Northern Mariana Islands,2020-04-17,14,2,69
 Unknown,Puerto Rico,2020-04-17,1068,58,72
 Unknown,Rhode Island,2020-04-17,832,98,44
 Unknown,Utah,2020-04-17,2,1,49
@@ -807,7 +805,7 @@ Unknown,Kentucky,2020-04-18,35,0,21
 Unknown,Louisiana,2020-04-18,57,1,22
 Unknown,Maine,2020-04-18,1,0,23
 Unknown,Maryland,2020-04-18,0,96,24
-Unknown,Massachusetts,2020-04-18,733,41,25
+Unknown,Massachusetts,2020-04-18,733,13,25
 Unknown,Michigan,2020-04-18,643,22,26
 Unknown,Minnesota,2020-04-18,4,0,27
 Unknown,Missouri,2020-04-18,2,0,29
@@ -816,11 +814,11 @@ Unknown,New Hampshire,2020-04-18,0,1,33
 Unknown,New Jersey,2020-04-18,748,2,34
 Unknown,New York,2020-04-18,0,1170,36
 Unknown,Northern Mariana Islands,2020-04-18,14,2,69
-Unknown,Puerto Rico,2020-04-18,1068,58,72
+Unknown,Puerto Rico,2020-04-18,1118,60,72
 Unknown,Rhode Island,2020-04-18,815,117,44
 Unknown,Utah,2020-04-18,0,1,49
 Unknown,Vermont,2020-04-18,10,0,50
-Unknown,Virgin Islands,2020-04-18,51,2,78
+Unknown,Virgin Islands,2020-04-18,53,3,78
 Unknown,Virginia,2020-04-18,1,114,51
 Unknown,Washington,2020-04-18,233,0,53
 Unknown,Arkansas,2020-04-19,46,0,05
@@ -835,7 +833,7 @@ Unknown,Kentucky,2020-04-19,38,0,21
 Unknown,Louisiana,2020-04-19,58,1,22
 Unknown,Maine,2020-04-19,2,0,23
 Unknown,Maryland,2020-04-19,0,69,24
-Unknown,Massachusetts,2020-04-19,815,41,25
+Unknown,Massachusetts,2020-04-19,815,13,25
 Unknown,Michigan,2020-04-19,636,21,26
 Unknown,Minnesota,2020-04-19,4,0,27
 Unknown,Missouri,2020-04-19,1,0,29
@@ -847,7 +845,7 @@ Unknown,Puerto Rico,2020-04-19,1213,41,72
 Unknown,Rhode Island,2020-04-19,715,130,44
 Unknown,Utah,2020-04-19,0,1,49
 Unknown,Vermont,2020-04-19,10,0,50
-Unknown,Virgin Islands,2020-04-19,51,2,78
+Unknown,Virgin Islands,2020-04-19,53,3,78
 Unknown,Virginia,2020-04-19,2,89,51
 Unknown,Washington,2020-04-19,1,0,53
 Unknown,Arkansas,2020-04-20,43,0,05
@@ -871,9 +869,160 @@ Unknown,Nevada,2020-04-20,34,4,32
 Unknown,New Hampshire,2020-04-20,4,1,33
 Unknown,New Jersey,2020-04-20,660,1,34
 Unknown,Northern Mariana Islands,2020-04-20,14,2,69
-Unknown,Puerto Rico,2020-04-20,1213,41,72
+Unknown,Puerto Rico,2020-04-20,1252,42,72
 Unknown,Rhode Island,2020-04-20,861,135,44
 Unknown,Utah,2020-04-20,0,1,49
 Unknown,Vermont,2020-04-20,11,0,50
-Unknown,Virgin Islands,2020-04-20,51,2,78
+Unknown,Virgin Islands,2020-04-20,54,3,78
 Unknown,Virginia,2020-04-20,2,90,51
+Unknown,Arkansas,2020-04-21,95,0,05
+Unknown,Colorado,2020-04-21,105,1,08
+Unknown,Connecticut,2020-04-21,503,4,09
+Unknown,Delaware,2020-04-21,30,0,10
+Unknown,Florida,2020-04-21,4,0,12
+Unknown,Georgia,2020-04-21,483,0,13
+Unknown,Guam,2020-04-21,852,6,66
+Unknown,Illinois,2020-04-21,191,0,17
+Unknown,Iowa,2020-04-21,3,2,19
+Unknown,Louisiana,2020-04-21,59,2,22
+Unknown,Maine,2020-04-21,1,0,23
+Unknown,Maryland,2020-04-21,0,97,24
+Unknown,Massachusetts,2020-04-21,929,8,25
+Unknown,Michigan,2020-04-21,698,22,26
+Unknown,Minnesota,2020-04-21,4,0,27
+Unknown,Nebraska,2020-04-21,6,0,31
+Unknown,Nevada,2020-04-21,10,0,32
+Unknown,New Hampshire,2020-04-21,15,1,33
+Unknown,New Jersey,2020-04-21,599,0,34
+Unknown,Northern Mariana Islands,2020-04-21,14,2,69
+Unknown,Puerto Rico,2020-04-21,915,43,72
+Unknown,Rhode Island,2020-04-21,1000,151,44
+Unknown,Utah,2020-04-21,0,2,49
+Unknown,Vermont,2020-04-21,3,0,50
+Unknown,Virgin Islands,2020-04-21,54,3,78
+Unknown,Arkansas,2020-04-22,113,0,05
+Unknown,Colorado,2020-04-22,95,0,08
+Unknown,Connecticut,2020-04-22,503,7,09
+Unknown,Delaware,2020-04-22,28,0,10
+Unknown,Florida,2020-04-22,0,34,12
+Unknown,Georgia,2020-04-22,576,0,13
+Unknown,Guam,2020-04-22,911,6,66
+Unknown,Illinois,2020-04-22,191,0,17
+Unknown,Iowa,2020-04-22,3,7,19
+Unknown,Kentucky,2020-04-22,70,0,21
+Unknown,Louisiana,2020-04-22,60,1,22
+Unknown,Maine,2020-04-22,2,0,23
+Unknown,Maryland,2020-04-22,0,97,24
+Unknown,Massachusetts,2020-04-22,854,9,25
+Unknown,Michigan,2020-04-22,715,25,26
+Unknown,Minnesota,2020-04-22,4,0,27
+Unknown,Missouri,2020-04-22,1,1,29
+Unknown,Nebraska,2020-04-22,6,0,31
+Unknown,Nevada,2020-04-22,10,11,32
+Unknown,New Hampshire,2020-04-22,15,1,33
+Unknown,New Jersey,2020-04-22,591,2,34
+Unknown,New Mexico,2020-04-22,1,0,35
+Unknown,Northern Mariana Islands,2020-04-22,14,2,69
+Unknown,Puerto Rico,2020-04-22,915,46,72
+Unknown,Rhode Island,2020-04-22,1000,161,44
+Unknown,Utah,2020-04-22,0,2,49
+Unknown,Vermont,2020-04-22,3,0,50
+Unknown,Virgin Islands,2020-04-22,54,3,78
+Unknown,Arkansas,2020-04-23,127,0,05
+Unknown,California,2020-04-23,3,0,06
+Unknown,Colorado,2020-04-23,108,0,08
+Unknown,Connecticut,2020-04-23,522,6,09
+Unknown,Delaware,2020-04-23,3,0,10
+Unknown,Florida,2020-04-23,8,0,12
+Unknown,Georgia,2020-04-23,361,0,13
+Unknown,Guam,2020-04-23,975,6,66
+Unknown,Illinois,2020-04-23,191,0,17
+Unknown,Iowa,2020-04-23,3,7,19
+Unknown,Louisiana,2020-04-23,62,0,22
+Unknown,Maryland,2020-04-23,0,97,24
+Unknown,Massachusetts,2020-04-23,737,10,25
+Unknown,Michigan,2020-04-23,829,28,26
+Unknown,Minnesota,2020-04-23,4,0,27
+Unknown,Missouri,2020-04-23,1,0,29
+Unknown,Nebraska,2020-04-23,6,1,31
+Unknown,Nevada,2020-04-23,1,5,32
+Unknown,New Hampshire,2020-04-23,11,1,33
+Unknown,New Jersey,2020-04-23,1108,2,34
+Unknown,Northern Mariana Islands,2020-04-23,14,2,69
+Unknown,Puerto Rico,2020-04-23,1230,46,72
+Unknown,Rhode Island,2020-04-23,1000,169,44
+Unknown,Utah,2020-04-23,0,1,49
+Unknown,Vermont,2020-04-23,3,0,50
+Unknown,Virgin Islands,2020-04-23,54,3,78
+Unknown,Arkansas,2020-04-24,182,0,05
+Unknown,Colorado,2020-04-24,103,0,08
+Unknown,Connecticut,2020-04-24,507,2,09
+Unknown,Delaware,2020-04-24,4,0,10
+Unknown,Georgia,2020-04-24,447,0,13
+Unknown,Guam,2020-04-24,993,6,66
+Unknown,Illinois,2020-04-24,218,0,17
+Unknown,Iowa,2020-04-24,0,1,19
+Unknown,Kentucky,2020-04-24,19,0,21
+Unknown,Louisiana,2020-04-24,63,0,22
+Unknown,Maryland,2020-04-24,0,92,24
+Unknown,Massachusetts,2020-04-24,791,12,25
+Unknown,Michigan,2020-04-24,1050,29,26
+Unknown,Minnesota,2020-04-24,6,0,27
+Unknown,Missouri,2020-04-24,2,0,29
+Unknown,Nevada,2020-04-24,43,5,32
+Unknown,New Hampshire,2020-04-24,3,1,33
+Unknown,New Jersey,2020-04-24,532,0,34
+Unknown,Northern Mariana Islands,2020-04-24,14,2,69
+Unknown,Puerto Rico,2020-04-24,1276,51,72
+Unknown,Rhode Island,2020-04-24,1132,182,44
+Unknown,Utah,2020-04-24,1,1,49
+Unknown,Vermont,2020-04-24,3,0,50
+Unknown,Virgin Islands,2020-04-24,54,3,78
+Unknown,Arkansas,2020-04-25,202,0,05
+Unknown,Colorado,2020-04-25,131,2,08
+Unknown,Connecticut,2020-04-25,521,2,09
+Unknown,Delaware,2020-04-25,3,0,10
+Unknown,Florida,2020-04-25,1,0,12
+Unknown,Georgia,2020-04-25,608,1,13
+Unknown,Guam,2020-04-25,993,6,66
+Unknown,Illinois,2020-04-25,274,0,17
+Unknown,Kentucky,2020-04-25,35,5,21
+Unknown,Louisiana,2020-04-25,63,0,22
+Unknown,Maine,2020-04-25,2,0,23
+Unknown,Maryland,2020-04-25,0,101,24
+Unknown,Massachusetts,2020-04-25,753,13,25
+Unknown,Michigan,2020-04-25,1102,33,26
+Unknown,Minnesota,2020-04-25,5,0,27
+Unknown,Missouri,2020-04-25,2,0,29
+Unknown,Nevada,2020-04-25,16,0,32
+Unknown,New Hampshire,2020-04-25,6,1,33
+Unknown,New Jersey,2020-04-25,557,0,34
+Unknown,Northern Mariana Islands,2020-04-25,14,2,69
+Unknown,Puerto Rico,2020-04-25,1307,52,72
+Unknown,Rhode Island,2020-04-25,1198,96,44
+Unknown,Utah,2020-04-25,0,1,49
+Unknown,Vermont,2020-04-25,5,0,50
+Unknown,Virgin Islands,2020-04-25,55,3,78
+Unknown,Arkansas,2020-04-26,216,0,05
+Unknown,Colorado,2020-04-26,172,0,08
+Unknown,Connecticut,2020-04-26,522,0,09
+Unknown,Delaware,2020-04-26,9,0,10
+Unknown,Georgia,2020-04-26,622,0,13
+Unknown,Guam,2020-04-26,993,6,66
+Unknown,Illinois,2020-04-26,308,0,17
+Unknown,Kentucky,2020-04-26,13,0,21
+Unknown,Louisiana,2020-04-26,64,0,22
+Unknown,Maine,2020-04-26,2,0,23
+Unknown,Maryland,2020-04-26,0,119,24
+Unknown,Massachusetts,2020-04-26,807,14,25
+Unknown,Michigan,2020-04-26,1115,34,26
+Unknown,Minnesota,2020-04-26,7,0,27
+Unknown,Nebraska,2020-04-26,0,1,31
+Unknown,New Hampshire,2020-04-26,5,1,33
+Unknown,New Jersey,2020-04-26,681,0,34
+Unknown,Northern Mariana Islands,2020-04-26,14,2,69
+Unknown,Puerto Rico,2020-04-26,1371,53,72
+Unknown,Rhode Island,2020-04-26,1109,111,44
+Unknown,Utah,2020-04-26,0,1,49
+Unknown,Vermont,2020-04-26,5,0,50
+Unknown,Virgin Islands,2020-04-26,57,4,78
