@@ -2989,8 +2989,7 @@ fips,county,state,country,date,latitude,longitude,confirmed,deaths,recovered,act
 53065,Stevens,Washington,US,2020-03-23,48.40035475,-117.8542701,1,0,0,0
 53067,Thurston,Washington,US,2020-03-23,46.9291895,-122.82906559999998,11,0,0,0
 53069,Wahkiakum,Washington,US,2020-03-23,46.2918004,-123.4250831,0,0,0,0
-53071,Walla Walla,Washington,US,2020-03-23,46.23040051,-118.47755390000002,0,0,0,0
-53071,Walla Walla County,Washington,US,2020-03-23,46.23040051,-118.47755390000002,1,0,0,0
+53071,Walla Walla,Washington,US,2020-03-23,46.23040051,-118.47755390000002,1,0,0,0
 53073,Whatcom,Washington,US,2020-03-23,48.82227976,-121.74900179999999,48,2,0,0
 53075,Whitman,Washington,US,2020-03-23,46.900225230000004,-117.52417630000001,2,0,0,0
 53077,Yakima,Washington,US,2020-03-23,46.45738485999999,-120.73801259999998,16,0,0,0
@@ -3176,5 +3175,4 @@ NA,Unassigned,Rhode Island,US,2020-03-23,0,0,5,0,0,0
 NA,Unassigned,Tennessee,US,2020-03-23,0,0,54,0,0,0
 NA,Unassigned,Vermont,US,2020-03-23,0,0,0,3,0,0
 NA,Unassigned,Washington,US,2020-03-23,0,0,145,0,0,0
-NA,Unassigned,Wuhan Evacuee,US,2020-03-23,0,0,4,0,0,0
 NA,NA,Puerto Rico,US,2020-03-23,18.2208,-66.5901,31,2,0,0
